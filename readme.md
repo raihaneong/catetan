@@ -70,12 +70,89 @@ palet-warna = [https://www.happyhues.co/](https://www.happyhues.co/),[https://co
 VIDEO-EDITING = [https://origami.design/](https://origami.design/), descript
 
 # code
+## **front-end**
 
-## front-end
+3D = [https://spline.design/](https://spline.design/)
 
-## back-end
+metatags = [https://metatags.io/](https://metatags.io/)
 
-## other
+checklist = [https://frontendchecklist.io/](https://frontendchecklist.io/), [https://www.checklist.design/](https://www.checklist.design/), [https://www.designsystemchecklist.com/](https://www.designsystemchecklist.com/)
+
+HTML = [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/), [https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html](https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html), [https://htmldog.com/](https://htmldog.com/)
+
+CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
+
+CSS-play = [https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://www.flexboxdefense.com/](http://www.flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
+
+CSS-tips = [https://moderncss.dev/](https://moderncss.dev/)
+
+CSS-cubic-bezier = [easings.net](https://easings.net/)
+
+CSS-pixel = [https://www.pixelartcss.com/](https://www.pixelartcss.com/)
+
+CSS-animation = [https://animista.net/](https://animista.net/), [https://animate.style/](https://animate.style/), [https://keyframes.app/](https://keyframes.app/), [https://www.minimamente.com/project/magic/](https://www.minimamente.com/project/magic/), [https://whirl.netlify.app/](https://whirl.netlify.app/), [https://loading.io](https://loading.io/)
+
+CSS-bem = [https://9elements.com/bem-cheat-sheet/](https://9elements.com/bem-cheat-sheet/)
+
+CSS-challenge = [https://cssbattle.dev/](https://cssbattle.dev/), [https://100dayscss.com/](https://100dayscss.com/), [https://www.codewars.com/dashboard](https://www.codewars.com/dashboard)
+
+CSS-grid = [https://www.layoutit.com/cn](https://www.layoutit.com/cn), [https://griddy.io/](https://griddy.io/), [https://cssgr.id/](https://cssgr.id/), [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/), [https://gridbyexample.com/](https://gridbyexample.com/)
+
+CSS-flexbox = [https://loading.io/flexbox/](https://loading.io/flexbox/)
+
+CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
+
+CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
+
+JS-dom = [https://htmldom.dev/](https://htmldom.dev/)
+
+JS-utility = [https://1loc.dev/](https://1loc.dev/)
+
+JS-learn = [https://javascript.info/](https://javascript.info/)
+
+web-background = [https://webgradients.com/](https://webgradients.com/), [https://bgjar.com/](https://bgjar.com/)
+
+Testing = cypress, enzymjs, jest
+
+## **back-end**
+
+database = [https://dynobird.com/](https://dynobird.com/), [https://drawsql.app/](https://drawsql.app/)
+
+API= publicapis, [directus.io](https://directus.io/)
+
+NPM = [Bundlephobia.com](http://bundlephobia.com/),
+
+## **other**
+
+ultimate-resource = [https://www.devresourc.es/,](https://www.devresourc.es/) [designresourc.es](http://designresourc.es/), [smalldev.tools](https://smalldev.tools/), [omatsuri.app](https://omatsuri.app/), [https://tiny-helpers.dev/](https://tiny-helpers.dev/)
+
+ultimate-learn = [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
+
+readme = [https://readme.so/id/editor](https://readme.so/id/editor)
+
+usage = [https://uses.tech/](https://uses.tech/)
+
+documentation = [overapi.com](http://overapi.com/), [devdocs.io](http://devdocs.io/), [devhints.io](http://devhints.io/), [https://ihateregex.io/](https://ihateregex.io/)
+
+documentation = [https://explainshell.com/](https://explainshell.com/)
+
+Learn-by-games=  codingame, coregame, [codecombat.com](http://codecombat.com/), [education.minecraft.net](http://education.minecraft.net/), [tynker.com](http://tynker.com/), [checkio.org](http://checkio.org/), jsrobot, robocode, checkio, codingame, jsdares, codecombat, flexboxfroggy, cssdiner, elevatorsaga, crunchzilla, sql murder mystery, warriorjs, [https://www.codewars.com/dashboard](https://www.codewars.com/dashboard)
+
+createSnippet = [Carbon.now.sh](http://carbon.now.sh/), [ray.so](http://ray.so/), 
+
+reference = [https://mobbin.design/browse/android/apps](https://mobbin.design/browse/android/apps), [https://stackshare.io/stacks](https://stackshare.io/stacks)
+
+socialSearchEngine = [https://www.social-searcher.com/](https://www.social-searcher.com/)
+
+whatsTheDifference = [https://thisthat.dev/](https://thisthat.dev/)
+
+screen-size = [screensizemap.com](https://screensizemap.com/)
+
+learn-math = [https://projecteuler.net/](https://projecteuler.net/)
+
+git = [https://learngitbranching.js.org/,](https://learngitbranching.js.org/) [https://readme.so/id](https://readme.so/id)
+
+git= Ohshitgit
 
 
 
