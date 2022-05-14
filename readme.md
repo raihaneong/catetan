@@ -1,7 +1,55 @@
-fasdfasdf
-
-ini hari kedua pake git, masalah https/proxy udah selesai
-ternyata solusinya adalah 'git config --global --unset https.proxy'
+# Table of Contents
 
 
-fix lah yaa
+- [random stuff](#random-stuff)
+- [design](#design)
+- [code](#code)
+    - [front-end](#front-end)
+    - [back-end](#back-end)
+    - [other](#other)
+---
+
+
+# random stuff
+
+# design
+
+# code
+
+## front-end
+
+## back-end
+
+## other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
