@@ -3,10 +3,18 @@
 
 - [random stuff](#random-stuff)
 - [design](#design)
-- [code](#code)
+- [Programming](#Programming)
     - [front-end](#front-end)
+        - [CSS](#css)
+        - [JavaScript](#javascript)
     - [back-end](#back-end)
     - [other](#other)
+- [Inspiration](#Inspiration)
+- [algorithms](#algorithms)
+- [database](#database)
+- [free-stuff](#free-stuff)
+- [article](#article)
+
 - [Kuliah](#Kuliah)
 ---
 
@@ -28,6 +36,49 @@ random-logo= [https://logoipsum.com/](https://logoipsum.com/)
 Text-to-Speech= [https://notevibes.com/](https://notevibes.com/), [https://fakeyou.com/](https://fakeyou.com/)
 
 vocal-instrument-separate = [https://www.lalal.ai/](https://www.lalal.ai/)
+
+Rakit_pc= pcpartpicker
+
+Founder= foundercontent
+
+Tools= neontools, uberduckai
+
+Bussinesnamegenerator= Namelix
+
+Brand= brandingstyleguide
+
+Bikin_rumah= roomstyler
+
+Bikin_kemasan_produk= Templatemaker.nl
+
+Bapenda jabar
+
+IP-tracking= grabify.link
+
+Unknown= ihateregex.io
+
+Komparasi_file= textcompare
+
+Kombo_keyboard= Shortcuts.design
+
+Tanpa_install= neverinstall.com
+
+AI video= synthesia.io, rephrase.ai, spik.ai, dictation.io
+
+Cari_muka_orang= pimpeyes
+
+Papan_tulis= witeboard.com
+
+Bagi_file= wetransfer.com
+
+Emosi= Emotionchart
+
+Langganan= seakunid
+
+Video_quote= Playphraseme
+
+random-logo= https://logoipsum.com/
+
 
 
 
@@ -70,8 +121,57 @@ palet-warna = [https://www.happyhues.co/](https://www.happyhues.co/),[https://co
 
 VIDEO-EDITING = [https://origami.design/](https://origami.design/), descript
 
-# code
+--
+
+Tool.graphics
+auto_gambar= https://www.autodraw.com/
+Design_system= humaninterfaceguidelines, designsystemrepo.com, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem
+Fileconverter= cloudconvert.com
+Jual= creativemarket, ui8net, uplab, envato, template master, canva, etsy, designcrowd, 99design, fiverr
+Inspiration = designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, awwwards, mobbin.design
+3D= spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
+Mockup= Mockupphone, shotsnapp, mockvideo, vecteezy, rotato.xyz, thing.morflax.com, artboartstudio, mockupbro, devicesshots, previewedapp, threedio, smartmockups, screenly, mockups-design, free-mockup, graphicburger, mockupworld, graphberry, freepik, ls.graphics, mckups, placeit.net, pixeden, mockuuups.studio, mockup.ceacle.com, medialoot, freebiesbug, cssauthor, unblast, rawpixel,
+Background= coolbackground.io, transparenttexture, heropatterns, https://haikei.app/ https://www.svgbackgrounds.com/ https://gradienta.io/ https://www.visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
+Convert_vector= Vectorizerio
+Ai_image_resolution= letsenhance.io
+Image_size= tinypng
+Fontpair= fontjoy, fontpair.co
+Font= metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
+Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
+Gambar_organ_tubuh= Servier medical art
+Iklan_produk= breakoutclips
+Packing= qualita_company
+Perkecil_size_file= tinypng.com
+Pixel= https://www.pixelartcss.com/
+Svg= svgomg
+Foto/vid= Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8, Isoflat, rawpixel, amritpaldesign, appitgdigital, isometriclove, Freepik, vecteezy, handzdesign, pixabay,isoflat, graphicburger, pixeden
+Icon= nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlineicons.com, iconscout.com, animaticons, akaricons, thenounproject, https://www.iconfinder.com/, https://systemuicons.com/, iconsaxio, lordicon, , Iconstore, iconfinder, streamlineicon, lordicon, remixicon, appitgdigital, ikonate, fontawesome.
+PNG= Pngpix , favpng, Subpng, pngtree, cleanpng.
+Illustrations= drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/
+UI/UX= app.uxcel.com, lawsofux, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/ https://www.dailyui.co/, https://userpersona.design/
+https://penpot.app/
+Warna= khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
+Gradient= meshgradient, cssgradient.io,
+asset-music= https://mixkit.co/
+asset-video= coverr.co
+Animasi= createwithflow, Render forest, animaker, gsap, greensock
+Edit_opening_video= panzoid
+Subtitle= kapwing, veed.io, descript
+Motiongraphics= lottiefiles
+VIDEO-EDITING = https://origami.design/, descript
+Edit_video_online= veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
+Edit_foto= fotor, photopea
+Apus_objek= theinpaint, removebg, Nvidia inpainting
+Photo_tracking= pixsy
+Make_music= onlinesequencer, mubert.com https://samplefocus.com/ vocalremoverorg, lalal.ai,
+Draw_online= sketch.io, photopea, fotor
+Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
+
+--
+
+# Programming
 ## **front-end**
+
 
 3D = [https://spline.design/](https://spline.design/)
 
@@ -81,6 +181,14 @@ checklist = [https://frontendchecklist.io/](https://frontendchecklist.io/), [htt
 
 HTML = [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/), [https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html](https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html), [https://htmldog.com/](https://htmldog.com/)
 
+
+
+web-background = [https://webgradients.com/](https://webgradients.com/), [https://bgjar.com/](https://bgjar.com/)
+
+Testing = cypress, enzymjs, jest
+
+
+### **CSS**
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
 
 CSS-play = [https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://www.flexboxdefense.com/](http://www.flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
@@ -105,15 +213,15 @@ CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
 
 CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
 
+
+### **Javascript**
 JS-dom = [https://htmldom.dev/](https://htmldom.dev/)
 
 JS-utility = [https://1loc.dev/](https://1loc.dev/)
 
 JS-learn = [https://javascript.info/](https://javascript.info/)
 
-web-background = [https://webgradients.com/](https://webgradients.com/), [https://bgjar.com/](https://bgjar.com/)
 
-Testing = cypress, enzymjs, jest
 
 ## **back-end**
 
@@ -155,8 +263,72 @@ git = [https://learngitbranching.js.org/,](https://learngitbranching.js.org/) [h
 
 git= Ohshitgit
 
+--
+
+Tools= https://smalldev.tools/, https://omatsuri.app/
+Responsive-Web= https://responsively.app/
+Frontend= Gitignoreio, frontendchecklistio
+Naming= codeelf
+responsive_design= Screensizemap.com,
+Website_template= nicepage, colorlib, freecss, tooplate, ostemplate
+Learn= Thisvsthat, webcomponents.org,
+HTML= Htmldog, htmlcheatsheet.com, htmldom.dev https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html
+JavaScript= https://1loc.dev/ https://www.javascripting.com/?sort=rating https://learnxinyminutes.com/docs/javascript/
+NPM= bundlephobia,
+React_animation_demo= https://react-animations.herokuapp.com/
+JavaScript_libraries= fullpagejs, animejs, threejs, screenfulljs, leafletjs, popperjs
+Animation_CSS= easings.net
+CSS= css-tricks, cssbattle, flexboxfroggy, cssdiner, bemcheatsheet, cssdiner, rupl-unfold, cssgridgarden, flexboxdefense, victordarras-cssgame, cssfiltergenerator, kerframeapp, Animateresource, whirlnetlify, minimamente, jonsuh-hamburger, animate.style, ianlunn-hover, greensock-gsap, zurb-motionui
+CSS_layout= gridlayoutit, csslayout.io, griddy.io, purecsslayouts, CSSgridgenerator, loadingioflexbox, cssgr.id, gridbyexample,
+Cssbackground= https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com CSSpixel= https://www.pixelartcss.com/
+HTML CSS generator= webcode.tools, tridiv.com
+SVG= nucleo.app
+Websitecheck= downforeveryoneorjustme.com
+SQL-API= https://directus.io/
+Git & Github
+https://learngitbranching.js.org/
+https://readme.so/id
+git= Ohshitgit
+Tes
+Tes= enrollapp, usertesting
+Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle, jsbin, vscode.dev
+
+
+--
+
+# Inspiration
+
+game-in-web = https://donitz.itch.io/
+
+# algorithms
+
+# database
+
+# free-stuff
+
+# article
+
 
 # Kuliah
+
+Cek_data_mahasiswa= pddikti
+
+turinit Research= https://www.connectedpapers.com/
+
+Bikin_dafpus= mendeley
+
+Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, core.ac.uk
+
+Jurnal= https://zlib.org/https://e-resources.perpusnas.go.id/
+http://isjd.pdii.lipi.go.id/ https://garuda.ristekbrin.go.id/https://scholar.google.co.id/schhp?hl=idhttps://moraref.kemenag.go.id/ --- https://www.sciencedirect.com/https://scholar.google.com/https://doaj.org/https://www.jstor.org/https://www.iosrjournals.org/
+
+
+Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, core.ac.uk Jurnal/artikel= bahasa_indo https://e-resources.perpusnas.go.id/http://isjd.pdii.lipi.go.id/https://garuda.kemdikbud.go.id/https://scholar.google.co.id/schhp?hl=idhttps://moraref.kemenag.go.id/
+
+---bahasa_inggris https://sinta.kemdikbud.go.id/journalshttps://www.sinta.ristekbrin.go.id/journals/detail?id=689https://www.sciencedirect.com/https://scholar.google.com/https://doaj.org/https://www.jstor.org/https://www.iosrjournals.org/https://www.scopus.com/sources
+
+
+Nulis= shortlyai, rytr.me, speedwrite
 
 <img src="pertanyaan-skripsi.jpeg" alt="pertanyaan-skripsi" width="250"/>
 
