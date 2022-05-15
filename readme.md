@@ -509,7 +509,7 @@ https://learnxinyminutes.com/docs/javascript/
 
 https://supabase.com/
 
-https://rhntp.grafana.net/a/grafana-easystart-app/?src=hg_notification_trial
+https://grafana.com/
 
 https://web.dev/
 
