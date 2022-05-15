@@ -118,6 +118,7 @@ VIDEO-EDITING = [https://origami.design/](https://origami.design/), descript
 # Programming
 ## **front-end**
 
+
 3D = [https://spline.design/](https://spline.design/)
 
 metatags = [https://metatags.io/](https://metatags.io/)
@@ -126,6 +127,14 @@ checklist = [https://frontendchecklist.io/](https://frontendchecklist.io/), [htt
 
 HTML = [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/), [https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html](https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html), [https://htmldog.com/](https://htmldog.com/)
 
+
+
+web-background = [https://webgradients.com/](https://webgradients.com/), [https://bgjar.com/](https://bgjar.com/)
+
+Testing = cypress, enzymjs, jest
+
+
+### **CSS**
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
 
 CSS-play = [https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://www.flexboxdefense.com/](http://www.flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
@@ -150,15 +159,15 @@ CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
 
 CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
 
+
+### **Javascript**
 JS-dom = [https://htmldom.dev/](https://htmldom.dev/)
 
 JS-utility = [https://1loc.dev/](https://1loc.dev/)
 
 JS-learn = [https://javascript.info/](https://javascript.info/)
 
-web-background = [https://webgradients.com/](https://webgradients.com/), [https://bgjar.com/](https://bgjar.com/)
 
-Testing = cypress, enzymjs, jest
 
 ## **back-end**
 
