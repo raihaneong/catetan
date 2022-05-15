@@ -3,10 +3,12 @@
 
 - [random stuff](#random-stuff)
 - [design](#design)
-- [code](#code)
+- [Programming](#Programming)
     - [front-end](#front-end)
     - [back-end](#back-end)
     - [other](#other)
+- [Inspiration](#Inspiration)
+
 - [Kuliah](#Kuliah)
 ---
 
@@ -28,6 +30,49 @@ random-logo= [https://logoipsum.com/](https://logoipsum.com/)
 Text-to-Speech= [https://notevibes.com/](https://notevibes.com/), [https://fakeyou.com/](https://fakeyou.com/)
 
 vocal-instrument-separate = [https://www.lalal.ai/](https://www.lalal.ai/)
+
+Rakit_pc= pcpartpicker
+
+Founder= foundercontent
+
+Tools= neontools, uberduckai
+
+Bussinesnamegenerator= Namelix
+
+Brand= brandingstyleguide
+
+Bikin_rumah= roomstyler
+
+Bikin_kemasan_produk= Templatemaker.nl
+
+Bapenda jabar
+
+IP-tracking= grabify.link
+
+Unknown= ihateregex.io
+
+Komparasi_file= textcompare
+
+Kombo_keyboard= Shortcuts.design
+
+Tanpa_install= neverinstall.com
+
+AI video= synthesia.io, rephrase.ai, spik.ai, dictation.io
+
+Cari_muka_orang= pimpeyes
+
+Papan_tulis= witeboard.com
+
+Bagi_file= wetransfer.com
+
+Emosi= Emotionchart
+
+Langganan= seakunid
+
+Video_quote= Playphraseme
+
+random-logo= https://logoipsum.com/
+
 
 
 
@@ -70,7 +115,7 @@ palet-warna = [https://www.happyhues.co/](https://www.happyhues.co/),[https://co
 
 VIDEO-EDITING = [https://origami.design/](https://origami.design/), descript
 
-# code
+# Programming
 ## **front-end**
 
 3D = [https://spline.design/](https://spline.design/)
@@ -155,8 +200,31 @@ git = [https://learngitbranching.js.org/,](https://learngitbranching.js.org/) [h
 
 git= Ohshitgit
 
+# Inspiration
+
+game-in-web = https://donitz.itch.io/
+
 
 # Kuliah
+
+Cek_data_mahasiswa= pddikti
+
+turinit Research= https://www.connectedpapers.com/
+
+Bikin_dafpus= mendeley
+
+Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, core.ac.uk
+
+Jurnal= https://zlib.org/https://e-resources.perpusnas.go.id/
+http://isjd.pdii.lipi.go.id/ https://garuda.ristekbrin.go.id/https://scholar.google.co.id/schhp?hl=idhttps://moraref.kemenag.go.id/ --- https://www.sciencedirect.com/https://scholar.google.com/https://doaj.org/https://www.jstor.org/https://www.iosrjournals.org/
+
+
+Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, core.ac.uk Jurnal/artikel= bahasa_indo https://e-resources.perpusnas.go.id/http://isjd.pdii.lipi.go.id/https://garuda.kemdikbud.go.id/https://scholar.google.co.id/schhp?hl=idhttps://moraref.kemenag.go.id/
+
+---bahasa_inggris https://sinta.kemdikbud.go.id/journalshttps://www.sinta.ristekbrin.go.id/journals/detail?id=689https://www.sciencedirect.com/https://scholar.google.com/https://doaj.org/https://www.jstor.org/https://www.iosrjournals.org/https://www.scopus.com/sources
+
+
+Nulis= shortlyai, rytr.me, speedwrite
 
 <img src="pertanyaan-skripsi.jpeg" alt="pertanyaan-skripsi" width="250"/>
 
