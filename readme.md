@@ -264,6 +264,34 @@ git = [https://learngitbranching.js.org/,](https://learngitbranching.js.org/) [h
 git= Ohshitgit
 
 --
+Web_tools= hiddentools.dev
+Understanding-frontend= Thisvsthat.dev, webcomponents.org https://uses.tech/,
+Tentang_shell= explainshell.com Documentation,
+Cheat_sheet= overapi.com, devdocs.io, devhints.io,, https://ihateregex.io/
+Improve_web= caniuse.com, devhints.io, Bundlephobia.com,
+Tes_frontend= enzymjs, jest, cypress
+Tes_website= caniuse.com, builtwith.com, pagespeedinsights, https://nibbler.silktide.com/
+Inspiration= siteinspire, designresourc.es, https://www.saasframe.io/
+Web_sama= similarsites.com
+Fileconverter= cloudconvert.com
+Artificial intelligence= tensorflow
+API= publicapis, insomniarest.
+Node= reactsimpleimg
+Code_Game= codingame, coregame, codecombat.com, education.minecraft.net, tynker.com, checkio.org
+Learncode_by_game= jdrobot, robocode, checkio, codingame, jsdares, codecombat, screeps, flexboxfroggy, cssdiner, untrustedjavascript, elevatorsaga, crunchzilla, sql murder mystery, warriorjs.
+Code_snippet= Carbon.now.sh, ray.so,
+Backend= graphconnect, drawsql, faunadb, dbdesigner
+Build_app= https://teta.so/, glideapps, bravoatudioapp, draftbit, animaapp, sketch2react,
+Build_webapp= bubble.io
+Belajar_code= 100dayscss, top,geeksforgeeks, cssbattle, , frontend practice, codingchallenges, stylestage, frontend mentor, codewars, hackr.io, Code4startup.com
+Bikin_web= graphite.space, Webflow, wix, wordpress, godaddy, weebly, typedream,
+Trend= mobbindesign, Gtrend, audience insight, socialsearcher
+SEO_tools= semrush, googlesearchconsole, ubersuggest, Yoast, answerthepublic, gtmetrix, seoquake, metatags, dailypurposes, notjustanalytics, hashtagstacks, all-hashtag, ingramer,
+
+--
+
+
+--
 
 Tools= https://smalldev.tools/, https://omatsuri.app/
 Responsive-Web= https://responsively.app/
@@ -356,6 +384,8 @@ Nulis= shortlyai, rytr.me, speedwrite
 21. Apakah kesimpulan penelitian ini sudah menjawab rumusan masalah?
 
 
+
+[back to top](#table-of-contents)
 
 
 
