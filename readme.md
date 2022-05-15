@@ -5,6 +5,8 @@
 - [design](#design)
 - [Programming](#Programming)
     - [front-end](#front-end)
+        - [CSS](#css)
+        - [JavaScript](#javascript)
     - [back-end](#back-end)
     - [other](#other)
 - [Inspiration](#Inspiration)
