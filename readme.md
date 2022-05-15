@@ -10,6 +10,10 @@
     - [back-end](#back-end)
     - [other](#other)
 - [Inspiration](#Inspiration)
+- [algorithms](#algorithms)
+- [database](#database)
+- [free-stuff](#free-stuff)
+- [article](#article)
 
 - [Kuliah](#Kuliah)
 ---
@@ -214,6 +218,14 @@ git= Ohshitgit
 # Inspiration
 
 game-in-web = https://donitz.itch.io/
+
+# algorithms
+
+# database
+
+# free-stuff
+
+# article
 
 
 # Kuliah
