@@ -9,6 +9,7 @@
         - [JavaScript](#javascript)
     - [back-end](#back-end)
     - [other](#other)
+- [deploy](#deploy)
 - [Inspiration](#Inspiration)
 - [algorithms](#algorithms)
 - [database](#database)
@@ -395,6 +396,18 @@ Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle,
 
 --
 
+
+# DEPLOY
+
+https://dashboard.render.com/
+
+https://www.heroku.com/
+
+https://www.netlify.com/
+
+https://vercel.com/
+
+
 # Inspiration
 
 game-in-web = https://donitz.itch.io/
@@ -512,20 +525,6 @@ https://aksel.co.id/app/cv/dashboard
 
 
 
-
----
-# ini dari bookmark-chrome
-
-
-DEPLOY
-
-https://dashboard.render.com/
-
-https://www.heroku.com/
-
-https://www.netlify.com/
-
-https://vercel.com/
 
 
 
