@@ -188,6 +188,17 @@ web-background = [https://webgradients.com/](https://webgradients.com/), [https:
 Testing = cypress, enzymjs, jest
 
 
+
+https://webdevelopermentor.com/challenges/notifications-menu
+
+https://spline.design/
+
+https://mantine.dev/
+
+
+
+
+
 ### **CSS**
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
 
@@ -214,6 +225,29 @@ CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
 CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
 
 
+https://github.com/IanLunn/Hover/blob/master/css/hover.css
+
+https://grid.malven.co/
+
+https://cssgrid-generator.netlify.app/
+
+https://animate.style/
+
+https://templatemo.com/
+
+https://designmodo.com/css-website-designs/
+
+https://100dayscss.com/
+
+
+https://dailycssdesign.com/
+
+https://cssbud.com/css-generator/css-glow-generator/
+
+https://shadows.brumm.af/
+	
+
+
 ### **Javascript**
 JS-dom = [https://htmldom.dev/](https://htmldom.dev/)
 
@@ -221,6 +255,18 @@ JS-utility = [https://1loc.dev/](https://1loc.dev/)
 
 JS-learn = [https://javascript.info/](https://javascript.info/)
 
+
+https://www.jsv9000.app/
+
+https://javascript.info/
+
+https://javascripttutorial.net/
+
+https://learn-js.org/en/
+
+https://javascript30.com/
+
+https://jstherightway.org/
 
 
 ## **back-end**
@@ -230,6 +276,11 @@ database = [https://dynobird.com/](https://dynobird.com/), [https://drawsql.app/
 API= publicapis, [directus.io](https://directus.io/)
 
 NPM = [Bundlephobia.com](http://bundlephobia.com/),
+
+https://regexr.com/
+
+https://pie.dev/
+
 
 ## **other**
 
@@ -433,60 +484,6 @@ Nulis= shortlyai, rytr.me, speedwrite
 
 ---
 # ini dari bookmark-chrome
-
-FRONT-END
-
-https://webdevelopermentor.com/challenges/notifications-menu
-
-https://spline.design/
-
-https://mantine.dev/
-
-JAVASCRIPT
-
-https://www.jsv9000.app/
-
-https://javascript.info/
-
-https://javascripttutorial.net/
-
-https://learn-js.org/en/
-
-https://javascript30.com/
-
-https://jstherightway.org/
-
-
-CSS
-
-
-https://github.com/IanLunn/Hover/blob/master/css/hover.css
-
-https://grid.malven.co/
-
-https://cssgrid-generator.netlify.app/
-
-https://animate.style/
-
-https://templatemo.com/
-
-https://designmodo.com/css-website-designs/
-
-https://100dayscss.com/
-
-
-https://dailycssdesign.com/
-
-https://cssbud.com/css-generator/css-glow-generator/
-
-https://shadows.brumm.af/
-	
-
-BAKCEND
-
-https://regexr.com/
-
-https://pie.dev/
 
 WORK
 
