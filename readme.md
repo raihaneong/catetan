@@ -271,7 +271,6 @@ https://jstherightway.org/
 
 ## **back-end**
 
-database = [https://dynobird.com/](https://dynobird.com/), [https://drawsql.app/](https://drawsql.app/)
 
 API= publicapis, [directus.io](https://directus.io/)
 
@@ -399,6 +398,10 @@ https://algo.monster/
 https://supabase.com/
 
 https://grafana.com/
+
+https://dynobird.com/
+
+https://drawsql.app/
 
 # free-stuff
 
