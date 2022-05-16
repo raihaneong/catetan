@@ -86,15 +86,15 @@ random-logo= https://logoipsum.com/
 # design
 
 
-Design_system= humaninterfaceguidelines, [designsystemrepo.com](http://designsystemrepo.com/), atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, [https://material.io/](https://material.io/), [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/), [https://atlassian.design/](https://atlassian.design/), [https://www.carbondesignsystem.com/](https://www.carbondesignsystem.com/), [https://www.lightningdesignsystem.com/](https://www.lightningdesignsystem.com/), [https://www.darkmodedesign.com/](https://www.darkmodedesign.com/)
+Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, https://material.io/, https://developer.apple.com/design/human-interface-guidelines/, https://atlassian.design/, https://www.carbondesignsystem.com/, https://www.lightningdesignsystem.com/, https://www.darkmodedesign.com/
 
-auto_gambar= [https://www.autodraw.com/](https://www.autodraw.com/) 
+auto_gambar= https://www.autodraw.com/
 
-animated-drawing = [https://sketch.metademolab.com/](https://sketch.metademolab.com/)
+animated-drawing = https://sketch.metademolab.com/
 
-asset-music= [https://mixkit.co/](https://mixkit.co/)
+asset-music= https://mixkit.co/
 
-asset-video= [coverr.co](http://coverr.co/)
+asset-video= http://coverr.co/
 
 Abstract = Tool.graphics 
 
