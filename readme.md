@@ -16,6 +16,7 @@
 - [article](#article)
 
 - [Kuliah](#Kuliah)
+- [work](#work)
 ---
 
 
@@ -502,18 +503,18 @@ Nulis= shortlyai, rytr.me, speedwrite
 
 [back to top](#table-of-contents)
 
-
-
-
----
-# ini dari bookmark-chrome
-
-WORK
+# WORK
 
 https://resume.io/app
 
 https://aksel.co.id/app/cv/dashboard
 
+
+
+
+
+---
+# ini dari bookmark-chrome
 
 
 DEPLOY
