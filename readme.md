@@ -296,9 +296,9 @@ https://jstherightway.org/
 ## **back-end**
 
 
-API= publicapis, https://directus.io/
+API= publicapis, [directus.io](https://directus.io/)
 
-NPM = http://bundlephobia.com/,
+NPM = [Bundlephobia.com](http://bundlephobia.com/),
 
 https://regexr.com/
 
