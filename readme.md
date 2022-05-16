@@ -169,6 +169,26 @@ Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 
 --
 
+https://kleki.com/
+
+UI/UX
+
+https://material.io/
+
+https://www.geometrize.co.uk/
+
+https://stellarium-web.org/
+
+https://www.solarsystemscope.com/
+
+https://stars.chromeexperiments.com/
+
+https://www.dailyui.co/
+
+https://advntr.co/
+
+
+
 # Programming
 ## **front-end**
 
@@ -493,28 +513,6 @@ WORK
 https://resume.io/app
 
 https://aksel.co.id/app/cv/dashboard
-
-
-DESIGN
-
-https://kleki.com/
-
-UI/UX
-
-https://material.io/
-
-https://www.geometrize.co.uk/
-
-https://stellarium-web.org/
-
-https://www.solarsystemscope.com/
-
-https://stars.chromeexperiments.com/
-
-https://www.dailyui.co/
-
-https://advntr.co/
-
 
 
 
