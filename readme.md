@@ -100,21 +100,21 @@ Abstract = Tool.graphics
 
 Apus_objek= theinpaint, removebg, Nvidia inpainting 
 
-Background= [coolbackground.io](http://coolbackground.io/), transparenttexture, heropatterns, [https://haikei.app/](https://haikei.app/) [https://www.svgbackgrounds.com/](https://www.svgbackgrounds.com/) [https://gradienta.io/](https://gradienta.io/) [https://www.visiwig.com/patterns/](https://www.visiwig.com/patterns/) [https://patternpad.com/](https://patternpad.com/) [https://bgjar.com/](https://bgjar.com/) [https://pattern.monster](https://pattern.monster/) 
+Background= http://coolbackground.io/, transparenttexture, heropatterns, https://haikei.app/ https://www.svgbackgrounds.com/, https://gradienta.io/, https://www.visiwig.com/patterns/, https://patternpad.com/, https://bgjar.com/, https://pattern.monster/
 
-Edit_video_online= [veed.io](http://veed.io/), davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot 
+Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot 
 
-Font-view = [https://type-scale.com/](https://type-scale.com/), [https://wordmark.it/](https://wordmark.it/)
+Font-view = https://type-scale.com/, https://wordmark.it/
 
-Fontpair= fontjoy, [fontpair.co](http://fontpair.co/) 
+Fontpair= fontjoy, http://fontpair.co/
 
-Icon = [https://tablericons.com/](https://tablericons.com/), [https://tabler-icons.io/](https://tabler-icons.io/)
+Icon = https://tablericons.com/, https://tabler-icons.io/
 
 Motiongraphics= lottiefiles 
 
-Make_music= onlinesequencer, [mubert.com](http://mubert.com/) [https://samplefocus.com/](https://samplefocus.com/) vocalremoverorg, [lalal.ai](http://lalal.ai/),
+Make_music= onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocalremoverorg, http://lalal.ai/,
 
-Subtitle= kapwing, [veed.io](http://veed.io/), descript
+Subtitle= kapwing, http://veed.io/, descript
 
 
 palet-warna = https://www.happyhues.co/, https://colors.dopely.top/
