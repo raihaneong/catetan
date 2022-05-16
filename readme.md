@@ -273,11 +273,11 @@ https://shadows.brumm.af/
 
 
 ### **Javascript**
-JS-dom = [https://htmldom.dev/](https://htmldom.dev/)
+JS-dom = https://htmldom.dev/
 
-JS-utility = [https://1loc.dev/](https://1loc.dev/)
+JS-utility = https://1loc.dev/
 
-JS-learn = [https://javascript.info/](https://javascript.info/)
+JS-learn = https://javascript.info/
 
 
 https://www.jsv9000.app/
