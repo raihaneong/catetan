@@ -516,7 +516,6 @@ Nulis= shortlyai, rytr.me, speedwrite
 
 
 
-[back to top](#table-of-contents)
 
 # WORK
 
@@ -525,6 +524,8 @@ https://resume.io/app
 https://aksel.co.id/app/cv/dashboard
 
 
+
+[back to top](#table-of-contents)
 
 
 
