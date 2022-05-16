@@ -197,17 +197,17 @@ https://www.useronboard.com/onboarding-ux-patterns/
 ## **front-end**
 
 
-3D = [https://spline.design/](https://spline.design/)
+3D = https://spline.design/
 
-metatags = [https://metatags.io/](https://metatags.io/)
+metatags = https://metatags.io/
 
-checklist = [https://frontendchecklist.io/](https://frontendchecklist.io/), [https://www.checklist.design/](https://www.checklist.design/), [https://www.designsystemchecklist.com/](https://www.designsystemchecklist.com/)
+checklist = https://frontendchecklist.io/, https://www.checklist.design/, https://www.designsystemchecklist.com/
 
-HTML = [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/), [https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html](https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html), [https://htmldog.com/](https://htmldog.com/)
+HTML = https://htmlcheatsheet.com/, https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html, https://htmldog.com/
 
 
 
-web-background = [https://webgradients.com/](https://webgradients.com/), [https://bgjar.com/](https://bgjar.com/)
+web-background = https://webgradients.com/, https://bgjar.com/
 
 Testing = cypress, enzymjs, jest
 
