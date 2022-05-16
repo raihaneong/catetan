@@ -330,11 +330,52 @@ game-in-web = https://donitz.itch.io/
 
 # algorithms
 
+
+https://leetcode.com/problemset/all/
+
+https://www.geeksforgeeks.org/data-structures/
+
+https://www.techinterviewhandbook.org/
+
+https://www.hackerrank.com/raihneong
+
+https://www.codewars.com/dashboard
+
+https://algo.monster/
+
 # database
+
+https://supabase.com/
+
+https://grafana.com/
 
 # free-stuff
 
+https://freestuff.dev/
+
+https://free-for.dev/#/
+
+https://learnxinyminutes.com/docs/javascript/
+
+https://web.dev/
+
+https://hackr.io/
+
+https://egghead.io/
+
+https://www.profileme.dev/
+
+https://scrimba.com/allcourses?price=free
+
+
 # article
+
+
+https://refactoring.guru/design-patterns/
+
+https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
+
+
 
 
 # Kuliah
@@ -475,19 +516,7 @@ https://www.dailyui.co/
 https://advntr.co/
 
 
-ALGORITHMS
 
-https://leetcode.com/problemset/all/
-
-https://www.geeksforgeeks.org/data-structures/
-
-https://www.techinterviewhandbook.org/
-
-https://www.hackerrank.com/raihneong
-
-https://www.codewars.com/dashboard
-
-https://algo.monster/
 
 DEPLOY
 
@@ -499,34 +528,6 @@ https://www.netlify.com/
 
 https://vercel.com/
 
-FREESTUFF
-
-https://freestuff.dev/
-
-https://free-for.dev/#/
-
-https://learnxinyminutes.com/docs/javascript/
-
-https://supabase.com/
-
-https://grafana.com/
-
-https://web.dev/
-
-https://hackr.io/
-
-https://egghead.io/
-
-https://www.profileme.dev/
-
-https://scrimba.com/allcourses?price=free
-
-
-ARTICLE
-
-https://refactoring.guru/design-patterns/
-
-https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
 
 
 
