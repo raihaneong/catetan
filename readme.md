@@ -116,11 +116,10 @@ Make_music= onlinesequencer, [mubert.com](http://mubert.com/) [https://samplefoc
 
 Subtitle= kapwing, [veed.io](http://veed.io/), descript
 
-ux = [https://lawsofux.com/](https://lawsofux.com/), [https://www.useronboard.com/onboarding-ux-patterns/](https://www.useronboard.com/onboarding-ux-patterns/)
 
-palet-warna = [https://www.happyhues.co/](https://www.happyhues.co/),[https://colors.dopely.top/](https://colors.dopely.top/)
+palet-warna = https://www.happyhues.co/, https://colors.dopely.top/
 
-VIDEO-EDITING = [https://origami.design/](https://origami.design/), descript
+VIDEO-EDITING = https://origami.design/, descript
 
 --
 
@@ -187,6 +186,10 @@ https://stars.chromeexperiments.com/
 https://www.dailyui.co/
 
 https://advntr.co/
+
+https://lawsofux.com 
+
+https://www.useronboard.com/onboarding-ux-patterns/
 
 
 
