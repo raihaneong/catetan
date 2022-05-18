@@ -5,19 +5,6 @@
 
 <marquee> ini catetan</marquee>
 
-<ul>
-    <li><a href="#random-stuff" >random stuff</a>
-        <ul>
-            <li>first child</li>
-            <ul>
-                    <li>
-                        second child
-                    </li>
-            </ul>
-            <li>first child</li>
-        </ul>
-    </li>
-</ul>
 
 
 - [random stuff](#random-stuff)
