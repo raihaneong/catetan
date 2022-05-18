@@ -209,6 +209,8 @@ https://spline.design/
 
 https://mantine.dev/
 
+react-libraries = https://reactlibraries.com/
+
 ### **CSS**
 
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
