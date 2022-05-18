@@ -253,7 +253,6 @@ https://spline.design/
 
 https://mantine.dev/
 
-react-library = https://reactlibraries.com/
 
 
 
@@ -326,8 +325,6 @@ https://learn-js.org/en/
 https://javascript30.com/
 
 https://jstherightway.org/
-
-react-library = https://reactlibraries.com/
 
 
 ## **back-end**
