@@ -21,7 +21,9 @@
 ---
 
 
-# random stuff
+<h1 align="center" style='color: aqua;'>
+    random stuff
+</h1>
 
 human body = [https://smart.servier.com/](https://smart.servier.com/)
 
@@ -83,8 +85,10 @@ random-logo= https://logoipsum.com/
 
 
 
+<h1 align="center" style='color: aqua;'>
+ design
 
-# design
+</h1>
 
 
 Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, https://material.io/, https://developer.apple.com/design/human-interface-guidelines/, https://atlassian.design/, https://www.carbondesignsystem.com/, https://www.lightningdesignsystem.com/, https://www.darkmodedesign.com/
@@ -193,8 +197,10 @@ https://lawsofux.com
 https://www.useronboard.com/onboarding-ux-patterns/
 
 
-
-# Programming
+<h1 align="center" style='color: aqua;'>
+ Programming
+    
+</h1>
 ## **front-end**
 
 
@@ -402,8 +408,10 @@ Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle,
 
 --
 
-
-# DEPLOY
+<h1 align="center" style='color: aqua;'>
+ DEPLOY
+ 
+</h1>
 
 https://dashboard.render.com/
 
@@ -414,11 +422,17 @@ https://www.netlify.com/
 https://vercel.com/
 
 
-# Inspiration
+<h1 align="center" style='color: aqua;'>
+ Inspiration
+    
+</h1>
 
 game-in-web = https://donitz.itch.io/
 
-# algorithms
+<h1 align="center" style='color: aqua;'>
+ algorithms
+ 
+</h1>
 
 
 https://leetcode.com/problemset/all/
@@ -433,7 +447,10 @@ https://www.codewars.com/dashboard
 
 https://algo.monster/
 
-# database
+<h1 align="center" style='color: aqua;'>
+database
+
+</h1>
 
 https://supabase.com/
 
@@ -443,7 +460,11 @@ https://dynobird.com/
 
 https://drawsql.app/
 
-# free-stuff
+
+<h1 align="center" style='color: aqua;'>
+free-stuff
+
+</h1>
 
 https://freestuff.dev/
 
@@ -462,7 +483,10 @@ https://www.profileme.dev/
 https://scrimba.com/allcourses?price=free
 
 
-# article
+<h1 align="center" style='color: aqua;'>
+    
+article
+</h1>
 
 
 https://refactoring.guru/design-patterns/
@@ -471,8 +495,11 @@ https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nu
 
 
 
+<h1 align="center" style='color: aqua;'>
+    
+Kuliah
+</h1>
 
-# Kuliah
 
 Cek_data_mahasiswa= pddikti
 
@@ -520,8 +547,10 @@ Nulis= shortlyai, rytr.me, speedwrite
 
 
 
+<h1 align="center" style='color: aqua;'>
+ WORK
 
-# WORK
+</h1>
 
 https://resume.io/app
 
