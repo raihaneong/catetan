@@ -2,6 +2,7 @@
     .header {
         color: aqua;
         text-align: center;
+        border: 5px solid;
     }
 
     
