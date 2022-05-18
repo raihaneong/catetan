@@ -483,7 +483,6 @@ Nulis= shortlyai, rytr.me, speedwrite
 20. Apakah sebelumnya ada penelitian lain? Apa perbedaannya?
 21. Apakah kesimpulan penelitian ini sudah menjawab rumusan masalah?
 
-<<<<<<< HEAD
 # WORK
 
 https://resume.io/app
@@ -491,34 +490,3 @@ https://resume.io/app
 https://aksel.co.id/app/cv/dashboard
 
 [back to top](#table-of-contents)
-=======
-
-
-[back to top](#table-of-contents)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> parent of 75a0de6 (add from chrome bookmarks)
