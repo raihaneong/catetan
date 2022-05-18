@@ -1,17 +1,15 @@
-
 # How to use it? just search it on your search engine like google, bing, yahoo or else
 
 # Table of Contents
 
-
 - [random stuff](#random-stuff)
 - [design](#design)
 - [Programming](#Programming)
-    - [front-end](#front-end)
-        - [CSS](#css)
-        - [JavaScript](#javascript)
-    - [back-end](#back-end)
-    - [other](#other)
+  - [front-end](#front-end)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
+  - [back-end](#back-end)
+  - [other](#other)
 - [deploy](#deploy)
 - [Inspiration](#Inspiration)
 - [algorithms](#algorithms)
@@ -20,8 +18,8 @@
 - [article](#article)
 - [Kuliah](#Kuliah)
 - [work](#work)
----
 
+---
 
 # random stuff
 
@@ -29,7 +27,7 @@ human body = [https://smart.servier.com/](https://smart.servier.com/)
 
 Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
 
-AI video= [synthesia.io](http://synthesia.io/), [rephrase.ai](http://rephrase.ai/), [spik.ai](http://spik.ai/), [dictation.io](http://dictation.io/), 
+AI video= [synthesia.io](http://synthesia.io/), [rephrase.ai](http://rephrase.ai/), [spik.ai](http://spik.ai/), [dictation.io](http://dictation.io/),
 
 Video_quote= [Playphraseme](https://www.playphrase.me/)
 
@@ -83,11 +81,7 @@ Video_quote= Playphraseme
 
 random-logo= https://logoipsum.com/
 
-
-
-
 # design
-
 
 Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, https://material.io/, https://developer.apple.com/design/human-interface-guidelines/, https://atlassian.design/, https://www.carbondesignsystem.com/, https://www.lightningdesignsystem.com/, https://www.darkmodedesign.com/
 
@@ -99,13 +93,13 @@ asset-music= https://mixkit.co/
 
 asset-video= http://coverr.co/
 
-Abstract = Tool.graphics 
+Abstract = Tool.graphics
 
-Apus_objek= theinpaint, removebg, Nvidia inpainting 
+Apus_objek= theinpaint, removebg, Nvidia inpainting
 
 Background= http://coolbackground.io/, transparenttexture, heropatterns, https://haikei.app/ https://www.svgbackgrounds.com/, https://gradienta.io/, https://www.visiwig.com/patterns/, https://patternpad.com/, https://bgjar.com/, https://pattern.monster/
 
-Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot 
+Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
 
 Font-view = https://type-scale.com/, https://wordmark.it/
 
@@ -113,12 +107,11 @@ Fontpair= fontjoy, http://fontpair.co/
 
 Icon = https://tablericons.com/, https://tabler-icons.io/
 
-Motiongraphics= lottiefiles 
+Motiongraphics= lottiefiles
 
 Make_music= onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocalremoverorg, http://lalal.ai/,
 
 Subtitle= kapwing, http://veed.io/, descript
-
 
 palet-warna = https://www.happyhues.co/, https://colors.dopely.top/
 
@@ -190,15 +183,13 @@ https://www.dailyui.co/
 
 https://advntr.co/
 
-https://lawsofux.com 
+https://lawsofux.com
 
 https://www.useronboard.com/onboarding-ux-patterns/
 
-
-
 # Programming
-## **front-end**
 
+## **front-end**
 
 3D = https://spline.design/
 
@@ -208,13 +199,9 @@ checklist = https://frontendchecklist.io/, https://www.checklist.design/, https:
 
 HTML = https://htmlcheatsheet.com/, https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html, https://htmldog.com/
 
-
-
 web-background = https://webgradients.com/, https://bgjar.com/
 
 Testing = cypress, enzymjs, jest
-
-
 
 https://webdevelopermentor.com/challenges/notifications-menu
 
@@ -222,11 +209,8 @@ https://spline.design/
 
 https://mantine.dev/
 
-
-
-
-
 ### **CSS**
+
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
 
 CSS-play = [https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://www.flexboxdefense.com/](http://www.flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
@@ -251,7 +235,6 @@ CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
 
 CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
 
-
 https://github.com/IanLunn/Hover/blob/master/css/hover.css
 
 https://grid.malven.co/
@@ -266,22 +249,19 @@ https://designmodo.com/css-website-designs/
 
 https://100dayscss.com/
 
-
 https://dailycssdesign.com/
 
 https://cssbud.com/css-generator/css-glow-generator/
 
 https://shadows.brumm.af/
-	
-
 
 ### **Javascript**
+
 JS-dom = https://htmldom.dev/
 
 JS-utility = https://1loc.dev/
 
 JS-learn = https://javascript.info/
-
 
 https://www.jsv9000.app/
 
@@ -295,9 +275,7 @@ https://javascript30.com/
 
 https://jstherightway.org/
 
-
 ## **back-end**
-
 
 API= publicapis, https://directus.io/
 
@@ -306,7 +284,6 @@ NPM = http://bundlephobia.com/),
 https://regexr.com/
 
 https://pie.dev/
-
 
 ## **other**
 
@@ -322,9 +299,9 @@ documentation = [overapi.com](http://overapi.com/), [devdocs.io](http://devdocs.
 
 documentation = [https://explainshell.com/](https://explainshell.com/)
 
-Learn-by-games=  codingame, coregame, [codecombat.com](http://codecombat.com/), [education.minecraft.net](http://education.minecraft.net/), [tynker.com](http://tynker.com/), [checkio.org](http://checkio.org/), jsrobot, robocode, checkio, codingame, jsdares, codecombat, flexboxfroggy, cssdiner, elevatorsaga, crunchzilla, sql murder mystery, warriorjs, [https://www.codewars.com/dashboard](https://www.codewars.com/dashboard)
+Learn-by-games= codingame, coregame, [codecombat.com](http://codecombat.com/), [education.minecraft.net](http://education.minecraft.net/), [tynker.com](http://tynker.com/), [checkio.org](http://checkio.org/), jsrobot, robocode, checkio, codingame, jsdares, codecombat, flexboxfroggy, cssdiner, elevatorsaga, crunchzilla, sql murder mystery, warriorjs, [https://www.codewars.com/dashboard](https://www.codewars.com/dashboard)
 
-createSnippet = [Carbon.now.sh](http://carbon.now.sh/), [ray.so](http://ray.so/), 
+createSnippet = [Carbon.now.sh](http://carbon.now.sh/), [ray.so](http://ray.so/),
 
 reference = [https://mobbin.design/browse/android/apps](https://mobbin.design/browse/android/apps), [https://stackshare.io/stacks](https://stackshare.io/stacks)
 
@@ -367,7 +344,6 @@ SEO_tools= semrush, googlesearchconsole, ubersuggest, Yoast, answerthepublic, gt
 
 --
 
-
 --
 
 Tools= https://smalldev.tools/, https://omatsuri.app/
@@ -398,9 +374,7 @@ Tes
 Tes= enrollapp, usertesting
 Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle, jsbin, vscode.dev
 
-
 --
-
 
 # DEPLOY
 
@@ -412,13 +386,11 @@ https://www.netlify.com/
 
 https://vercel.com/
 
-
 # Inspiration
 
 game-in-web = https://donitz.itch.io/
 
 # algorithms
-
 
 https://leetcode.com/problemset/all/
 
@@ -460,16 +432,11 @@ https://www.profileme.dev/
 
 https://scrimba.com/allcourses?price=free
 
-
 # article
-
 
 https://refactoring.guru/design-patterns/
 
 https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
-
-
-
 
 # Kuliah
 
@@ -484,21 +451,18 @@ Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, 
 Jurnal= https://zlib.org/https://e-resources.perpusnas.go.id/
 http://isjd.pdii.lipi.go.id/ https://garuda.ristekbrin.go.id/https://scholar.google.co.id/schhp?hl=idhttps://moraref.kemenag.go.id/ --- https://www.sciencedirect.com/https://scholar.google.com/https://doaj.org/https://www.jstor.org/https://www.iosrjournals.org/
 
-
 Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, core.ac.uk Jurnal/artikel= bahasa_indo https://e-resources.perpusnas.go.id/http://isjd.pdii.lipi.go.id/https://garuda.kemdikbud.go.id/https://scholar.google.co.id/schhp?hl=idhttps://moraref.kemenag.go.id/
 
 ---bahasa_inggris https://sinta.kemdikbud.go.id/journalshttps://www.sinta.ristekbrin.go.id/journals/detail?id=689https://www.sciencedirect.com/https://scholar.google.com/https://doaj.org/https://www.jstor.org/https://www.iosrjournals.org/https://www.scopus.com/sources
-
 
 Nulis= shortlyai, rytr.me, speedwrite
 
 <img src="pertanyaan-skripsi.jpeg" alt="pertanyaan-skripsi" width="250"/>
 
-
 1. Mengapa mengambil judul tersebut?
 2. Apa jenis penelitian kamu dan Mengapa mengambil jenis penelitian tersebut?
 3. Apa permasalahan skripsi kamu?
-4. Berapa populasi dan sampel pada penelitian kamu? *kuan
+4. Berapa populasi dan sampel pada penelitian kamu? \*kuan
 5. Pendekatan apa yang kamu gunakan? (kualitatif)
 6. Dimana kamu melakukan penelitian ini?
 7. Mengapa kamu memilih lokasi penelitian tersebut?
@@ -517,38 +481,10 @@ Nulis= shortlyai, rytr.me, speedwrite
 20. Apakah sebelumnya ada penelitian lain? Apa perbedaannya?
 21. Apakah kesimpulan penelitian ini sudah menjawab rumusan masalah?
 
-
-
-
 # WORK
 
 https://resume.io/app
 
 https://aksel.co.id/app/cv/dashboard
 
-
-
 [back to top](#table-of-contents)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
