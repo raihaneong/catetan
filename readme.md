@@ -3,9 +3,6 @@
 
 # Table of Contents
 
-<marquee> ini catetan</marquee>
-
-
 
 - [random stuff](#random-stuff)
 - [design](#design)
