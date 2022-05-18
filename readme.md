@@ -1,6 +1,9 @@
+
 # How to use it? just search it on your search engine like google, bing, yahoo or else
 
 # Table of Contents
+
+<a href="#random-stuff" >random stuff</a>
 
 - [random stuff](#random-stuff)
 - [design](#design)
@@ -21,7 +24,7 @@
 ---
 
 
-<h1 align="center" style='color: aqua;'>
+<h1 id='random-stuff' class='header'>
     random stuff
 </h1>
 
