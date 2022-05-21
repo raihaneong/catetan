@@ -4,6 +4,7 @@
 
 - [random stuff](#random-stuff)
 - [design](#design)
+  - [UI/UX](#UI/UX)
 - [Programming](#Programming)
   - [front-end](#front-end)
     - [CSS](#css)
@@ -12,9 +13,9 @@
   - [other](#other)
 - [deploy](#deploy)
 - [Inspiration](#Inspiration)
-- [algorithms](#algorithms)
+- [algorithm](#algorithm)
 - [database](#database)
-- [free-stuff](#free-stuff)
+- [free stuff](#free stuff)
 - [article](#article)
 - [Kuliah](#Kuliah)
 - [work](#work)
@@ -167,7 +168,7 @@ Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 
 https://kleki.com/
 
-UI/UX
+## *UI/UX*
 
 https://material.io/
 
