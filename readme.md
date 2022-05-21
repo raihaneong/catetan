@@ -86,6 +86,8 @@ random-logo= https://logoipsum.com/
 
 Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, https://material.io/, https://developer.apple.com/design/human-interface-guidelines/, https://atlassian.design/, https://www.carbondesignsystem.com/, https://www.lightningdesignsystem.com/, https://www.darkmodedesign.com/
 
+Design_system= humaninterfaceguidelines, designsystemrepo.com, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem
+
 auto_gambar= https://www.autodraw.com/
 
 animated-drawing = https://sketch.metademolab.com/
@@ -122,7 +124,7 @@ VIDEO-EDITING = https://origami.design/, descript
 
 Tool.graphics
 auto_gambar= https://www.autodraw.com/
-Design_system= humaninterfaceguidelines, designsystemrepo.com, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem
+
 Fileconverter= cloudconvert.com
 Jual= creativemarket, ui8net, uplab, envato, template master, canva, etsy, designcrowd, 99design, fiverr
 Inspiration = designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, awwwards, mobbin.design
