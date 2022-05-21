@@ -8,7 +8,7 @@
 - [Programming](#Programming)
   - [Front-end](#front-end)
     - [CSS](#css)
-    - [JavaScript](#javascript)
+    - [Javascript](#javascript)
   - [Back-end](#back-end)
   - [Other](#other)
 - [Deploy](#deploy)
@@ -190,7 +190,7 @@ https://www.useronboard.com/onboarding-ux-patterns/
 
 # PROGRAMMING
 
-## **Front-End**
+## **Front-end**
 
 3D = https://spline.design/
 
