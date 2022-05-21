@@ -145,8 +145,7 @@ Foto/vid= Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8
 Icon= nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlineicons.com, iconscout.com, animaticons, akaricons, thenounproject, https://www.iconfinder.com/, https://systemuicons.com/, iconsaxio, lordicon, , Iconstore, iconfinder, streamlineicon, lordicon, remixicon, appitgdigital, ikonate, fontawesome.
 PNG= Pngpix , favpng, Subpng, pngtree, cleanpng.
 Illustrations= drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/
-UI/UX= app.uxcel.com, lawsofux, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/ https://www.dailyui.co/, https://userpersona.design/
-https://penpot.app/
+
 Warna= khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
 Gradient= meshgradient, cssgradient.io,
 asset-music= https://mixkit.co/
@@ -169,6 +168,9 @@ Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 https://kleki.com/
 
 ## *UI UX*
+
+UI/UX= app.uxcel.com, lawsofux, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/ https://www.dailyui.co/, https://userpersona.design/
+https://penpot.app/
 
 https://material.io/
 
