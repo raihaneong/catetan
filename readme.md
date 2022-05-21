@@ -21,7 +21,7 @@
 
 ---
 
-# random stuff
+# RANDOM STUFF
 
 human body = [https://smart.servier.com/](https://smart.servier.com/)
 
@@ -81,7 +81,7 @@ Video_quote= Playphraseme
 
 random-logo= https://logoipsum.com/
 
-# design
+# DESIGN
 
 Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, https://material.io/, https://developer.apple.com/design/human-interface-guidelines/, https://atlassian.design/, https://www.carbondesignsystem.com/, https://www.lightningdesignsystem.com/, https://www.darkmodedesign.com/
 
@@ -187,9 +187,9 @@ https://lawsofux.com
 
 https://www.useronboard.com/onboarding-ux-patterns/
 
-# Programming
+# PROGRAMMING
 
-## **front-end**
+## **Front-End**
 
 3D = https://spline.design/
 
@@ -287,7 +287,7 @@ https://regexr.com/
 
 https://pie.dev/
 
-## **other**
+## **Other**
 
 ultimate-resource = [https://www.devresourc.es/,](https://www.devresourc.es/) [designresourc.es](http://designresourc.es/), [smalldev.tools](https://smalldev.tools/), [omatsuri.app](https://omatsuri.app/), [https://tiny-helpers.dev/](https://tiny-helpers.dev/)
 
@@ -388,11 +388,11 @@ https://www.netlify.com/
 
 https://vercel.com/
 
-# Inspiration
+# INSPIRATION
 
 game-in-web = https://donitz.itch.io/
 
-# algorithms
+# ALGORITHM
 
 https://leetcode.com/problemset/all/
 
@@ -406,7 +406,7 @@ https://www.codewars.com/dashboard
 
 https://algo.monster/
 
-# database
+# DATABASE
 
 https://supabase.com/
 
@@ -416,7 +416,7 @@ https://dynobird.com/
 
 https://drawsql.app/
 
-# free-stuff
+# FREE STUFF
 
 https://freestuff.dev/
 
@@ -434,13 +434,13 @@ https://www.profileme.dev/
 
 https://scrimba.com/allcourses?price=free
 
-# article
+# ARTICLE
 
 https://refactoring.guru/design-patterns/
 
 https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
 
-# Kuliah
+# KULIAH
 
 Cek_data_mahasiswa= pddikti
 
