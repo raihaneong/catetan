@@ -2,23 +2,23 @@
 
 # Table of Contents
 
-- [random stuff](#random-stuff)
-- [design](#design)
+- [Random stuff](#random-stuff)
+- [Design](#design)
   - [UI/UX](#UI-UX)
 - [Programming](#Programming)
-  - [front-end](#front-end)
+  - [Front-end](#front-end)
     - [CSS](#css)
     - [JavaScript](#javascript)
-  - [back-end](#back-end)
-  - [other](#other)
-- [deploy](#deploy)
+  - [Back-end](#back-end)
+  - [Other](#other)
+- [Deploy](#deploy)
 - [Inspiration](#Inspiration)
-- [algorithm](#algorithm)
-- [database](#database)
-- [free stuff](#free-stuff)
-- [article](#article)
+- [Algorithm](#algorithm)
+- [Database](#database)
+- [Free stuff](#free-stuff)
+- [Article](#article)
 - [Kuliah](#Kuliah)
-- [work](#work)
+- [Work](#work)
 
 ---
 
