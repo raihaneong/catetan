@@ -362,27 +362,49 @@ git= Ohshitgit
 
 --
 Web_tools= hiddentools.dev
-Understanding-frontend= Thisvsthat.dev, webcomponents.org https://uses.tech/,
-Tentang_shell= explainshell.com Documentation,
+
+Understanding-frontend= Thisvsthat.dev, webcomponents.org https://uses.tech/
+
+Tentang_shell= explainshell.com Documentation
+
 Cheat_sheet= overapi.com, devdocs.io, devhints.io,, https://ihateregex.io/
-Improve_web= caniuse.com, devhints.io, Bundlephobia.com,
+
+Improve_web= caniuse.com, devhints.io, Bundlephobia.com
+
 Tes_frontend= enzymjs, jest, cypress
+
 Tes_website= caniuse.com, builtwith.com, pagespeedinsights, https://nibbler.silktide.com/
+
 Inspiration= siteinspire, designresourc.es, https://www.saasframe.io/
+
 Web_sama= similarsites.com
+
 Fileconverter= cloudconvert.com
+
 Artificial intelligence= tensorflow
+
 API= publicapis, insomniarest.
+
 Node= reactsimpleimg
+
 Code_Game= codingame, coregame, codecombat.com, education.minecraft.net, tynker.com, checkio.org
+
 Learncode_by_game= jdrobot, robocode, checkio, codingame, jsdares, codecombat, screeps, flexboxfroggy, cssdiner, untrustedjavascript, elevatorsaga, crunchzilla, sql murder mystery, warriorjs.
+
 Code_snippet= Carbon.now.sh, ray.so,
+
 Backend= graphconnect, drawsql, faunadb, dbdesigner
-Build_app= https://teta.so/, glideapps, bravoatudioapp, draftbit, animaapp, sketch2react,
+
+Build_app= https://teta.so/, glideapps, bravoatudioapp, draftbit, animaapp, sketch2react
+
 Build_webapp= bubble.io
+
 Belajar_code= 100dayscss, top,geeksforgeeks, cssbattle, , frontend practice, codingchallenges, stylestage, frontend mentor, codewars, hackr.io, Code4startup.com
-Bikin_web= graphite.space, Webflow, wix, wordpress, godaddy, weebly, typedream,
+
+Bikin_web= graphite.space, Webflow, wix, wordpress, godaddy, weebly, typedream
+
 Trend= mobbindesign, Gtrend, audience insight, socialsearcher
+
 SEO_tools= semrush, googlesearchconsole, ubersuggest, Yoast, answerthepublic, gtmetrix, seoquake, metatags, dailypurposes, notjustanalytics, hashtagstacks, all-hashtag, ingramer,
 
 --
@@ -390,31 +412,59 @@ SEO_tools= semrush, googlesearchconsole, ubersuggest, Yoast, answerthepublic, gt
 --
 
 Tools= https://smalldev.tools/, https://omatsuri.app/
+
 Responsive-Web= https://responsively.app/
+
 Frontend= Gitignoreio, frontendchecklistio
+
 Naming= codeelf
+
 responsive_design= Screensizemap.com,
+
 Website_template= nicepage, colorlib, freecss, tooplate, ostemplate
+
 Learn= Thisvsthat, webcomponents.org,
+
 HTML= Htmldog, htmlcheatsheet.com, htmldom.dev https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html
+
 JavaScript= https://1loc.dev/ https://www.javascripting.com/?sort=rating https://learnxinyminutes.com/docs/javascript/
+
 NPM= bundlephobia,
+
 React_animation_demo= https://react-animations.herokuapp.com/
+
 JavaScript_libraries= fullpagejs, animejs, threejs, screenfulljs, leafletjs, popperjs
+
 Animation_CSS= easings.net
+
 CSS= css-tricks, cssbattle, flexboxfroggy, cssdiner, bemcheatsheet, cssdiner, rupl-unfold, cssgridgarden, flexboxdefense, victordarras-cssgame, cssfiltergenerator, kerframeapp, Animateresource, whirlnetlify, minimamente, jonsuh-hamburger, animate.style, ianlunn-hover, greensock-gsap, zurb-motionui
+
 CSS_layout= gridlayoutit, csslayout.io, griddy.io, purecsslayouts, CSSgridgenerator, loadingioflexbox, cssgr.id, gridbyexample,
-Cssbackground= https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com CSSpixel= https://www.pixelartcss.com/
+
+Cssbackground= https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com 
+
+CSSpixel= https://www.pixelartcss.com/
+
 HTML CSS generator= webcode.tools, tridiv.com
+
 SVG= nucleo.app
+
 Websitecheck= downforeveryoneorjustme.com
+
 SQL-API= https://directus.io/
+
 Git & Github
+
 https://learngitbranching.js.org/
+
 https://readme.so/id
+
 git= Ohshitgit
+
 Tes
+
 Tes= enrollapp, usertesting
+
 Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle, jsbin, vscode.dev
 
 --
