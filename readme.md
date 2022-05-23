@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-- [Random stuff](#random-stuff)
+- [Random Stuff](#random-stuff)
 - [Design](#design)
   - [UI/UX](#UI-UX)
 - [Programming](#Programming)
