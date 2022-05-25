@@ -1,4 +1,3 @@
-# How to use it ? just search it on your search engine like google, bing, yahoo or else
 
 # Table of Contents
 
