@@ -390,8 +390,6 @@ Learncode_by_game= jdrobot, robocode, checkio, codingame, jsdares, codecombat, s
 
 Code_snippet= Carbon.now.sh, ray.so,
 
-Backend= graphconnect, drawsql, faunadb, dbdesigner
-
 Build_app= https://teta.so/, glideapps, bravoatudioapp, draftbit, animaapp, sketch2react
 
 Build_webapp= bubble.io
@@ -503,6 +501,15 @@ https://grafana.com/
 https://dynobird.com/
 
 https://drawsql.app/
+
+raphconnect
+
+drawsql
+
+faunadb
+
+dbdesigner
+
 
 # FREE STUFF
 
