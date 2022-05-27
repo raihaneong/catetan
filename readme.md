@@ -202,7 +202,7 @@ Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 
 https://kleki.com/
 
-## *UI UX*
+## UI UX
 
 UI/UX= app.uxcel.com, lawsofux, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/ https://www.dailyui.co/, https://userpersona.design/
 https://penpot.app/
