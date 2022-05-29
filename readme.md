@@ -204,7 +204,7 @@ https://kleki.com/
 
 ## UI UX
 
-UI/UX= app.uxcel.com, lawsofux, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/ https://www.dailyui.co/, https://userpersona.design/
+UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/, https://userpersona.design/
 https://penpot.app/
 
 https://material.io/
