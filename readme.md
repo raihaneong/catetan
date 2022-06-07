@@ -364,8 +364,6 @@ Understanding-frontend= Thisvsthat.dev, webcomponents.org https://uses.tech/
 
 Tentang_shell= explainshell.com Documentation
 
-Cheat_sheet= overapi.com, devdocs.io, devhints.io,, https://ihateregex.io/
-
 Improve_web= caniuse.com, devhints.io, Bundlephobia.com
 
 Tes_frontend= enzymjs, jest, cypress
