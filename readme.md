@@ -513,6 +513,8 @@ dbdesigner
 
 # FREE STUFF
 
+[teachyourselfcs.com](https://teachyourselfcs.com/)
+
 https://freestuff.dev/
 
 https://free-for.dev/#/
