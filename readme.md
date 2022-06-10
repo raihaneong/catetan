@@ -92,6 +92,8 @@ auto_gambar= https://www.autodraw.com/
 
 image_to_text = https://www.text-image.com/convert/
 
+image_to_geometric_primitive = https://www.geometrize.co.uk/
+
 animated-drawing = https://sketch.metademolab.com/
 
 asset-music= https://mixkit.co/
