@@ -90,6 +90,8 @@ auto_gambar= https://www.autodraw.com/
 
 ## image 
 
+image_to_text = https://www.text-image.com/convert/
+
 animated-drawing = https://sketch.metademolab.com/
 
 asset-music= https://mixkit.co/
