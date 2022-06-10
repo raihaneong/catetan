@@ -3,7 +3,7 @@
 
 - [Random Stuff](#random-stuff)
 - [Design](#design)
-  - [image] (#image)
+  - [image](#image)
   - [UI/UX](#UI-UX)
 - [Programming](#Programming)
   - [Front-end](#front-end)
