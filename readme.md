@@ -96,6 +96,10 @@ image_to_geometric_primitive = https://www.geometrize.co.uk/
 
 animated-drawing = https://sketch.metademolab.com/
 
+## video
+
+video_to_text = https://anthiago.com/transcript/
+
 asset-music= https://mixkit.co/
 
 asset-video= http://coverr.co/
