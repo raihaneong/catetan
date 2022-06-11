@@ -234,8 +234,6 @@ https://www.useronboard.com/onboarding-ux-patterns/
 
 # PROGRAMMING
 
-LearnToCode = https://exercism.org/
-
 buildFastFUllStackWebApps = https://glitch.com/
 
 ## **Front-end**
