@@ -571,6 +571,8 @@ Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, 
 
 Nulis= shortlyai, rytr.me, speedwrite
 
+mager-nulis = https://jnckmedia.com/nulis/
+
 <img src="pertanyaan-skripsi.jpeg" alt="pertanyaan-skripsi" width="250"/>
 
 1. Mengapa mengambil judul tersebut?
