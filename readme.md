@@ -28,6 +28,8 @@ Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.p
 
 human body = [https://smart.servier.com/](https://smart.servier.com/)
 
+learn-psychology = https://nobaproject.com/
+
 Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
 
 AI video= [synthesia.io](http://synthesia.io/), [rephrase.ai](http://rephrase.ai/), [spik.ai](http://spik.ai/), [dictation.io](http://dictation.io/),
