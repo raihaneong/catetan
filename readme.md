@@ -520,6 +520,8 @@ dbdesigner
 
 # FREE STUFF
 
+https://exercism.org/
+
 [teachyourselfcs.com](https://teachyourselfcs.com/)
 
 https://freestuff.dev/
