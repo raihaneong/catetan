@@ -24,6 +24,8 @@
 
 # RANDOM STUFF
 
+Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
+
 human body = [https://smart.servier.com/](https://smart.servier.com/)
 
 Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
