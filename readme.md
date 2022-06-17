@@ -90,6 +90,8 @@ run-app-without-install = https://neverinstall.com/
 
 alternative = https://www.opensourcealternative.to/
 
+browser-automation = https://axiom.ai/
+
 # DESIGN
 
 Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, https://material.io/, https://developer.apple.com/design/human-interface-guidelines/, https://atlassian.design/, https://www.carbondesignsystem.com/, https://www.lightningdesignsystem.com/, https://www.darkmodedesign.com/
