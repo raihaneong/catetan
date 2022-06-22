@@ -344,7 +344,7 @@ https://jstherightway.org/
 
 ## **back-end**
 
-API= publicapis, https://directus.io/
+API= publicapis, https://directus.io/, https://opentdb.com/
 
 NPM = http://bundlephobia.com/),
 
