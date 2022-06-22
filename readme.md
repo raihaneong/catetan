@@ -350,7 +350,7 @@ https://pie.dev/
 
 ## **Other**
 
-ultimate-resource = [https://www.devresourc.es/,](https://www.devresourc.es/) [designresourc.es](http://designresourc.es/), [smalldev.tools](https://smalldev.tools/), [omatsuri.app](https://omatsuri.app/), [https://tiny-helpers.dev/](https://tiny-helpers.dev/)
+ultimate-resource = [https://www.devresourc.es/,](https://www.devresourc.es/) [designresourc.es](http://designresourc.es/), [smalldev.tools](https://smalldev.tools/), [omatsuri.app](https://omatsuri.app/), [https://tiny-helpers.dev/](https://tiny-helpers.dev/), https://devtooly.com/
 
 ultimate-learn = [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
 
