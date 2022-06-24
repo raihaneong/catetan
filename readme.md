@@ -572,6 +572,8 @@ turinit Research= https://www.connectedpapers.com/
 
 Bikin_dafpus= mendeley
 
+Belajar-bahasa-inggris = https://mooec.com/
+
 Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, core.ac.uk
 
 Jurnal= https://zlib.org/https://e-resources.perpusnas.go.id/
