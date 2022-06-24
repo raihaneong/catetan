@@ -256,6 +256,8 @@ buildFastFUllStackWebApps = https://glitch.com/
 
 profileMarkdown = https://www.profileme.dev/
 
+create-markdown = https://pandao.github.io/editor.md/en.html
+
 ## **Front-end**
 
 3D = https://spline.design/
