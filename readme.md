@@ -96,6 +96,8 @@ resource = https://10015.io/
 
 english-IPA = https://www.phonetizer.com/ui
 
+AI-voice = Coqui.ai 
+
 # DESIGN
 
 Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, https://material.io/, https://developer.apple.com/design/human-interface-guidelines/, https://atlassian.design/, https://www.carbondesignsystem.com/, https://www.lightningdesignsystem.com/, https://www.darkmodedesign.com/
