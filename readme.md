@@ -94,8 +94,6 @@ browser-automation = https://axiom.ai/
 
 resource = https://10015.io/
 
-english-IPA = https://www.phonetizer.com/ui, https://tophonetics.com/
-
 AI-voice = Coqui.ai 
 
 Splithsong = https://www.splitmysong.com/
@@ -592,6 +590,8 @@ Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, 
 ---bahasa_inggris https://sinta.kemdikbud.go.id/journalshttps://www.sinta.ristekbrin.go.id/journals/detail?id=689https://www.sciencedirect.com/https://scholar.google.com/https://doaj.org/https://www.jstor.org/https://www.iosrjournals.org/https://www.scopus.com/sources
 
 Nulis= shortlyai, rytr.me, speedwrite, https://hyperwriteai.com/
+
+english-IPA = https://www.phonetizer.com/ui, https://tophonetics.com/
 
 mager-nulis = https://jnckmedia.com/nulis/
 
