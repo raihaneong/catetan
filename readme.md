@@ -94,7 +94,7 @@ browser-automation = https://axiom.ai/
 
 resource = https://10015.io/
 
-english-IPA = https://www.phonetizer.com/ui
+english-IPA = https://www.phonetizer.com/ui, https://tophonetics.com/
 
 AI-voice = Coqui.ai 
 
