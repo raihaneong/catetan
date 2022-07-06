@@ -106,6 +106,8 @@ Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiand
 
 auto_gambar= https://www.autodraw.com/
 
+design-style = synthwave, vaporwave
+
 ## image 
 
 image_to_text = https://www.text-image.com/convert/
