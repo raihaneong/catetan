@@ -13,7 +13,7 @@
   - [Other](#other)
 - [DEPLOY](#deploy)
 - [INSPIRATION](#Inspiration)
-- [ALGORITHM](#algorithm)
+- [DATA STRUCTURE & ALGORITHM](#algorithm)
 - [DATABASE](#database)
 - [FREE STUFF](#free-stuff)
 - [ARTICLE](#article)
