@@ -568,6 +568,8 @@ https://egghead.io/
 
 https://scrimba.com/allcourses?price=free
 
+Online-tools-for-dev = https://extendsclass.com/
+
 # ARTICLE
 
 https://refactoring.guru/design-patterns/
