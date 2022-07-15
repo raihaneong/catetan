@@ -547,6 +547,8 @@ faunadb
 
 dbdesigner
 
+Database-manager-platform = Harperdb.io
+
 
 # FREE STUFF
 
