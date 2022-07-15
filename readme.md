@@ -264,6 +264,8 @@ profileMarkdown = https://www.profileme.dev/
 
 create-markdown = https://pandao.github.io/editor.md/en.html
 
+Programming-logic = https://circuitverse.org/simulator
+
 ## **Front-end**
 
 3D = https://spline.design/
