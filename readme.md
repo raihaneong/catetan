@@ -559,6 +559,7 @@ dbdesigner
 
 Database-manager-platform = Harperdb.io
 
+Postgresql-database-Course = https://online.umich.edu/series/postgresql-for-everybody/
 
 # FREE STUFF
 
