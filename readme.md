@@ -597,6 +597,8 @@ https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nu
 
 Cek_data_mahasiswa= pddikti
 
+Survey = https://info.populix.co/en/poplite-en/
+
 turinit Research= https://www.connectedpapers.com/
 
 Bikin_dafpus= mendeley
