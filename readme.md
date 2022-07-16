@@ -22,6 +22,10 @@
 
 ---
 
+# CHALLENGE
+
+CSS = https://cssbattle.dev/
+
 # RANDOM STUFF
 
 Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
