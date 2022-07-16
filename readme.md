@@ -26,6 +26,16 @@
 
 CSS = https://cssbattle.dev/
 
+https://leetcode.com/problemset/all/
+
+https://www.hackerrank.com/raihneong
+
+https://www.codewars.com/dashboard
+
+https://algo.monster/
+
+https://neetcode.io/
+
 # RANDOM STUFF
 
 Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
@@ -529,19 +539,9 @@ Visualization-data-structure-and-algorithm = Visualgo.net
 
 leet-code-guide = https://www.techinterviewhandbook.org/grind75
 
-https://leetcode.com/problemset/all/
-
 https://www.geeksforgeeks.org/data-structures/
 
 https://www.techinterviewhandbook.org/
-
-https://www.hackerrank.com/raihneong
-
-https://www.codewars.com/dashboard
-
-https://algo.monster/
-
-https://neetcode.io/
 
 # DATABASE
 
