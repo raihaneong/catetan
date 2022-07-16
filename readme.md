@@ -3,9 +3,10 @@
 
 - [RANDOM STUFF](#random-stuff)
 - [DESIGN](#design)
-  - [image](#image)
   - [UI/UX](#UI-UX)
 - [ASSET](#ASSET)
+  - [image](#image)
+  - [video](#video)
 - [PROGRAMMING](#Programming)
   - [Front-end](#front-end)
     - [CSS](#css)
