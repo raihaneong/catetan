@@ -384,6 +384,8 @@ API= publicapis, https://directus.io/, https://opentdb.com/
 
 NPM = http://bundlephobia.com/),
 
+test-api = https://jsonplaceholder.typicode.com/
+
 https://regexr.com/
 
 https://pie.dev/
