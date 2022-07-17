@@ -384,11 +384,11 @@ API= publicapis, https://directus.io/, https://opentdb.com/
 
 NPM = http://bundlephobia.com/),
 
-test-api = https://jsonplaceholder.typicode.com/
+test-api = https://jsonplaceholder.typicode.com/, https://pie.dev/
 
 https://regexr.com/
 
-https://pie.dev/
+
 
 ## **Other**
 
