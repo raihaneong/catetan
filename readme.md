@@ -617,6 +617,8 @@ Database-manager-platform = Harperdb.io
 
 Postgresql-database-Course = https://online.umich.edu/series/postgresql-for-everybody/
 
+sqlite = https://www.sqlitetutorial.net/sqlite-nodejs/
+
 # FREE STUFF
 
 https://exercism.org/
