@@ -120,6 +120,8 @@ https://killedbygoogle.com/
 
 github = https://socialify.git.ci/
 
+excel = https://excelunusual.com/
+
 --
 
 ssr ssg spa
