@@ -428,9 +428,9 @@ https://jstherightway.org/
 
 API= publicapis, https://directus.io/, https://opentdb.com/
 
-NPM = http://bundlephobia.com/),
+NPM = http://bundlephobia.com/,
 
-test-api = https://jsonplaceholder.typicode.com/, https://pie.dev/
+test-api = https://jsonplaceholder.typicode.com/, https://pie.dev/, https://dummyjson.com/
 
 https://regexr.com/
 
