@@ -38,6 +38,9 @@ https://algo.monster/
 
 https://neetcode.io/
 
+Typing = https://zty.pe/
+
+
 # RANDOM STUFF
 
 Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
