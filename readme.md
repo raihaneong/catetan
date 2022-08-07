@@ -15,7 +15,7 @@
   - [Other](#other)
 - [DEPLOY](#deploy)
 - [INSPIRATION](#Inspiration)
-- [DATA STRUCTURE & ALGORITHM](#algorithm)
+- [DATA STRUCTURE & ALGORITHM](#data-structure-&-algorithm)
 - [DATABASE](#database)
 - [FREE STUFF](#free-stuff)
 - [ARTICLE](#article)
