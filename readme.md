@@ -226,8 +226,6 @@ Background= http://coolbackground.io/, transparenttexture, heropatterns, https:/
 
 Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
 
-Font-view = https://type-scale.com/, https://wordmark.it/
-
 Icon = https://tablericons.com/, https://tabler-icons.io/
 
 Motiongraphics= lottiefiles
@@ -265,6 +263,9 @@ Ai_image_resolution= letsenhance.io
 Image_size= tinypng
 
 Fontpair= fontjoy, fontpair.co
+
+Font-view = https://type-scale.com/, https://wordmark.it/
+
 
 Font= metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
 
