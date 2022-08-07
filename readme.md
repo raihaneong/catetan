@@ -26,7 +26,7 @@
 
 # CHALLENGE
 
-CSS = https://cssbattle.dev/
+CSS = https://cssbattle.dev/, https://flukeout.github.io/, http://www.flexboxdefense.com/, https://cssgridgarden.com/#id
 
 https://leetcode.com/problemset/all/
 
