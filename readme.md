@@ -228,8 +228,6 @@ Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jitter
 
 Font-view = https://type-scale.com/, https://wordmark.it/
 
-Fontpair= fontjoy, http://fontpair.co/
-
 Icon = https://tablericons.com/, https://tabler-icons.io/
 
 Motiongraphics= lottiefiles
