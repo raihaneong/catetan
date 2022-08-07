@@ -606,7 +606,7 @@ game-in-web = https://donitz.itch.io/
 
 # DATA STRUCTURE & ALGORITHM
 
-Visualization-data-structure-and-algorithm = Visualgo.net
+Visualization-data-structure-and-algorithm = Visualgo.net, https://algorithm-visualizer.org/
 
 leet-code-guide = https://www.techinterviewhandbook.org/grind75
 
