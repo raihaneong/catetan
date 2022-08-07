@@ -7,7 +7,7 @@
 - [ASSET](#ASSET)
   - [image](#image)
   - [video](#video)
-- [PROGRAMMING](#Programming)
+- [PROGRAMMING](#programming)
   - [Front-end](#front-end)
     - [CSS](#css)
     - [Javascript](#javascript)
