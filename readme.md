@@ -347,7 +347,7 @@ documenting = https://www.bookstackapp.com/
 
 software-architect = https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/
 
-learn-about-the-web = https://howhttps.works/
+learn-about-the-web = https://howhttps.works/, https://howdns.works/
 
 ## mobile
 
