@@ -347,6 +347,8 @@ Code-review-as-a-Service = https://www.pullrequest.com/
 
 documenting = https://www.bookstackapp.com/
 
+software-architect = https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/
+
 ## mobile
 
 https://cordova.apache.org/
