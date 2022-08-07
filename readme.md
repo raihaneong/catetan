@@ -288,6 +288,8 @@ PNG= Pngpix , favpng, Subpng, pngtree, cleanpng.
 
 Illustrations= drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/
 
+illustration: blush.design, drawkit.io, humaaans.com, icons8.com, iconscout.com, illustrations.co, iradesign.io, isometric .nline, manypixels.co, openpeeps.com, pixeltrue.com, storyset.com, undraw.co 
+
 Warna= khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
 
 Gradient= meshgradient, cssgradient.io,
