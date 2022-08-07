@@ -264,8 +264,7 @@ Image_size= tinypng
 
 Fontpair= fontjoy, fontpair.co
 
-Font-view = https://type-scale.com/, https://wordmark.it/
-
+Font-view = https://type-scale.com/, https://wordmark.it/, https://www.fontbrief.com/
 
 Font= metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
 
