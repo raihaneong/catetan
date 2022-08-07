@@ -1,6 +1,6 @@
 
 # Table of Contents
-
+- [CHALLENGE](#challenge)
 - [RANDOM STUFF](#random-stuff)
 - [DESIGN](#design)
   - [UI/UX](#UI-UX)
