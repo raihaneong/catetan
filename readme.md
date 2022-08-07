@@ -331,7 +331,7 @@ https://kleki.com/
 
 # PROGRAMMING
 
-web3: app.stackup.dev, Learnweb3.io, cryptozombies.io, buildspace.so, questbookapp.xyz, nftschool.dev, remix.ethereum.org, ethernaut.openzeppelin.com,solanacookbook.com, useweb3.xyz, buildspace.io
+web3: app.stackup.dev, Learnweb3.io, cryptozombies.io, buildspace.so, questbookapp.xyz, nftschool.dev, remix.ethereum.org, ethernaut.openzeppelin.com,solanacookbook.com, useweb3.xyz, buildspace.io, https://www.useweb3.xyz/
 
 buildFastFUllStackWebApps = https://glitch.com/
 
