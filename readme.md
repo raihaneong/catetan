@@ -604,7 +604,7 @@ https://vercel.com/
 
 game-in-web = https://donitz.itch.io/
 
-# DATA SCTUCTURE & ALGORITHM
+# DATA STRUCTURE & ALGORITHM
 
 Visualization-data-structure-and-algorithm = Visualgo.net
 
