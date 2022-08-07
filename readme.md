@@ -452,6 +452,8 @@ test-api = https://jsonplaceholder.typicode.com/, https://pie.dev/, https://dumm
 https://regexr.com/
 
 
+nodejs = https://nodejsera.com/30-days-of-node.html
+
 
 ## **Other**
 
