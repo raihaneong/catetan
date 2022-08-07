@@ -347,6 +347,8 @@ documenting = https://www.bookstackapp.com/
 
 software-architect = https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/
 
+learn-about-the-web = https://howhttps.works/
+
 ## mobile
 
 https://cordova.apache.org/
