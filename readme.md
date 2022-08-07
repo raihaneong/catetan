@@ -71,7 +71,7 @@ Tools= neontools, uberduckai
 
 Bussinesnamegenerator= Namelix
 
-Brand= brandingstyleguide
+Brand= brandingstyleguide, https://brandfetch.com/
 
 Bikin_rumah= roomstyler
 
