@@ -127,6 +127,8 @@ excel = https://excelunusual.com/
 
 radio = [http://radio.garden/](http://radio.garden/)
 
+content-generator-ai = https://www.copy.ai/
+
 --
 
 ssr ssg spa
