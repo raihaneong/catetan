@@ -133,6 +133,8 @@ ai-words = https://quillbot.com/
 
 introverts = https://lifeat.io/explore
 
+marketing = https://marketingexamples.com/
+
 --
 
 ssr ssg spa
