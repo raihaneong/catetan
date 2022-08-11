@@ -129,6 +129,8 @@ radio = [http://radio.garden/](http://radio.garden/)
 
 content-generator-ai = https://www.copy.ai/
 
+ai-words = https://quillbot.com/
+
 --
 
 ssr ssg spa
@@ -350,6 +352,7 @@ documenting = https://www.bookstackapp.com/
 software-architect = https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/
 
 learn-about-the-web = https://howhttps.works/, https://howdns.works/
+
 
 ## mobile
 
