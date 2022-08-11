@@ -131,7 +131,7 @@ content-generator-ai = https://www.copy.ai/
 
 ai-words = https://quillbot.com/
 
-introverts = https://lifeat.io/explore
+introverts = https://lifeat.io/explore, https://www.window-swap.com/
 
 marketing = https://marketingexamples.com/
 
