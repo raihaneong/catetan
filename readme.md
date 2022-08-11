@@ -135,6 +135,8 @@ introverts = https://lifeat.io/explore, https://www.window-swap.com/
 
 marketing = https://marketingexamples.com/
 
+learn-things = https://www.classcentral.com/
+
 --
 
 ssr ssg spa
