@@ -14,7 +14,6 @@
   - [Back-end](#back-end)
   - [Other](#other)
 - [DEPLOY](#deploy)
-- [INSPIRATION](#Inspiration)
 - [DATA STRUCTURE & ALGORITHM](#data-structure-&-algorithm)
 - [DATABASE](#database)
 - [FREE STUFF](#free-stuff)
@@ -359,6 +358,8 @@ software-architect = https://www.freecodecamp.org/news/an-introduction-to-softwa
 
 learn-about-the-web = https://howhttps.works/, https://howdns.works/
 
+game-in-web = https://donitz.itch.io/
+
 
 ## mobile
 
@@ -617,9 +618,6 @@ https://www.netlify.com/
 
 https://vercel.com/
 
-# INSPIRATION
-
-game-in-web = https://donitz.itch.io/
 
 # DATA STRUCTURE & ALGORITHM
 
