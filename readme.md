@@ -137,6 +137,8 @@ learn-things = https://www.classcentral.com/
 
 structuring-service = https://prohura.com/
 
+simple-AWS = https://digger.dev/
+
 --
 
 ssr ssg spa
