@@ -139,6 +139,8 @@ structuring-service = https://prohura.com/
 
 simple-AWS = https://digger.dev/
 
+learn-anything = https://learn-anything.xyz/
+
 --
 
 ssr ssg spa
