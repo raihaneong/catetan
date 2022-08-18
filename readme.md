@@ -367,6 +367,8 @@ https://cordova.apache.org/
 
 ## **Front-end**
 
+create-frontEnd-fast = https://www.editorx.com/
+
 React = https://mui.com/
 
 3D = https://spline.design/
