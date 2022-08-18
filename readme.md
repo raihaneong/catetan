@@ -13,7 +13,6 @@
     - [Javascript](#javascript)
   - [Back-end](#back-end)
   - [Other](#other)
-- [DEPLOY](#deploy)
 - [DATA STRUCTURE & ALGORITHM](#data-structure-&-algorithm)
 - [DATABASE](#database)
 - [FREE STUFF](#free-stuff)
@@ -360,6 +359,7 @@ learn-about-the-web = https://howhttps.works/, https://howdns.works/
 
 game-in-web = https://donitz.itch.io/
 
+deploy = https://dashboard.render.com/, https://www.heroku.com/, https://www.netlify.com/, https://vercel.com/
 
 ## mobile
 
@@ -608,15 +608,6 @@ Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle,
 
 --
 
-# DEPLOY
-
-https://dashboard.render.com/
-
-https://www.heroku.com/
-
-https://www.netlify.com/
-
-https://vercel.com/
 
 
 # DATA STRUCTURE & ALGORITHM
