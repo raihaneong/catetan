@@ -375,6 +375,8 @@ https://cordova.apache.org/
 
 create-frontEnd-fast = https://www.editorx.com/
 
+Design-to-webapps = https://www.locofy.ai/
+
 React = https://mui.com/
 
 3D = https://spline.design/
