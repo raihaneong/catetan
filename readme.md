@@ -55,6 +55,8 @@ AI-music-generator = https://www.beatoven.ai/
 
 AI-image-generator = https://www.craiyon.com/
 
+brief-generator = https://goodbrief.io/
+
 Video_quote= [Playphraseme](https://www.playphrase.me/)
 
 shortcut = [https://shortcuts.design/](https://shortcuts.design/)
