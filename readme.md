@@ -53,6 +53,8 @@ AI video= [synthesia.io](http://synthesia.io/), [rephrase.ai](http://rephrase.ai
 
 AI-music-generator = https://www.beatoven.ai/
 
+AI-image-generator = https://www.craiyon.com/
+
 Video_quote= [Playphraseme](https://www.playphrase.me/)
 
 shortcut = [https://shortcuts.design/](https://shortcuts.design/)
