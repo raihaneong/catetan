@@ -51,6 +51,8 @@ Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashb
 
 AI video= [synthesia.io](http://synthesia.io/), [rephrase.ai](http://rephrase.ai/), [spik.ai](http://spik.ai/), [dictation.io](http://dictation.io/),
 
+AI-music-generator = https://www.beatoven.ai/
+
 Video_quote= [Playphraseme](https://www.playphrase.me/)
 
 shortcut = [https://shortcuts.design/](https://shortcuts.design/)
