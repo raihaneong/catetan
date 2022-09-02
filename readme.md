@@ -377,6 +377,8 @@ game-in-web = https://donitz.itch.io/
 
 deploy = https://dashboard.render.com/, https://www.heroku.com/, https://www.netlify.com/, https://vercel.com/
 
+books = the algorithm design manual 3rd edition
+
 ## mobile
 
 https://cordova.apache.org/
