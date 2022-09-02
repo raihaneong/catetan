@@ -149,6 +149,8 @@ learn-anything = https://learn-anything.xyz/
 
 FPS-game = https://app.3daimtrainer.com/quick-play
 
+Learn-language = [Japan](https://easyjapanese.net/)
+
 --
 
 ssr ssg spa
