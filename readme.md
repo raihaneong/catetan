@@ -747,8 +747,31 @@ mager-nulis = https://jnckmedia.com/nulis/
 
 # WORK
 
-https://resume.io/app
+Resume/cv = https://resume.io/app, https://aksel.co.id/app/cv/dashboard
 
-https://aksel.co.id/app/cv/dashboard
+.
+
+.
+
+.
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [back to top](#table-of-contents)
