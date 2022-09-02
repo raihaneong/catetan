@@ -409,6 +409,8 @@ react-libraries = https://reactlibraries.com/
 
 typescript-hooks = https://usehooks-ts.com/
 
+html-canvas = https://playcanvas.com/
+
 ### **CSS**
 
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
