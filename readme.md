@@ -405,6 +405,8 @@ https://mantine.dev/
 
 react-libraries = https://reactlibraries.com/
 
+typescript-hooks = https://usehooks-ts.com/
+
 ### **CSS**
 
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
