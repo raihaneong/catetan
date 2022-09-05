@@ -197,7 +197,7 @@ auto_gambar= https://www.autodraw.com/
 
 design-style = synthwave, vaporwave
 
-
+designer-and-freelancer = https://eveerykit.com/product-category/for-designer-freelancer/
 
 ## UI UX
 
