@@ -379,6 +379,8 @@ deploy = https://dashboard.render.com/, https://www.heroku.com/, https://www.net
 
 books = the algorithm design manual 3rd edition
 
+algorithmic-art = https://www.ventrella.com/
+
 ## mobile
 
 https://cordova.apache.org/
