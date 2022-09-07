@@ -53,7 +53,7 @@ AI video= [synthesia.io](http://synthesia.io/), [rephrase.ai](http://rephrase.ai
 
 AI-music-generator = https://www.beatoven.ai/
 
-AI-image-generator = https://www.craiyon.com/
+AI-image-generator = https://www.craiyon.com/, https://www.wombo.art/
 
 brief-generator = https://goodbrief.io/
 
