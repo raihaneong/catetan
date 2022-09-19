@@ -700,6 +700,8 @@ design-pattern = https://refactoring.guru/design-patterns/, http://www.mcdonaldl
 
 https://hackernoon.com/
 
+limit-to-human-potential = https://www.laetusinpraesens.org/docs/limit.php#lima19
+
 # KULIAH
 
 Cek_data_mahasiswa= pddikti
