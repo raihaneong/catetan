@@ -503,7 +503,7 @@ https://shadows.brumm.af/
 
 https://rupl.github.io/unfold/
 
-css\
+CSS\
 https://html-css-js.com/css/generator/,
 https://webcode.tools/,
 https://www.toptal.com/developers/css3maker,
@@ -517,25 +517,25 @@ https://animista.net/,
 https://animista.net/,
 https://www.transition.style/
 
-background\
+Background\
 http://www.patternify.com/,
 http://dragdropsite.github.io/waterpipe.js/,
 https://bgjar.com/,
 https://stripesgenerator.com/,
 
-border\
+Border\
 https://9elements.github.io/fancy-border-radius/,
 https://mdbootstrap.com/docs/standard/tools/design/fancy-border-radius/,
 https://codepen.io/amit_sheen/pen/xxZeyjO,
 
-box-shadow\
+Box-shadow\
 https://shadows.brumm.af/,
 https://htmlcssfreebies.com/box-shadow-generator-multiple/,
 https://cssbud.com/css-generator/css-box-shadow-generator/,
 https://getcssscan.com/css-box-shadow-examples,
 https://cssbud.com/css-generator/css-glow-generator/
 
-button\
+Button\
 https://cssbuttoncreator.com/,
 https://www.bestcssbuttongenerator.com/,
 https://css-tricks.com/examples/ButtonMaker/,
@@ -543,33 +543,33 @@ https://getcssscan.com/css-buttons-examples,
 https://gradientbuttons.colorion.co/,
 https://markodenic.com/tools/buttons-generator/,
 
-dividers\
+Dividers\
 https://wweb.dev/resources/css-separator-generator/,
 https://www.shapedivider.app/,
 https://getwaves.io/
 
-filters\
+Filters\
 https://www.cssfilters.co/,
 https://baseline.is/tools/css-photo-filters/,
 https://hero-generator.netlify.app/
 
-gradients\
+Gradients\
 https://cssgradient.io/,
 https://www.colorzilla.com/gradient-editor/,
 https://meshgradient.com/,
 https://www.gradientos.app/
 
-layuots\
+Layuots\
 https://layout.bradwoods.io/,
 https://the-echoplex.net/flexyboxes/,
 https://cssgrid-generator.netlify.app/,
 https://codepen.io/michellebarker/full/zYOMYWv,
 https://grid.layoutit.com/
 
-palletes\
+Palletes\
 https://coolors.co/
 
-tools\
+Tools\
 https://omatsuri.app/,
 http://eky.hk/,
 https://doodlenerd.com/,
@@ -577,14 +577,14 @@ https://www.cssportal.com/,
 https://cssbud.com/,
 https://10015.io/
 
-typography\
+Typography\
 http://csstypeset.com/
 
-underline\
+Underline\
 https://underline-generator.netlify.app/?ref=undesign,
 https://cssbud.com/css-generator/css-underline-generator/
 
-generator\
+Generator\
 https://ui.glass/generator/,
 https://css.glass/,
 https://neumorphism.io/#e0e0e0,
@@ -595,26 +595,26 @@ https://jonsuh.com/hamburgers/,
 https://divtable.com/table-styler/,
 https://10015.io/tools/css-loader-generator
 
-chart\
+Chart\
 https://chartscss.org/	
 
-loading\
+Loading\
 https://whirl.netlify.app/,
 https://loading.io/
 
-color\
+Color\
 https://codepen.io/TajShireen/pen/YzZmbep
 
-accordion\
+Accordion\
 https://accordionslider.com/
 
-pixel\
+Pixel\
 https://www.pixelartcss.com/
 
-theme\
+Theme\
 https://theme.numl.design/
 
-blob\
+Blob\
 https://www.blobmaker.app/
 
 
