@@ -242,7 +242,11 @@ image_to_geometric_primitive = https://www.geometrize.co.uk/
 
 animated-drawing = https://sketch.metademolab.com/
 
-create art: [https://creator.nightcafe.studio/](https://creator.nightcafe.studio/)
+create art: https://creator.nightcafe.studio/
+
+Maps\
+https://pictogon.com/
+
 
 ## video
 
