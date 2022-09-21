@@ -269,8 +269,6 @@ Abstract = Tool.graphics
 
 Apus_objek= theinpaint, removebg, Nvidia inpainting
 
-Background= http://coolbackground.io/, transparenttexture, heropatterns, https://haikei.app/ https://www.svgbackgrounds.com/, https://gradienta.io/, https://www.visiwig.com/patterns/, https://patternpad.com/, https://bgjar.com/, https://pattern.monster/
-
 Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
 
 Icon = https://tablericons.com/, https://tabler-icons.io/
