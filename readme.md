@@ -204,6 +204,9 @@ design-style = synthwave, vaporwave
 
 designer-and-freelancer = https://eveerykit.com/product-category/for-designer-freelancer/
 
+Principles\
+https://principles.design/
+
 ## UI 
 
 UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/, https://userpersona.design/
