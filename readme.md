@@ -403,6 +403,15 @@ books = the algorithm design manual 3rd edition
 
 algorithmic-art = https://www.ventrella.com/
 
+Museum\
+https://www.kapwing.com/museum-of-websites
+
+Snippet\
+https://ray.so/
+
+Tools\
+https://landingpage.fyi/
+
 ## mobile
 
 https://cordova.apache.org/
