@@ -230,7 +230,12 @@ https://lawsofux.com
 
 https://www.useronboard.com/onboarding-ux-patterns/
 
+Pattern\
+http://uipatterns.io/, https://uxchecklist.github.io/
+
+
 ## UX
+https://uxtools.co/
 
 # ASSET
 
