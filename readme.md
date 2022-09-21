@@ -883,7 +883,8 @@ mager-nulis = https://jnckmedia.com/nulis/
 
 # WORK
 
-Resume/cv = https://resume.io/app, https://aksel.co.id/app/cv/dashboard
+Resume/cv\
+https://resume.io/app, https://aksel.co.id, https://standardresume.co/
 
 interview-preparation = https://30secondsofinterviews.org/, [64-interview-questions](https://soulsearch.files.wordpress.com/2007/05/64interviewquestions1.pdf)
 
