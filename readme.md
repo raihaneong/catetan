@@ -3,8 +3,9 @@
 - [CHALLENGE](#challenge)
 - [RANDOM STUFF](#random-stuff)
 - [DESIGN](#design)
-  - [UI/UX](#UI-UX)
-- [ASSETS](#ASSETS)
+  - [UI](#ui)
+  - [UX](#ux)
+- [ASSETS](#assets)
   - [image](#image)
   - [video](#video)
 - [PROGRAMMING](#programming)
@@ -14,8 +15,8 @@
     - [Javascript](#javascript)
   - [Back-end](#back-end)
   - [Other](#other)
-- [DATA STRUCTURE & ALGORITHM](#data-structure-&-algorithm)
-- [DATABASE](#database)
+  - [Data Structures & Algorithms](#data-structure-&-algorithm)
+  - [Database](#database)
 - [FREE STUFF](#free-stuff)
 - [ARTICLE](#article)
 - [KULIAH](#Kuliah)
@@ -790,7 +791,7 @@ Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle,
 
 
 
-# DATA STRUCTURE & ALGORITHM
+## Data Structures & Algorithms
 
 Visualization-data-structure-and-algorithm = Visualgo.net, https://algorithm-visualizer.org/, https://www.toptal.com/developers/sorting-algorithms
 
@@ -800,7 +801,7 @@ https://www.geeksforgeeks.org/data-structures/
 
 https://www.techinterviewhandbook.org/
 
-# DATABASE
+## Database
 
 https://supabase.com/
 
