@@ -4,10 +4,11 @@
 - [RANDOM STUFF](#random-stuff)
 - [DESIGN](#design)
   - [UI/UX](#UI-UX)
-- [ASSET](#ASSET)
+- [ASSETS](#ASSETS)
   - [image](#image)
   - [video](#video)
 - [PROGRAMMING](#programming)
+  - [Mobile](#mobile)
   - [Front-end](#front-end)
     - [CSS](#css)
     - [Javascript](#javascript)
@@ -237,9 +238,9 @@ http://uipatterns.io/, https://uxchecklist.github.io/
 ## UX
 https://uxtools.co/
 
-# ASSET
+# ASSETS
 
-## image 
+## Image
 
 image_to_text = https://www.text-image.com/convert/
 
@@ -256,7 +257,7 @@ Pattern\
 https://patternpad.com/
 
 
-## video
+## Video
 
 video_to_text = https://anthiago.com/transcript/
 
@@ -412,7 +413,7 @@ https://ray.so/
 Tools\
 https://landingpage.fyi/
 
-## mobile
+## **Mobile**
 
 https://cordova.apache.org/
 
@@ -451,7 +452,7 @@ html-canvas = https://playcanvas.com/
 Component\
 https://uiplaybook.dev/
 
-### **CSS**
+### ***CSS***
 
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
 
@@ -614,7 +615,7 @@ blob\
 https://www.blobmaker.app/
 
 
-### **Javascript**
+### ***Javascript***
 
 JS-dom = https://htmldom.dev/
 
@@ -634,7 +635,7 @@ https://javascript30.com/
 
 https://jstherightway.org/
 
-## **back-end**
+## **Back-end**
 
 API= publicapis, https://directus.io/, https://opentdb.com/
 
