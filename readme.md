@@ -151,6 +151,11 @@ FPS-game = https://app.3daimtrainer.com/quick-play
 
 Learn-language = [Japan](https://easyjapanese.net/)
 
+github-badge\
+https://badgen.net/
+
+
+
 --
 
 ssr ssg spa
