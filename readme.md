@@ -197,6 +197,32 @@ iaas, paas, baas, sass
 
 --
 
+--
+
+https://webcode.tools/\
+https://frontendchecklist.io/\
+https://sketch2code.azurewebsites.net/\
+https://unused-css.com/\
+https://www.magicpattern.design/tools\
+https://coolbackgrounds.io/\
+https://wickedbackgrounds.com/app\
+https://www.shapedivider.app/\
+https://www.uidesigndaily.com/\
+https://spline.design/\
+https://lawsofux.com/en/\
+https://animista.net/\
+https://screenlane.com/
+https://froala.com/design-blocks/\
+https://3dicons.co/\
+https://collectui.com/\
+https://www.humaaans.com/\
+https://www.checklist.design/\
+https://webgradients.com/\
+https://webframe.xyz/\
+
+
+--
+
 # DESIGN
 
 Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, https://material.io/, https://developer.apple.com/design/human-interface-guidelines/, https://atlassian.design/, https://www.carbondesignsystem.com/, https://www.lightningdesignsystem.com/, https://www.darkmodedesign.com/
