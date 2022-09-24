@@ -941,11 +941,13 @@ mager-nulis = https://jnckmedia.com/nulis/
 Resume/cv\
 https://resume.io/app, https://aksel.co.id, https://standardresume.co/
 
-interview-preparation = https://30secondsofinterviews.org/, [64-interview-questions](https://soulsearch.files.wordpress.com/2007/05/64interviewquestions1.pdf)
+Interview\
+[30secondsofinterviews](https://30secondsofinterviews.org/), [64-interview-questions](https://soulsearch.files.wordpress.com/2007/05/64interviewquestions1.pdf)
 
-work-oversea = https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0
+Oversea\
+[Relocation and Visa Sponsorship Jobs across the world](https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0
+)
 
-.
 
 .
 
