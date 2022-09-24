@@ -231,7 +231,8 @@ Visual Design\
 
 auto_gambar= https://www.autodraw.com/
 
-design-style = synthwave, vaporwave
+Design Style\
+synthwave, vaporwave, trippy
 
 designer-and-freelancer = https://eveerykit.com/product-category/for-designer-freelancer/
 
