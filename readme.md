@@ -917,14 +917,14 @@ mager-nulis = https://jnckmedia.com/nulis/
 1. Mengapa mengambil judul tersebut?
 2. Apa jenis penelitian kamu dan Mengapa mengambil jenis penelitian tersebut?
 3. Apa permasalahan skripsi kamu?
-4. Berapa populasi dan sampel pada penelitian kamu? \*kuan
+4. Berapa populasi dan sampel pada penelitian kamu? (kuantitatif)
 5. Pendekatan apa yang kamu gunakan? (kualitatif)
 6. Dimana kamu melakukan penelitian ini?
 7. Mengapa kamu memilih lokasi penelitian tersebut?
 8. Apa hambatan dalam melakukan penelitian?
 9. Teori siapa yang kamu gunakan di penelitian ini?
-10. Apa instruman penelitiar ini?
-11. Bagaimana prosedur per gambilan data penelitian ini?
+10. Apa instruman penelitian ini?
+11. Bagaimana prosedur pengambilan data penelitian ini?
 12. Bagaimana proses analisis data pada penelitian ini?
 13. Apa sumber data pada penelitian ini? (kualitatif)
 14. Apa hipotesis pada penelitian ini? (kuantitatif)
