@@ -897,8 +897,6 @@ Referencing\
 [Mendeley](https://www.mendeley.com/?interaction_required=true),
 [connected papers in a visual graph](https://www.connectedpapers.com/)
 
-Belajar-bahasa-inggris = https://mooec.com/
-
 Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, core.ac.uk
 
 Jurnal= https://zlib.org/https://e-resources.perpusnas.go.id/
