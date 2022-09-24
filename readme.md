@@ -27,19 +27,14 @@
 
 # CHALLENGE
 
-CSS = https://cssbattle.dev/, https://flukeout.github.io/, http://www.flexboxdefense.com/, https://cssgridgarden.com/#id
+CSS\
+[css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://www.flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
 
-https://leetcode.com/problemset/all/
+Data Structures and Algorithms\
+[leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://www.hackerrank.com), [codewars](https://www.codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/)
 
-https://www.hackerrank.com/raihneong
-
-https://www.codewars.com/dashboard
-
-https://algo.monster/
-
-https://neetcode.io/
-
-Typing = https://zty.pe/
+Typing\
+[ztype](https://zty.pe/)
 
 
 # RANDOM STUFF
