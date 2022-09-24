@@ -226,7 +226,8 @@ https://www.lapa.ninja/
 
 # DESIGN
 
-Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, https://material.io/, https://developer.apple.com/design/human-interface-guidelines/, https://atlassian.design/, https://www.carbondesignsystem.com/, https://www.lightningdesignsystem.com/, https://www.darkmodedesign.com/
+Visual Design\
+[design system repo](https://designsystemsrepo.com/), [atlasian design](https://atlassian.design/), [material design](https://material.io/), [primer style](https://primer.style/), [spectrum adobe](https://spectrum.adobe.com/), [Microsoft fluent design system](https://www.microsoft.com/design/fluent/), [human interface guidlines by apple](https://developer.apple.com/design/human-interface-guidelines/), [carbon design system by ibm](https://www.carbondesignsystem.com/), [salesforce lightning design system](https://www.lightningdesignsystem.com/), [dark mode design](https://www.darkmodedesign.com/)
 
 auto_gambar= https://www.autodraw.com/
 
