@@ -409,6 +409,9 @@ https://kleki.com/
 
 # PROGRAMMING
 
+Design Pattern\
+https://refactoring.guru/design-patterns/, http://www.mcdonaldland.info/2007/11/28/40/, https://www.cs.cmu.edu/~charlie/courses/15-214/2016-spring/slides/24%20-%20All%20the%20GoF%20Patterns.pdf, https://www.patterns.dev/
+
 web3: app.stackup.dev, Learnweb3.io, cryptozombies.io, buildspace.so, questbookapp.xyz, nftschool.dev, remix.ethereum.org, ethernaut.openzeppelin.com,solanacookbook.com, useweb3.xyz, buildspace.io, https://www.useweb3.xyz/
 
 buildFastFUllStackWebApps = https://glitch.com/
@@ -879,7 +882,6 @@ Online-tools-for-dev = https://extendsclass.com/
 
 # ARTICLE
 
-design-pattern = https://refactoring.guru/design-patterns/, http://www.mcdonaldland.info/2007/11/28/40/, https://www.cs.cmu.edu/~charlie/courses/15-214/2016-spring/slides/24%20-%20All%20the%20GoF%20Patterns.pdf, https://www.patterns.dev/
 
 https://hackernoon.com/
 
