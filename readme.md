@@ -906,11 +906,14 @@ Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, 
 
 ---bahasa_inggris https://sinta.kemdikbud.go.id/journalshttps://www.sinta.ristekbrin.go.id/journals/detail?id=689https://www.sciencedirect.com/https://scholar.google.com/https://doaj.org/https://www.jstor.org/https://www.iosrjournals.org/https://www.scopus.com/sources
 
-Nulis= shortlyai, rytr.me, speedwrite, https://hyperwriteai.com/
+Paraphrase\
+[shortlyai](https://www.shortlyai.com/), [rytrme](https://rytr.me/), [speedwrite](https://speedwrite.com/), [hyperwriteai](https://hyperwriteai.com/), [wordtune](https://www.wordtune.com/)
 
-english-IPA = https://www.phonetizer.com/ui, https://tophonetics.com/
+International Phonetic Alphabet Translator\
+[phonetizer](https://www.phonetizer.com/ui), [tophonetics](https://tophonetics.com/)
 
-mager-nulis = https://jnckmedia.com/nulis/
+Text to Handwriting\
+[jnckmedia](https://jnckmedia.com/nulis/)
 
 <img src="pertanyaan-skripsi.jpeg" alt="pertanyaan-skripsi" width="250"/>
 
