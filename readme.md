@@ -887,13 +887,15 @@ limit-to-human-potential = https://www.laetusinpraesens.org/docs/limit.php#lima1
 
 # KULIAH
 
-Cek_data_mahasiswa= pddikti
+Profile\
+[Pangkalan Data Pendidikan Tinggi](https://pddikti.kemdikbud.go.id/)
 
-Survey = https://info.populix.co/en/poplite-en/
+Survey\
+[Self service survey](https://info.populix.co/en/poplite-en/)
 
-turinit Research= https://www.connectedpapers.com/
-
-Bikin_dafpus= mendeley
+Referencing\
+[Mendeley](https://www.mendeley.com/?interaction_required=true),
+[connected papers in a visual graph](https://www.connectedpapers.com/)
 
 Belajar-bahasa-inggris = https://mooec.com/
 
