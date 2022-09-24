@@ -400,6 +400,9 @@ Make_music= onlinesequencer, mubert.com https://samplefocus.com/ vocalremoverorg
 Draw_online= sketch.io, photopea, fotor
 Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 
+Cool\
+Trippy edit
+
 --
 
 https://kleki.com/
