@@ -152,6 +152,10 @@ Learn-language = [Japan](https://easyjapanese.net/)
 github-badge\
 https://badgen.net/
 
+Freelance\
+[designer+freelance](https://eveerykit.com/product-category/for-designer-freelancer/)
+
+
 
 
 --
@@ -226,8 +230,6 @@ Visual Design\
 
 Design Style\
 synthwave, vaporwave, trippy
-
-designer-and-freelancer = https://eveerykit.com/product-category/for-designer-freelancer/
 
 Principles\
 [design principles](https://principles.design/)
