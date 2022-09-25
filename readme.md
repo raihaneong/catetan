@@ -224,8 +224,6 @@ https://www.lapa.ninja/
 Visual Design\
 [design system repo](https://designsystemsrepo.com/), [atlasian design](https://atlassian.design/), [material design](https://material.io/), [primer style](https://primer.style/), [spectrum adobe](https://spectrum.adobe.com/), [Microsoft fluent design system](https://www.microsoft.com/design/fluent/), [human interface guidlines by apple](https://developer.apple.com/design/human-interface-guidelines/), [carbon design system by ibm](https://www.carbondesignsystem.com/), [salesforce lightning design system](https://www.lightningdesignsystem.com/), [dark mode design](https://www.darkmodedesign.com/)
 
-auto_gambar= https://www.autodraw.com/
-
 Design Style\
 synthwave, vaporwave, trippy
 
@@ -289,6 +287,9 @@ https://pictogon.com/
 
 Pattern\
 https://patternpad.com/
+
+AI Drawing\
+[autodraw](https://www.autodraw.com/)
 
 
 ## Video
