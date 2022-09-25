@@ -149,8 +149,8 @@ FPS-game = https://app.3daimtrainer.com/quick-play
 
 Learn-language = [Japan](https://easyjapanese.net/)
 
-github-badge\
-https://badgen.net/
+Github badge\
+[classic badge](https://badgen.net/)
 
 Freelance\
 [designer+freelance](https://eveerykit.com/product-category/for-designer-freelancer/)
