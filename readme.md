@@ -916,8 +916,6 @@ Buku\
 [perpusnas e-resources](https://e-resources.perpusnas.go.id/), [pdfdrive](https://www.pdfdrive.com/)
  
 
-https://garuda.ristekbrin.go.id/ 
-
 https://moraref.kemenag.go.id/
 
 https://www.sciencedirect.com/ 
