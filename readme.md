@@ -926,8 +926,6 @@ http://isjd.pdii.lipi.go.id/
 
 https://garuda.ristekbrin.go.id/ 
 
-https://scholar.google.co.id/schhp?hl=id 
-
 https://moraref.kemenag.go.id/
 
 https://www.sciencedirect.com/ 
