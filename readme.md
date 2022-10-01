@@ -908,7 +908,12 @@ Referencing\
 [Mendeley](https://www.mendeley.com/?interaction_required=true),
 [connected papers in a visual graph](https://www.connectedpapers.com/)
 
-Jurnal= 
+Jurnal\
+[indonesian scientific journal database](http://isjd.pdii.lipi.go.id/)
+
+Buku\
+[perpusnas e-resources](https://e-resources.perpusnas.go.id/),
+ 
 
 citationsy.com, 
 
@@ -938,9 +943,7 @@ https://www.jstor.org/
 
 https://www.iosrjournals.org/
 
-https://e-resources.perpusnas.go.id/ 
 
-http://isjd.pdii.lipi.go.id/ 
 
 https://garuda.kemdikbud.go.id/ 
 
