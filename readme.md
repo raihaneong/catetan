@@ -907,24 +907,14 @@ Survey\
 
 Referencing\
 [Mendeley](https://www.mendeley.com/?interaction_required=true),
-[connected papers in a visual graph](https://www.connectedpapers.com/), [newspaper archive](https://elephind.com/)
+[connected papers in a visual graph](https://www.connectedpapers.com/), [newspaper archive](https://elephind.com/), [Citationsy](https://citationsy.com/), [OAI Identifier](https://oai.core.ac.uk/)
 
 Jurnal\
-[indonesian scientific journal database](http://isjd.pdii.lipi.go.id/)
+[indonesian scientific journal database](http://isjd.pdii.lipi.go.id/), [Internet Archive Journal](https://archive.org/details/journals)
 
 Buku\
 [perpusnas e-resources](https://e-resources.perpusnas.go.id/), [pdfdrive](https://www.pdfdrive.com/)
  
-
-citationsy.com, 
-
-archive.org, 
-
-elephind.com, 
-
-pdfdrive.com, 
-
-core.ac.uk
 
 https://e-resources.perpusnas.go.id/
 
