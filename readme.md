@@ -916,19 +916,7 @@ Buku\
 [perpusnas e-resources](https://e-resources.perpusnas.go.id/), [pdfdrive](https://www.pdfdrive.com/)
  
 
-https://moraref.kemenag.go.id/
-
-https://www.sciencedirect.com/ 
-
-https://scholar.google.com/ 
-
-https://doaj.org/ 
-
-https://www.jstor.org/ 
-
-https://www.iosrjournals.org/
-
-
+https://scholar.google.com/  
 
 https://garuda.kemdikbud.go.id/ 
 
