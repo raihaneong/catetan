@@ -908,9 +908,17 @@ Referencing\
 [Mendeley](https://www.mendeley.com/?interaction_required=true),
 [connected papers in a visual graph](https://www.connectedpapers.com/)
 
-citationsy.com, archive.org, elephind.com, pdfdrive.com, core.ac.uk
-
 Jurnal= 
+
+citationsy.com, 
+
+archive.org, 
+
+elephind.com, 
+
+pdfdrive.com, 
+
+core.ac.uk
 
 https://e-resources.perpusnas.go.id/
 
