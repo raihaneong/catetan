@@ -952,9 +952,7 @@ https://sinta.kemdikbud.go.id/journals
 
 https://www.sinta.ristekbrin.go.id/journals/detail?id=689 
 
-https://www.sciencedirect.com/ 
-
-https://scholar.google.com/ 
+https://www.sciencedirect.com/  
 
 https://doaj.org/ 
 
