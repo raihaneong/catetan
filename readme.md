@@ -944,8 +944,6 @@ http://isjd.pdii.lipi.go.id/
 
 https://garuda.kemdikbud.go.id/ 
 
-https://scholar.google.co.id/schhp?hl=id 
-
 https://moraref.kemenag.go.id/
 
 https://sinta.kemdikbud.go.id/journals 
