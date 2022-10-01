@@ -910,7 +910,7 @@ Referencing\
 
 Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, core.ac.uk
 
-Jurnal= https://zlib.org/https://e-resources.perpusnas.go.id/
+Jurnal= https://e-resources.perpusnas.go.id/
 http://isjd.pdii.lipi.go.id/ https://garuda.ristekbrin.go.id/https://scholar.google.co.id/schhp?hl=idhttps://moraref.kemenag.go.id/ --- https://www.sciencedirect.com/https://scholar.google.com/https://doaj.org/https://www.jstor.org/https://www.iosrjournals.org/
 
 Buku= Schoolar.google, citationsy.com, archive.org, elephind.com, pdfdrive.com, core.ac.uk Jurnal/artikel= bahasa_indo https://e-resources.perpusnas.go.id/http://isjd.pdii.lipi.go.id/https://garuda.kemdikbud.go.id/https://scholar.google.co.id/schhp?hl=idhttps://moraref.kemenag.go.id/
