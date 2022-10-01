@@ -237,6 +237,9 @@ Principles\
 Logo Generator\
 [logology](https://www.logology.co/), [tailorbrands](https://www.tailorbrands.com/logo-maker), [artify](https://www.artify.co/), [shopify](https://www.shopify.com/tools/logo-maker)
 
+Illustration 3D\
+[shapefest](https://www.shapefest.com/)
+
 ## UI 
 
 UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/, https://userpersona.design/
