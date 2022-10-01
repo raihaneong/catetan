@@ -906,13 +906,13 @@ Survey\
 
 Referencing\
 [Mendeley](https://www.mendeley.com/?interaction_required=true),
-[connected papers in a visual graph](https://www.connectedpapers.com/)
+[connected papers in a visual graph](https://www.connectedpapers.com/), [newspaper archive](https://elephind.com/)
 
 Jurnal\
 [indonesian scientific journal database](http://isjd.pdii.lipi.go.id/)
 
 Buku\
-[perpusnas e-resources](https://e-resources.perpusnas.go.id/),
+[perpusnas e-resources](https://e-resources.perpusnas.go.id/), [pdfdrive](https://www.pdfdrive.com/)
  
 
 citationsy.com, 
