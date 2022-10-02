@@ -465,13 +465,14 @@ https://cordova.apache.org/
 
 ## **Front-end**
 
+3D\
+[spline](https://spline.design/), [p3d](https://p3d.in/), [sketchfab](https://sketchfab.com/), [cannonjs](http://www.cannonjs.org/)
+
 create-frontEnd-fast = https://www.editorx.com/
 
 Design-to-webapps = https://www.locofy.ai/
 
 React = https://mui.com/
-
-3D = https://spline.design/
 
 metatags = https://metatags.io/
 
