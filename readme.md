@@ -466,7 +466,7 @@ https://cordova.apache.org/
 ## **Front-end**
 
 3D\
-[spline](https://spline.design/), [p3d](https://p3d.in/), [sketchfab](https://sketchfab.com/), [cannonjs](http://www.cannonjs.org/)
+[spline](https://spline.design/), [p3d](https://p3d.in/), [sketchfab](https://sketchfab.com/), [cannonjs](http://www.cannonjs.org/), [draco](https://google.github.io/draco/)
 
 create-frontEnd-fast = https://www.editorx.com/
 
