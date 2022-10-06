@@ -912,20 +912,6 @@ Referencing (include journal and article)\
 
 Buku\
 [perpusnas e-resources](https://e-resources.perpusnas.go.id/), [pdfdrive](https://www.pdfdrive.com/)
- 
-
- 
-
-
-
-
-
-
-
-
- 
-
-
 
 Paraphrase\
 [shortlyai](https://www.shortlyai.com/), [rytrme](https://rytr.me/), [speedwrite](https://speedwrite.com/), [hyperwriteai](https://hyperwriteai.com/), [wordtune](https://www.wordtune.com/)
