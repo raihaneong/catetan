@@ -444,7 +444,8 @@ learn-about-the-web = https://howhttps.works/, https://howdns.works/
 
 game-in-web = https://donitz.itch.io/
 
-deploy = https://dashboard.render.com/, https://www.heroku.com/, https://www.netlify.com/, https://vercel.com/
+Deploy Website\
+[render](https://render.com/), [heroku](https://www.heroku.com/), [netlify](https://www.netlify.com/), [vercel](https://vercel.com/), [surge sh](https://surge.sh/)
 
 books = the algorithm design manual 3rd edition
 
