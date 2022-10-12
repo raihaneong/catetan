@@ -476,6 +476,9 @@ Linux\
 Museum\
 https://www.kapwing.com/museum-of-websites
 
+Open-Source\
+[notification infrastucture](https://novu.co/)
+
 Snippet\
 https://ray.so/
 
