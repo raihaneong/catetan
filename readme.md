@@ -467,6 +467,12 @@ books = the algorithm design manual 3rd edition
 
 algorithmic-art = https://www.ventrella.com/
 
+Git\
+[most frequently ask](https://firstaidgit.io/#/)
+
+Linux\
+[learn linux survival](https://linuxsurvival.com/)
+
 Museum\
 https://www.kapwing.com/museum-of-websites
 
