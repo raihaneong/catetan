@@ -933,13 +933,14 @@ Survey\
 [Self service survey](https://info.populix.co/en/poplite-en/)
 
 Referencing (include journal and article)\
+[Mendeley](https://www.mendeley.com/),
 [connected papers in a visual graph](https://www.connectedpapers.com/), [world's historical newspaper archive](https://elephind.com/), [Citationsy](https://citationsy.com/), [OAI Identifier](https://oai.core.ac.uk/), [Ministry of Religious Affairs Reference kemenag](https://moraref.kemenag.go.id/), [science direct](https://www.sciencedirect.com/), [scopus](https://www.scopus.com/sources), [indonesian scientific journal database](http://isjd.pdii.lipi.go.id/), [Internet Archive Journal](https://archive.org/details/journals), [google schoolar](https://scholar.google.com/), [garuda kemdikbud](https://garuda.kemdikbud.go.id/), [sinta kemdikbud](https://sinta.kemdikbud.go.id/journals), [moraref kemenag](https://moraref.kemenag.go.id/archives/journal), [International Organization of Scientific Research](https://www.iosrjournals.org/), [Directory of Open Access Journals](https://doaj.org/ ), [JSTOR](https://www.jstor.org/), [high-quality images from anywhere](https://www.jstor.org/site/artstor/)
 
 Buku\
 [perpusnas e-resources](https://e-resources.perpusnas.go.id/), [pdfdrive](https://www.pdfdrive.com/)
 
 Bibliography\
-[publish or perish](https://harzing.com/resources/publish-or-perish), [Mendeley](https://www.mendeley.com/)
+[publish or perish](https://harzing.com/resources/publish-or-perish), [mendeley referencing manager](https://www.mendeley.com/reference-management/reference-manager)
 
 Paraphrase\
 [shortlyai](https://www.shortlyai.com/), [rytrme](https://rytr.me/), [speedwrite](https://speedwrite.com/), [hyperwriteai](https://hyperwriteai.com/), [wordtune](https://www.wordtune.com/)
