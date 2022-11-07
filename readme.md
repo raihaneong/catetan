@@ -293,7 +293,7 @@ https://uxtools.co/
 # ASSETS
 
 Skeletal Animation\
-[dragonspine](https://docs.egret.com/dragonbones/en/)
+[dragonbone](https://docs.egret.com/dragonbones/en/)
 
 ## Image
 
