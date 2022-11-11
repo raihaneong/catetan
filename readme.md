@@ -1,6 +1,5 @@
 
 # Table of Contents
-- [CHALLENGE](#challenge)
 - [RANDOM STUFF](#random-stuff)
 - [DESIGN](#design)
   - [UI](#ui)
@@ -9,6 +8,7 @@
   - [Image](#image)
   - [Video](#video)
 - [PROGRAMMING](#programming)
+  - [Challenge](#challenge)
   - [Mobile](#mobile)
   - [Front-end](#front-end)
     - [CSS](#css)
@@ -24,17 +24,6 @@
 
 ---
 
-
-# CHALLENGE
-
-CSS\
-[css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://www.flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
-
-Data Structures and Algorithms\
-[leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://www.hackerrank.com), [codewars](https://www.codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/)
-
-Typing\
-[ztype](https://zty.pe/)
 
 
 # RANDOM STUFF
@@ -487,6 +476,17 @@ https://ray.so/
 
 Tools\
 https://landingpage.fyi/
+
+## CHALLENGE
+
+CSS\
+[css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://www.flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
+
+Data Structures and Algorithms\
+[leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://www.hackerrank.com), [codewars](https://www.codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/)
+
+Typing\
+[ztype](https://zty.pe/)
 
 ## **Mobile**
 
