@@ -229,6 +229,32 @@ https://www.lapa.ninja/
 
 --
 
+???
+https://jsdares.com/\
+https://codecombat.com/\
+https://freecodecamp.itch.io/learn-to-code-rpg\
+https://javascriptquiz.com/\
+https://screeps.com/\
+https://flukeout.github.io/\
+https://mastery.games/\
+https://codepip.com/games/\
+https://openvim.com/\
+https://codingfantasy.com/games\
+https://knightsoftheflexboxtable.com/\
+https://katydecorah.com/css-ruler/\
+https://typescript-exercises.github.io/\
+https://designpatternsgame.com/\
+https://react-tutorial.app/\
+https://bevacqua.github.io/promisees/\
+https://learngitbranching.js.org/\
+https://selectstarsql.com/\
+https://regex101.com/\
+https://regexcrossword.com/\
+https://regexone.com/\
+https://lab.reaal.me/jsrobot/\
+http://www.crunchzilla.com/\
+
+
 # DESIGN
 
 Visual Design\
