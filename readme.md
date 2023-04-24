@@ -960,6 +960,17 @@ sqlite = https://www.sqlitetutorial.net/sqlite-nodejs/
 
 3d = https://www.dora.run/
 
+auth0
+netlify
+vercel
+
+clerk
+firebase
+supabase
+planetscale
+sendgrid
+mailgun
+
 # ARTICLE
 
 
