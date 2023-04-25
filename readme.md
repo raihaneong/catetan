@@ -958,7 +958,7 @@ sqlite = https://www.sqlitetutorial.net/sqlite-nodejs/
 
 # TEMPORAL
 
-3d = https://www.dora.run/
+3d = https://www.dora.run/, https://www.theatrejs.com/
 
 auth0
 netlify
