@@ -1010,7 +1010,6 @@ Text to Handwriting\
 
 ## Pertanyaan ketika skripsi
 
-<img src="pertanyaan-skripsi.jpeg" alt="pertanyaan-skripsi" width="250"/>
 
 1. Mengapa mengambil judul tersebut?
 2. Apa jenis penelitian kamu dan Mengapa mengambil jenis penelitian tersebut?
