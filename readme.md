@@ -1,5 +1,6 @@
 
 # Table of Contents
+- [BOOKS](BOOKS)
 - [RANDOM STUFF](#random-stuff)
 - [DESIGN](#design)
   - [UI](#ui)
@@ -25,7 +26,7 @@
 
 ---
 
-
+# BOOKS
 
 # RANDOM STUFF
 
