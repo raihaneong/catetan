@@ -28,6 +28,8 @@
 
 # BOOKS
 
+https://edu.anarcho-copy.org/Programming%20Languages/
+
 # RANDOM STUFF
 
 Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
