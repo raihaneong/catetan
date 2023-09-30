@@ -23,6 +23,7 @@
 - [ARTICLE](#article)
 - [KULIAH](#Kuliah)
 - [WORK](#work)
+- [UNCATEGORIZED](UNCATEGORIZED)
 
 ---
 
@@ -1047,6 +1048,9 @@ Interview\
 Oversea\
 [Relocation and Visa Sponsorship Jobs across the world](https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0
 )
+
+
+# UNCATEGORIZED
 
 
 .
