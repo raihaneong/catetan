@@ -25,8 +25,9 @@
 - [WORK](#work)
 - [UNCATEGORIZED](UNCATEGORIZED) -->
 
-pin:
-swe, learn
+[swe](#swe)\
+[learn](#learn)\
+[uncategorized](#uncategorized)
 
 chrome bookmarks:
 [mastodon-servers](https://joinmastodon.org/servers)
