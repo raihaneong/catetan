@@ -25,6 +25,12 @@
 - [WORK](#work)
 - [UNCATEGORIZED](UNCATEGORIZED)
 
+pin:
+swe, learn
+
+chrome bookmarks:
+[mastodon-servers](https://joinmastodon.org/servers)
+
 ---
 
 # BOOKS
