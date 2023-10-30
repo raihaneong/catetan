@@ -1,6 +1,6 @@
 
 # Table of Contents
-- [BOOKS](BOOKS)
+<!-- - [BOOKS](BOOKS)
 - [RANDOM STUFF](#random-stuff)
 - [DESIGN](#design)
   - [UI](#ui)
@@ -23,7 +23,7 @@
 - [ARTICLE](#article)
 - [KULIAH](#Kuliah)
 - [WORK](#work)
-- [UNCATEGORIZED](UNCATEGORIZED)
+- [UNCATEGORIZED](UNCATEGORIZED) -->
 
 pin:
 swe, learn
