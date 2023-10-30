@@ -29,8 +29,8 @@
 [learn](#learn)\
 [uncategorized](#uncategorized)
 
-chrome bookmarks:
-[mastodon-servers](https://joinmastodon.org/servers)
+chrome bookmarks:\
+[mastodon-servers](https://joinmastodon.org/servers), https://www.w3.org/, https://www.a11y-101.com/, https://www.freebsd.org/, https://springframework.guru/gang-of-four-design-patterns/, https://systemdesign.one/categories/, https://survey.devographics.com/en-US, https://www.learncpp.com/, https://www.learn-js.org/, https://www.howtographql.com/, https://devhints.io/, https://gitconnected.com/learn, https://roadmap.sh/a
 
 ---
 
