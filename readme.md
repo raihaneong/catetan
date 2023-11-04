@@ -12,7 +12,7 @@
 [swe](#swe)\
 [designer](#designer)\
 [academic](#academic)\
-[job](#job)
+[job](#job)\
 [uncategorized](#uncategorized)
 
 chrome bookmarks:\
