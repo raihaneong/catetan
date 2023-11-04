@@ -86,32 +86,6 @@ Text-to-Speech= [https://notevibes.com/](https://notevibes.com/), [https://fakey
 
 vocal-instrument-separate = [https://www.lalal.ai/](https://www.lalal.ai/)
 
-Rakit_pc= pcpartpicker
-
-Founder= foundercontent
-
-Tools= neontools, uberduckai
-
-Bussinesnamegenerator= Namelix
-
-Brand= brandingstyleguide, https://brandfetch.com/
-
-Bikin_rumah= roomstyler
-
-Bikin_kemasan_produk= Templatemaker.nl
-
-Bapenda jabar
-
-IP-tracking= grabify.link
-
-Unknown= ihateregex.io
-
-Komparasi_file= textcompare
-
-Kombo_keyboard= Shortcuts.design
-
-Tanpa_install= neverinstall.com
-
 AI video= synthesia.io, rephrase.ai, spik.ai, dictation.io
 
 Cari_muka_orang= pimpeyes
