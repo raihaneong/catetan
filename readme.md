@@ -1067,6 +1067,19 @@ https://www.rfc-editor.org/
 
 https://www.gnu.org/
 
+https://pcpartpicker.com/\
+https://foundercontent.com/\
+https://namelix.com/\
+https://roomstyler.com/\
+https://www.uberduck.ai/\
+https://neontools.io/\
+https://grabify.link/\
+https://ihateregex.io/\
+https://www.templatemaker.nl/en/\
+https://text-compare.com/\
+https://shortcuts.design/\
+https://neverinstall.com/\
+
 
 .
 
