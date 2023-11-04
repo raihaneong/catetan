@@ -1,9 +1,6 @@
 
 # Table of Contents
 <!-- - [BOOKS](BOOKS)
-- [DESIGN](#design)
-  - [Image](#image)
-  - [Video](#video)
 -->
 
 [swe](#swe)\
