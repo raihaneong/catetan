@@ -1,7 +1,6 @@
 
 # Table of Contents
 <!-- - [BOOKS](BOOKS)
-- [RANDOM STUFF](#random-stuff)
 - [DESIGN](#design)
   - [Image](#image)
   - [Video](#video)
@@ -795,11 +794,6 @@ AI Drawing\
 # BOOKS
 
 https://edu.anarcho-copy.org/Programming%20Languages/
-
-# RANDOM STUFF
-
-
---
 
 # ACADEMIC
 
