@@ -35,11 +35,8 @@ chrome bookmarks:\
 
 # UNCATEGORIZED
 http://info.cern.ch/
-
 https://www.rfc-editor.org/
-
 https://www.gnu.org/
-
 https://pcpartpicker.com/\
 https://foundercontent.com/\
 https://namelix.com/\
