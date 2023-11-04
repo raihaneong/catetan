@@ -188,6 +188,26 @@ Archive\
 
 [My 2000's Tv](https://www.my00stv.com/#)
 
+https://exercism.org/
+
+[teachyourselfcs.com](https://teachyourselfcs.com/)
+
+https://freestuff.dev/
+
+https://free-for.dev/#/
+
+https://learnxinyminutes.com/docs/javascript/
+
+https://web.dev/
+
+https://hackr.io/
+
+https://egghead.io/
+
+https://scrimba.com/allcourses?price=free
+
+Online-tools-for-dev = https://extendsclass.com/
+
 
 
 [back to top](#table-of-contents)
@@ -262,28 +282,6 @@ Data Structures and Algorithms\
 
 Typing\
 [ztype](https://zty.pe/)
-
-FREE STUFF
-
-https://exercism.org/
-
-[teachyourselfcs.com](https://teachyourselfcs.com/)
-
-https://freestuff.dev/
-
-https://free-for.dev/#/
-
-https://learnxinyminutes.com/docs/javascript/
-
-https://web.dev/
-
-https://hackr.io/
-
-https://egghead.io/
-
-https://scrimba.com/allcourses?price=free
-
-Online-tools-for-dev = https://extendsclass.com/
 
 ## **Mobile**
 
