@@ -8,6 +8,7 @@
 
 [swe](#swe)\
 [designer](#designer)\
+[asset](#asset)
 [academic](#academic)\
 [job](#job)\
 [uncategorized](#uncategorized)
@@ -786,6 +787,9 @@ AI Drawing\
 
 [back to top](#table-of-contents)
 
+# ASSET
+
+[back to top](#table-of-contents)
 
 # BOOKS
 
