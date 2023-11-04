@@ -94,8 +94,6 @@ Papan_tulis= witeboard.com
 
 Bagi_file= wetransfer.com
 
-Emosi= Emotionchart
-
 Langganan= seakunid
 
 Video_quote= Playphraseme
