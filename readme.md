@@ -16,6 +16,7 @@
 [designer](#designer)\
 <!-- [learn](#learn)\ -->
 [academic](#academic)\
+[job](#job)
 [uncategorized](#uncategorized)
 
 chrome bookmarks:\
@@ -853,6 +854,7 @@ Text to Handwriting\
 21. Apakah kesimpulan penelitian ini sudah menjawab rumusan masalah?
 
 
+# JOB
 
 
 
