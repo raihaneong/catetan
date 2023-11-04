@@ -623,6 +623,88 @@ sqlite = https://www.sqlitetutorial.net/sqlite-nodejs/
 
 # DESIGNER
 
+Visual Design\
+[design system repo](https://designsystemsrepo.com/), [atlasian design](https://atlassian.design/), [material design](https://material.io/), [primer style](https://primer.style/), [spectrum adobe](https://spectrum.adobe.com/), [Microsoft fluent design system](https://www.microsoft.com/design/fluent/), [human interface guidlines by apple](https://developer.apple.com/design/human-interface-guidelines/), [carbon design system by ibm](https://www.carbondesignsystem.com/), [salesforce lightning design system](https://www.lightningdesignsystem.com/), [dark mode design](https://www.darkmodedesign.com/)
+
+Design System\
+[google material design](https://m3.material.io/), [Apple human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/platforms/overview), [atlasian design system](https://atlassian.design/), [pajamas gitlab design system](https://design.gitlab.com/), [firefox photon design system](https://design.firefox.com/photon/), [mailchimp patter library](https://ux.mailchimp.com/patterns/color), [uniform hudl design](http://uniform.hudltools.com/), [thumbprint design system](https://thumbprint.design/), [rizzo lonely planet](https://adele.uxpin.com/lonely-planet-rizzo), [carbon design system](https://carbondesignsystem.com/), [stackoverflow design](https://stackoverflow.design/), [audi user interface](https://www.audi.com/ci/en/guides/user-interface/introduction.html), [bbc GEL](https://www.bbc.co.uk/gel/guidelines), [hubspot canvas design system](https://canvas.hubspot.com/), [ant design](https://ant.design/), [polaris shopify](https://polaris.shopify.com/), [grommet](https://v2.grommet.io/), [marvelapp styleguide](https://marvelapp.com/styleguide/overview/introduction), [garden zendesk](https://garden.zendesk.com/), [salesforce ligthning design sytem](https://www.lightningdesignsystem.com/), [uber base web](https://baseweb.design/), [gojek ashpalt aloha](https://asphalt.gojek.io/), [orbit kiwi](https://orbit.kiwi/), [microsoft fluent UI](https://developer.microsoft.com/en-us/fluentui#/), [patternfly](https://www.patternfly.org/v4/), [pega constellation](https://design.pega.com/), [gold australia design system](https://gold.designsystemau.org/), [mozilla protocol](https://protocol.mozilla.org/), [intuit quickbooks](https://designsystem.quickbooks.com/), [workday canvas](https://canvas.workday.com/), [yelp cookbook](https://www.yelp.com/styleguide), [airbnb visual language](https://airbnb.design/building-a-visual-language/), [spectrum adobe](https://spectrum.adobe.com/), [lexicon liferay design](https://liferay.design/lexicon/), [microsoft fluent](https://www.microsoft.com/design/fluent/), [solid buzzfeed](https://solid.buzzfeed.com/), [mongodb ui design](https://www.mongodb.design/#/ui-design-system/welcome), [mixpanel design](https://design.mixpanel.com/), [solar bulb design](https://design.bulb.co.uk/), [oracle alta UI](https://www.oracle.com/webfolder/ux/middleware/alta/index.html), [latitude flexport design](https://www.flexport.com/design), [sap fiori design](https://experience.sap.com/fiori-design-web/), [evergreen segment design](https://evergreen.segment.com/), [clarity design](https://clarity.design/)
+
+Design Style\
+synthwave, vaporwave, trippy
+
+Principles\
+[design principles](https://principles.design/)
+
+Logo Generator\
+[logology](https://www.logology.co/), [tailorbrands](https://www.tailorbrands.com/logo-maker), [artify](https://www.artify.co/), [shopify](https://www.shopify.com/tools/logo-maker)
+
+Illustration 2D\
+[sketchvalley](https://sketchvalley.com/)
+
+Illustration 3D\
+[shapefest](https://www.shapefest.com/)
+
+## UI 
+
+UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/, https://userpersona.design/
+https://penpot.app/
+
+https://material.io/
+
+https://www.geometrize.co.uk/
+
+https://stellarium-web.org/
+
+https://www.solarsystemscope.com/
+
+https://stars.chromeexperiments.com/
+
+https://www.dailyui.co/
+
+https://advntr.co/
+
+https://lawsofux.com
+
+https://www.useronboard.com/onboarding-ux-patterns/
+
+Pattern\
+http://uipatterns.io/, https://uxchecklist.github.io/
+
+
+## UX
+https://uxtools.co/
+
+# ASSETS
+
+Skeletal Animation\
+[dragonbone](https://docs.egret.com/dragonbones/en/)
+
+## Image
+
+Tool\
+https://haikei.app/
+
+Background= coolbackground.io, transparenttexture, heropatterns, https://www.svgbackgrounds.com/ https://gradienta.io/ https://www.visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
+
+image_to_text = https://www.text-image.com/convert/
+
+image_to_geometric_primitive = https://www.geometrize.co.uk/
+
+animated-drawing = https://sketch.metademolab.com/
+
+create art: https://creator.nightcafe.studio/
+
+Maps\
+https://pictogon.com/
+
+Pattern\
+https://patternpad.com/
+
+AI Drawing\
+[autodraw](https://www.autodraw.com/)
+
+
+
 [back to top](#table-of-contents)
 
 
@@ -734,86 +816,6 @@ Archive\
 
 
 # DESIGN
-
-Visual Design\
-[design system repo](https://designsystemsrepo.com/), [atlasian design](https://atlassian.design/), [material design](https://material.io/), [primer style](https://primer.style/), [spectrum adobe](https://spectrum.adobe.com/), [Microsoft fluent design system](https://www.microsoft.com/design/fluent/), [human interface guidlines by apple](https://developer.apple.com/design/human-interface-guidelines/), [carbon design system by ibm](https://www.carbondesignsystem.com/), [salesforce lightning design system](https://www.lightningdesignsystem.com/), [dark mode design](https://www.darkmodedesign.com/)
-
-Design System\
-[google material design](https://m3.material.io/), [Apple human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/platforms/overview), [atlasian design system](https://atlassian.design/), [pajamas gitlab design system](https://design.gitlab.com/), [firefox photon design system](https://design.firefox.com/photon/), [mailchimp patter library](https://ux.mailchimp.com/patterns/color), [uniform hudl design](http://uniform.hudltools.com/), [thumbprint design system](https://thumbprint.design/), [rizzo lonely planet](https://adele.uxpin.com/lonely-planet-rizzo), [carbon design system](https://carbondesignsystem.com/), [stackoverflow design](https://stackoverflow.design/), [audi user interface](https://www.audi.com/ci/en/guides/user-interface/introduction.html), [bbc GEL](https://www.bbc.co.uk/gel/guidelines), [hubspot canvas design system](https://canvas.hubspot.com/), [ant design](https://ant.design/), [polaris shopify](https://polaris.shopify.com/), [grommet](https://v2.grommet.io/), [marvelapp styleguide](https://marvelapp.com/styleguide/overview/introduction), [garden zendesk](https://garden.zendesk.com/), [salesforce ligthning design sytem](https://www.lightningdesignsystem.com/), [uber base web](https://baseweb.design/), [gojek ashpalt aloha](https://asphalt.gojek.io/), [orbit kiwi](https://orbit.kiwi/), [microsoft fluent UI](https://developer.microsoft.com/en-us/fluentui#/), [patternfly](https://www.patternfly.org/v4/), [pega constellation](https://design.pega.com/), [gold australia design system](https://gold.designsystemau.org/), [mozilla protocol](https://protocol.mozilla.org/), [intuit quickbooks](https://designsystem.quickbooks.com/), [workday canvas](https://canvas.workday.com/), [yelp cookbook](https://www.yelp.com/styleguide), [airbnb visual language](https://airbnb.design/building-a-visual-language/), [spectrum adobe](https://spectrum.adobe.com/), [lexicon liferay design](https://liferay.design/lexicon/), [microsoft fluent](https://www.microsoft.com/design/fluent/), [solid buzzfeed](https://solid.buzzfeed.com/), [mongodb ui design](https://www.mongodb.design/#/ui-design-system/welcome), [mixpanel design](https://design.mixpanel.com/), [solar bulb design](https://design.bulb.co.uk/), [oracle alta UI](https://www.oracle.com/webfolder/ux/middleware/alta/index.html), [latitude flexport design](https://www.flexport.com/design), [sap fiori design](https://experience.sap.com/fiori-design-web/), [evergreen segment design](https://evergreen.segment.com/), [clarity design](https://clarity.design/)
-
-Design Style\
-synthwave, vaporwave, trippy
-
-Principles\
-[design principles](https://principles.design/)
-
-Logo Generator\
-[logology](https://www.logology.co/), [tailorbrands](https://www.tailorbrands.com/logo-maker), [artify](https://www.artify.co/), [shopify](https://www.shopify.com/tools/logo-maker)
-
-Illustration 2D\
-[sketchvalley](https://sketchvalley.com/)
-
-Illustration 3D\
-[shapefest](https://www.shapefest.com/)
-
-## UI 
-
-UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/, https://userpersona.design/
-https://penpot.app/
-
-https://material.io/
-
-https://www.geometrize.co.uk/
-
-https://stellarium-web.org/
-
-https://www.solarsystemscope.com/
-
-https://stars.chromeexperiments.com/
-
-https://www.dailyui.co/
-
-https://advntr.co/
-
-https://lawsofux.com
-
-https://www.useronboard.com/onboarding-ux-patterns/
-
-Pattern\
-http://uipatterns.io/, https://uxchecklist.github.io/
-
-
-## UX
-https://uxtools.co/
-
-# ASSETS
-
-Skeletal Animation\
-[dragonbone](https://docs.egret.com/dragonbones/en/)
-
-## Image
-
-Tool\
-https://haikei.app/
-
-Background= coolbackground.io, transparenttexture, heropatterns, https://www.svgbackgrounds.com/ https://gradienta.io/ https://www.visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
-
-image_to_text = https://www.text-image.com/convert/
-
-image_to_geometric_primitive = https://www.geometrize.co.uk/
-
-animated-drawing = https://sketch.metademolab.com/
-
-create art: https://creator.nightcafe.studio/
-
-Maps\
-https://pictogon.com/
-
-Pattern\
-https://patternpad.com/
-
-AI Drawing\
-[autodraw](https://www.autodraw.com/)
 
 
 ## Video
