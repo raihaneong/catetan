@@ -112,6 +112,8 @@ https://planetscale.com/
 3d
 https://www.dora.run/
 
+# SWE
+
 # BOOKS
 
 https://edu.anarcho-copy.org/Programming%20Languages/
