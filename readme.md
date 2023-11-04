@@ -15,6 +15,7 @@
 [swe](#swe)\
 [designer](#designer)\
 <!-- [learn](#learn)\ -->
+[academic](#academic)\
 [uncategorized](#uncategorized)
 
 chrome bookmarks:\
@@ -798,6 +799,8 @@ Archive\
 
 
 --
+
+# ACADEMIC
 
 
 
