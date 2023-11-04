@@ -88,6 +88,12 @@ http://www.crunchzilla.com/
 https://www.laetusinpraesens.org/docs/limit.php
 https://clerk.com/
 https://planetscale.com/
+https://applieddigitalskills.withgoogle.com/s/en/home
+https://www.duolingo.com/learn
+https://leetcode.com/problemset/all/
+https://www.coursera.org/
+https://brilliant.org/courses/
+https://www.indiabix.com/
 
 Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
 
