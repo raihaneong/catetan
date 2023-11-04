@@ -802,6 +802,57 @@ Archive\
 
 # ACADEMIC
 
+Profile\
+[Pangkalan Data Pendidikan Tinggi](https://pddikti.kemdikbud.go.id/)
+
+Survey\
+[Self service survey](https://info.populix.co/en/poplite-en/)
+
+Referencing (include journal and article)\
+[Mendeley](https://www.mendeley.com/),
+[connected papers in a visual graph](https://www.connectedpapers.com/), [world's historical newspaper archive](https://elephind.com/), [Citationsy](https://citationsy.com/), [OAI Identifier](https://oai.core.ac.uk/), [Ministry of Religious Affairs Reference kemenag](https://moraref.kemenag.go.id/), [science direct](https://www.sciencedirect.com/), [scopus](https://www.scopus.com/sources), [indonesian scientific journal database](http://isjd.pdii.lipi.go.id/), [Internet Archive Journal](https://archive.org/details/journals), [google schoolar](https://scholar.google.com/), [garuda kemdikbud](https://garuda.kemdikbud.go.id/), [sinta kemdikbud](https://sinta.kemdikbud.go.id/journals), [moraref kemenag](https://moraref.kemenag.go.id/archives/journal), [International Organization of Scientific Research](https://www.iosrjournals.org/), [Directory of Open Access Journals](https://doaj.org/ ), [JSTOR](https://www.jstor.org/), [high-quality images from anywhere](https://www.jstor.org/site/artstor/), [institute of education sciences](https://eric.ed.gov/), [institution of mechancal engineer](https://archives.imeche.org/), [national library of medicine](https://pubmed.ncbi.nlm.nih.gov/), [inspire high energy physics](https://inspirehep.net/), [ieee explore](https://ieeexplore.ieee.org/Xplore/home.jsp), [scientific electronic library online](https://www.scielo.org/), [ssrn](https://www.ssrn.com/)
+
+Buku\
+[perpusnas e-resources](https://e-resources.perpusnas.go.id/), [pdfdrive](https://www.pdfdrive.com/)
+
+Bibliography\
+[publish or perish](https://harzing.com/resources/publish-or-perish), [mendeley referencing manager](https://www.mendeley.com/reference-management/reference-manager)
+
+Paraphrase\
+[shortlyai](https://www.shortlyai.com/), [rytrme](https://rytr.me/), [speedwrite](https://speedwrite.com/), [hyperwriteai](https://hyperwriteai.com/), [wordtune](https://www.wordtune.com/)
+
+International Phonetic Alphabet Translator\
+[phonetizer](https://www.phonetizer.com/ui), [tophonetics](https://tophonetics.com/)
+
+Text to Handwriting\
+[jnckmedia](https://jnckmedia.com/nulis/)
+
+## Pertanyaan ketika skripsi
+
+
+1. Mengapa mengambil judul tersebut?
+2. Apa jenis penelitian kamu dan Mengapa mengambil jenis penelitian tersebut?
+3. Apa permasalahan skripsi kamu?
+4. Berapa populasi dan sampel pada penelitian kamu? (kuantitatif)
+5. Pendekatan apa yang kamu gunakan? (kualitatif)
+6. Dimana kamu melakukan penelitian ini?
+7. Mengapa kamu memilih lokasi penelitian tersebut?
+8. Apa hambatan dalam melakukan penelitian?
+9. Teori siapa yang kamu gunakan di penelitian ini?
+10. Apa instruman penelitian ini?
+11. Bagaimana prosedur pengambilan data penelitian ini?
+12. Bagaimana proses analisis data pada penelitian ini?
+13. Apa sumber data pada penelitian ini? (kualitatif)
+14. Apa hipotesis pada penelitian ini? (kuantitatif)
+15. Berapa variabel pada penelitian ini?
+16. Apa temuan penelitian ini?
+17. Apa kesimpulan dari penelitian ini?
+18. Apa impact dari penelitian ini?
+19. Apa manfaat penelitian ini?
+20. Apakah sebelumnya ada penelitian lain? Apa perbedaannya?
+21. Apakah kesimpulan penelitian ini sudah menjawab rumusan masalah?
+
+
 
 
 
@@ -929,55 +980,6 @@ thirtydollar.website, specy.github.io/genshinMusic/#/
 
 # KULIAH
 
-Profile\
-[Pangkalan Data Pendidikan Tinggi](https://pddikti.kemdikbud.go.id/)
-
-Survey\
-[Self service survey](https://info.populix.co/en/poplite-en/)
-
-Referencing (include journal and article)\
-[Mendeley](https://www.mendeley.com/),
-[connected papers in a visual graph](https://www.connectedpapers.com/), [world's historical newspaper archive](https://elephind.com/), [Citationsy](https://citationsy.com/), [OAI Identifier](https://oai.core.ac.uk/), [Ministry of Religious Affairs Reference kemenag](https://moraref.kemenag.go.id/), [science direct](https://www.sciencedirect.com/), [scopus](https://www.scopus.com/sources), [indonesian scientific journal database](http://isjd.pdii.lipi.go.id/), [Internet Archive Journal](https://archive.org/details/journals), [google schoolar](https://scholar.google.com/), [garuda kemdikbud](https://garuda.kemdikbud.go.id/), [sinta kemdikbud](https://sinta.kemdikbud.go.id/journals), [moraref kemenag](https://moraref.kemenag.go.id/archives/journal), [International Organization of Scientific Research](https://www.iosrjournals.org/), [Directory of Open Access Journals](https://doaj.org/ ), [JSTOR](https://www.jstor.org/), [high-quality images from anywhere](https://www.jstor.org/site/artstor/), [institute of education sciences](https://eric.ed.gov/), [institution of mechancal engineer](https://archives.imeche.org/), [national library of medicine](https://pubmed.ncbi.nlm.nih.gov/), [inspire high energy physics](https://inspirehep.net/), [ieee explore](https://ieeexplore.ieee.org/Xplore/home.jsp), [scientific electronic library online](https://www.scielo.org/), [ssrn](https://www.ssrn.com/)
-
-Buku\
-[perpusnas e-resources](https://e-resources.perpusnas.go.id/), [pdfdrive](https://www.pdfdrive.com/)
-
-Bibliography\
-[publish or perish](https://harzing.com/resources/publish-or-perish), [mendeley referencing manager](https://www.mendeley.com/reference-management/reference-manager)
-
-Paraphrase\
-[shortlyai](https://www.shortlyai.com/), [rytrme](https://rytr.me/), [speedwrite](https://speedwrite.com/), [hyperwriteai](https://hyperwriteai.com/), [wordtune](https://www.wordtune.com/)
-
-International Phonetic Alphabet Translator\
-[phonetizer](https://www.phonetizer.com/ui), [tophonetics](https://tophonetics.com/)
-
-Text to Handwriting\
-[jnckmedia](https://jnckmedia.com/nulis/)
-
-## Pertanyaan ketika skripsi
-
-
-1. Mengapa mengambil judul tersebut?
-2. Apa jenis penelitian kamu dan Mengapa mengambil jenis penelitian tersebut?
-3. Apa permasalahan skripsi kamu?
-4. Berapa populasi dan sampel pada penelitian kamu? (kuantitatif)
-5. Pendekatan apa yang kamu gunakan? (kualitatif)
-6. Dimana kamu melakukan penelitian ini?
-7. Mengapa kamu memilih lokasi penelitian tersebut?
-8. Apa hambatan dalam melakukan penelitian?
-9. Teori siapa yang kamu gunakan di penelitian ini?
-10. Apa instruman penelitian ini?
-11. Bagaimana prosedur pengambilan data penelitian ini?
-12. Bagaimana proses analisis data pada penelitian ini?
-13. Apa sumber data pada penelitian ini? (kualitatif)
-14. Apa hipotesis pada penelitian ini? (kuantitatif)
-15. Berapa variabel pada penelitian ini?
-16. Apa temuan penelitian ini?
-17. Apa kesimpulan dari penelitian ini?
-18. Apa impact dari penelitian ini?
-19. Apa manfaat penelitian ini?
-20. Apakah sebelumnya ada penelitian lain? Apa perbedaannya?
-21. Apakah kesimpulan penelitian ini sudah menjawab rumusan masalah?
 
 # WORK
 
