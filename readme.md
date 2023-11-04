@@ -934,13 +934,6 @@ planetscale
 sendgrid
 mailgun
 
-# ARTICLE
-
-
-https://hackernoon.com/
-
-limit-to-human-potential = https://www.laetusinpraesens.org/docs/limit.php#lima19
-
 # KULIAH
 
 Profile\
