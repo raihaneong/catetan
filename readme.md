@@ -984,13 +984,3 @@ Oversea\
 )
 
 [back to top](#table-of-contents)
-
-
-
-
-# DESIGN
-
-
-
-
-[back to top](#table-of-contents)
