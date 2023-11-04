@@ -32,6 +32,26 @@
 chrome bookmarks:\
 [mastodon-servers](https://joinmastodon.org/servers), https://www.w3.org/, https://www.a11y-101.com/, https://www.freebsd.org/, https://springframework.guru/gang-of-four-design-patterns/, https://systemdesign.one/categories/, https://survey.devographics.com/en-US, https://www.learncpp.com/, https://www.learn-js.org/, https://www.howtographql.com/, https://devhints.io/, https://gitconnected.com/learn, https://roadmap.sh/, https://www.codewars.com/, https://blog.bytebytego.com/p/algorithms-you-should-know-before, https://neetcode.io/practice, https://osn.toki.id/, https://www.hackerrank.com/, https://codeforces.com/, https://algorithm-visualizer.org/backtracking/hamiltonean-cycles, https://visualgo.net/en, https://beta.character.ai/, https://chat.openai.com/, https://www.summarize.tech/, https://bard.google.com/chat?hl=en, https://www.phind.com/, https://threejs.org/docs/, https://discoverthreejs.com/, https://en.threejs-university.com/category/learn-threejs/, https://threejs.org/, https://www.theatrejs.com/, https://gsap.com/, https://github.com/pmndrs/drei, https://docs.pmnd.rs/react-three-fiber/getting-started/introduction, https://pixijs.com/, https://p5js.org/, https://www.framer.com/motion/, https://doc.babylonjs.com/, https://discourse.threejs.org/, https://cgsociety.org/, https://polycount.com/forum, https://blenderartists.org/, https://www.blendernation.com/, https://blender.community, https://www.zbrushcentral.com/, https://www.artstation.com/?sort_by=community&dimension=all, https://forum.highend3d.com/, https://www.geeksforgeeks.org/community/?ref=leftbar
 
+
+# UNCATEGORIZED
+http://info.cern.ch/
+
+https://www.rfc-editor.org/
+
+https://www.gnu.org/
+
+https://pcpartpicker.com/\
+https://foundercontent.com/\
+https://namelix.com/\
+https://roomstyler.com/\
+https://www.uberduck.ai/\
+https://neontools.io/\
+https://grabify.link/\
+https://ihateregex.io/\
+https://www.templatemaker.nl/en/\
+https://text-compare.com/\
+https://shortcuts.design/\
+https://neverinstall.com/\
 ---
 
 # BOOKS
@@ -1060,25 +1080,7 @@ Oversea\
 )
 
 
-# UNCATEGORIZED
-http://info.cern.ch/
 
-https://www.rfc-editor.org/
-
-https://www.gnu.org/
-
-https://pcpartpicker.com/\
-https://foundercontent.com/\
-https://namelix.com/\
-https://roomstyler.com/\
-https://www.uberduck.ai/\
-https://neontools.io/\
-https://grabify.link/\
-https://ihateregex.io/\
-https://www.templatemaker.nl/en/\
-https://text-compare.com/\
-https://shortcuts.design/\
-https://neverinstall.com/\
 
 
 .
