@@ -52,6 +52,16 @@ https://www.templatemaker.nl/en/\
 https://text-compare.com/\
 https://shortcuts.design/\
 https://neverinstall.com/\
+https://www.synthesia.io/homepage\
+https://www.rephrase.ai/\
+https://bigspeak.ai/\
+https://dictation.io/\
+https://witeboard.com/\
+https://wetransfer.com/\
+https://www.seakun.id/\
+https://www.playphrase.me/\
+https://pimeyes.com/en\
+
 ---
 
 # BOOKS
