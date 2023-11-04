@@ -978,9 +978,6 @@ https://kleki.com/
 ## Music\
 thirtydollar.website, specy.github.io/genshinMusic/#/
 
-# KULIAH
-
-
 # WORK
 
 Resume/cv\
