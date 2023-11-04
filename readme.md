@@ -61,6 +61,50 @@ https://wetransfer.com/\
 https://www.seakun.id/\
 https://www.playphrase.me/\
 https://pimeyes.com/en\
+https://webcode.tools/\
+https://frontendchecklist.io/\
+https://sketch2code.azurewebsites.net/\
+https://unused-css.com/\
+https://www.magicpattern.design/tools\
+https://coolbackgrounds.io/\
+https://wickedbackgrounds.com/app\
+https://www.shapedivider.app/\
+https://www.uidesigndaily.com/\
+https://spline.design/\
+https://lawsofux.com/en/\
+https://animista.net/\
+https://screenlane.com/
+https://froala.com/design-blocks/\
+https://3dicons.co/\
+https://collectui.com/\
+https://www.humaaans.com/\
+https://www.checklist.design/\
+https://webgradients.com/\
+https://webframe.xyz/\
+https://www.lapa.ninja/\
+https://jsdares.com/\
+https://codecombat.com/\
+https://freecodecamp.itch.io/learn-to-code-rpg\
+https://javascriptquiz.com/\
+https://screeps.com/\
+https://flukeout.github.io/\
+https://mastery.games/\
+https://codepip.com/games/\
+https://openvim.com/\
+https://codingfantasy.com/games\
+https://knightsoftheflexboxtable.com/\
+https://katydecorah.com/css-ruler/\
+https://typescript-exercises.github.io/\
+https://designpatternsgame.com/\
+https://react-tutorial.app/\
+https://bevacqua.github.io/promisees/\
+https://learngitbranching.js.org/\
+https://selectstarsql.com/\
+https://regex101.com/\
+https://regexcrossword.com/\
+https://regexone.com/\
+https://lab.reaal.me/jsrobot/\
+http://www.crunchzilla.com/\
 
 ---
 
@@ -206,55 +250,7 @@ iaas, paas, baas, sass
 
 --
 
-https://webcode.tools/\
-https://frontendchecklist.io/\
-https://sketch2code.azurewebsites.net/\
-https://unused-css.com/\
-https://www.magicpattern.design/tools\
-https://coolbackgrounds.io/\
-https://wickedbackgrounds.com/app\
-https://www.shapedivider.app/\
-https://www.uidesigndaily.com/\
-https://spline.design/\
-https://lawsofux.com/en/\
-https://animista.net/\
-https://screenlane.com/
-https://froala.com/design-blocks/\
-https://3dicons.co/\
-https://collectui.com/\
-https://www.humaaans.com/\
-https://www.checklist.design/\
-https://webgradients.com/\
-https://webframe.xyz/\
-https://www.lapa.ninja/
 
-
---
-
-???
-https://jsdares.com/\
-https://codecombat.com/\
-https://freecodecamp.itch.io/learn-to-code-rpg\
-https://javascriptquiz.com/\
-https://screeps.com/\
-https://flukeout.github.io/\
-https://mastery.games/\
-https://codepip.com/games/\
-https://openvim.com/\
-https://codingfantasy.com/games\
-https://knightsoftheflexboxtable.com/\
-https://katydecorah.com/css-ruler/\
-https://typescript-exercises.github.io/\
-https://designpatternsgame.com/\
-https://react-tutorial.app/\
-https://bevacqua.github.io/promisees/\
-https://learngitbranching.js.org/\
-https://selectstarsql.com/\
-https://regex101.com/\
-https://regexcrossword.com/\
-https://regexone.com/\
-https://lab.reaal.me/jsrobot/\
-http://www.crunchzilla.com/\
 
 
 # DESIGN
