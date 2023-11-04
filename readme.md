@@ -103,6 +103,8 @@ https://regexone.com/
 https://lab.reaal.me/jsrobot/
 http://www.crunchzilla.com/
 https://www.laetusinpraesens.org/docs/limit.php
+https://clerk.com/
+https://planetscale.com/
 
 ---
 
