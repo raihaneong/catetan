@@ -4,8 +4,7 @@
 - [DESIGN](#design)
   - [Image](#image)
   - [Video](#video)
-- [TEMPORAL](#temporal)
-- [ARTICLE](#article) -->
+-->
 
 [swe](#swe)\
 [designer](#designer)\
