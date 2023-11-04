@@ -7,14 +7,10 @@
   - [Video](#video)
 - [TEMPORAL](#temporal)
 - [FREE STUFF](#free-stuff)
-- [ARTICLE](#article)
-- [KULIAH](#Kuliah)
-- [WORK](#work)
-- [UNCATEGORIZED](UNCATEGORIZED) -->
+- [ARTICLE](#article) -->
 
 [swe](#swe)\
 [designer](#designer)\
-<!-- [learn](#learn)\ -->
 [academic](#academic)\
 [job](#job)
 [uncategorized](#uncategorized)
