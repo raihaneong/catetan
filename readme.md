@@ -5,7 +5,7 @@
 
 [swe](#swe)\
 [designer](#designer)\
-[asset](#asset)
+[asset](#asset)\
 [academic](#academic)\
 [job](#job)\
 [uncategorized](#uncategorized)
