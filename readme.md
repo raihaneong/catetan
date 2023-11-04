@@ -935,10 +935,6 @@ https://kleki.com/
 ## Music\
 thirtydollar.website, specy.github.io/genshinMusic/#/
 
-# PROGRAMMING
-
-
-
 # KULIAH
 
 Profile\
