@@ -27,7 +27,7 @@
 
 [swe](#swe)\
 [designer](#designer)\
-[learn](#learn)\
+<!-- [learn](#learn)\ -->
 [uncategorized](#uncategorized)
 
 chrome bookmarks:\
