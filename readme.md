@@ -96,18 +96,6 @@ Text-to-Speech= [https://notevibes.com/](https://notevibes.com/), [https://fakey
 
 vocal-instrument-separate = [https://www.lalal.ai/](https://www.lalal.ai/)
 
-AI video= synthesia.io, rephrase.ai, spik.ai, dictation.io
-
-Cari_muka_orang= pimpeyes
-
-Papan_tulis= witeboard.com
-
-Bagi_file= wetransfer.com
-
-Langganan= seakunid
-
-Video_quote= Playphraseme
-
 random-logo= https://logoipsum.com/
 
 run-app-without-install = https://neverinstall.com/
