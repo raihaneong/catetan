@@ -209,44 +209,6 @@ Archive\
 
 --
 
-ssr ssg spa
-
-astro build
-
-nextjs
-
-qwik
-
-serverless function
-
-tailwind, sass, windi css, mantine. daisy ui
-
-firebase
-
-aws amplify, mongodb realm, nhost, supabase, appwrite
-
-cloud firestore, planetscale, cockrouchdb, prisma
-
-redis, cassandra
-
-cypress, playwright, vitest
-
-sendgrid, algolia
-
-stripe, paypal
-
-eslinter
-
-database, user auth
-
-web server : nginx, apache
-
-iaas, paas, baas, sass
-
---
-
---
-
 
 
 
