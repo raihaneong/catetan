@@ -5,7 +5,6 @@
   - [Image](#image)
   - [Video](#video)
 - [TEMPORAL](#temporal)
-- [FREE STUFF](#free-stuff)
 - [ARTICLE](#article) -->
 
 [swe](#swe)\
