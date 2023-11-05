@@ -260,7 +260,7 @@ learn-about-the-web = https://howhttps.works/, https://howdns.works/
 game-in-web = https://donitz.itch.io/
 
 Deploy Website\
-[render](https://render.com/), [heroku](https://www.heroku.com/), [netlify](https://www.netlify.com/), [vercel](https://vercel.com/), [surge sh](https://surge.sh/)
+[render](https://render.com/), [heroku](https://www.heroku.com/), [netlify](https://www.netlify.com/), [vercel](https://vercel.com/), [surge sh](https://surge.sh/), https://railway.app/, https://www.cloudflare.com/
 
 books = the algorithm design manual 3rd edition
 
