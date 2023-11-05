@@ -221,6 +221,10 @@ https://www.dora.run/
 
 # SWE
 
+book\
+https://edu.anarcho-copy.org/Programming%20Languages/
+https://goalkicker.com/
+
 System design\
 https://systemdesign.one/
 
@@ -912,11 +916,6 @@ thirtydollar.website, specy.github.io/genshinMusic/#/
 
 
 [back to top](#table-of-contents)
-
-# BOOKS
-
-https://edu.anarcho-copy.org/Programming%20Languages/
-https://goalkicker.com/
 
 # ACADEMIC
 
