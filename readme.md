@@ -95,6 +95,8 @@ https://www.coursera.org/
 https://brilliant.org/courses/
 https://www.indiabix.com/
 
+file hosting = https://qu.ax/
+
 Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
 
 human body = [https://smart.servier.com/](https://smart.servier.com/)
