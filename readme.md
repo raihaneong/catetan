@@ -916,6 +916,7 @@ thirtydollar.website, specy.github.io/genshinMusic/#/
 # BOOKS
 
 https://edu.anarcho-copy.org/Programming%20Languages/
+https://goalkicker.com/
 
 # ACADEMIC
 
