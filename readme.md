@@ -221,8 +221,9 @@ Online-tools-for-dev = https://extendsclass.com/
 
 ---
 
-3d
+3d\
 https://www.dora.run/
+https://www.desmos.com/3d
 
 # SWE
 
