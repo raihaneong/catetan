@@ -97,6 +97,9 @@ https://www.indiabix.com/
 
 file hosting = https://qu.ax/
 
+math\
+https://www.desmos.com/
+
 Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
 
 human body = [https://smart.servier.com/](https://smart.servier.com/)
