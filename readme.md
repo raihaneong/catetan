@@ -216,6 +216,10 @@ https://scrimba.com/allcourses?price=free
 
 Online-tools-for-dev = https://extendsclass.com/
 
+learn\
+https://web.dev/learn/
+https://rapidapi.com/learn
+
 
 
 [back to top](#table-of-contents)
