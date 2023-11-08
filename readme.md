@@ -101,104 +101,104 @@ file hosting = https://qu.ax/
 math\
 https://www.desmos.com/
 
-Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
+https://patorjk.com/misc/scrollingtext/timewaster.php
 
-human body = [https://smart.servier.com/](https://smart.servier.com/)
+https://smart.servier.com/
 
-learn-psychology = https://nobaproject.com/
+https://nobaproject.com/
 
 Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
 
-AI video= [synthesia.io](http://synthesia.io/), [rephrase.ai](http://rephrase.ai/), [spik.ai](http://spik.ai/), [dictation.io](http://dictation.io/),
+http://synthesia.io/, http://rephrase.ai/, http://spik.ai/, http://dictation.io/
 
-AI-music-generator = https://www.beatoven.ai/
+https://www.beatoven.ai/
 
-AI-image-generator = https://www.craiyon.com/, https://www.wombo.art/
+https://www.craiyon.com/, https://www.wombo.art/
 
-brief-generator = https://goodbrief.io/
+https://goodbrief.io/
 
-Video_quote= [Playphraseme](https://www.playphrase.me/)
+https://www.playphrase.me/
 
-shortcut = [https://shortcuts.design/](https://shortcuts.design/)
+https://shortcuts.design/
 
-random-logo= [https://logoipsum.com/](https://logoipsum.com/)
+https://logoipsum.com/
 
-Text-to-Speech= [https://notevibes.com/](https://notevibes.com/), [https://fakeyou.com/](https://fakeyou.com/)
+https://notevibes.com/ , https://fakeyou.com/
 
-vocal-instrument-separate = [https://www.lalal.ai/](https://www.lalal.ai/)
+https://www.lalal.ai/
 
-random-logo= https://logoipsum.com/
+https://logoipsum.com
 
-run-app-without-install = https://neverinstall.com/
+https://neverinstall.com/
 
-alternative = https://www.opensourcealternative.to/
+https://www.opensourcealternative.to/
 
-browser-automation = https://axiom.ai/
+https://axiom.ai/
 
-resource = https://10015.io/
+https://10015.io/
 
-AI-voice = Coqui.ai 
+Coqui.ai 
 
-Splithsong = https://www.splitmysong.com/
+https://www.splitmysong.com/
 
-Ethical hacking = vulnhub.com
+vulnhub.com
 
 https://killedbygoogle.com/ 
 
-github = https://socialify.git.ci/
+https://socialify.git.ci/
 
-excel = https://excelunusual.com/
+https://excelunusual.com/
 
-radio = [http://radio.garden/](http://radio.garden/)
+http://radio.garden/
 
-content-generator-ai = https://www.copy.ai/
+https://www.copy.ai/
 
-ai-words = https://quillbot.com/
+https://quillbot.com/
 
-introverts = https://lifeat.io/explore, https://www.window-swap.com/
+https://lifeat.io/explore, https://www.window-swap.com/
 
-marketing = https://marketingexamples.com/
+https://marketingexamples.com/
 
-learn-things = https://www.classcentral.com/
+https://www.classcentral.com/
 
-structuring-service = https://prohura.com/
+https://prohura.com/
 
-simple-AWS = https://digger.dev/
+https://digger.dev/
 
-learn-anything = https://learn-anything.xyz/
+https://learn-anything.xyz/
 
-FPS-game = https://app.3daimtrainer.com/quick-play
+https://app.3daimtrainer.com/quick-play
 
-Learn-language = [Japan](https://easyjapanese.net/)
+https://easyjapanese.net/
 
 Github badge\
-[classic badge](https://badgen.net/)
+https://badgen.net/
 
 Freelance\
-[designer+freelance](https://eveerykit.com/product-category/for-designer-freelancer/)
+https://eveerykit.com/product-category/for-designer-freelancer/
 
 Archive\
-[Internet Archive](https://archive.org/)
+https://archive.org/
 
-[Window somewhere in the world](https://www.window-swap.com/)
+https://www.window-swap.com/
 
-[Walk in cities somewhere in the world](https://citywalks.live/)
+https://citywalks.live/
 
-[Drive somewhere in the world](https://drivenlisten.com/#)
+https://drivenlisten.com/
 
-[Drive somewhere in the world 2](https://driveandlisten.herokuapp.com/)
+https://driveandlisten.herokuapp.com/
 
-[Explore movie color](https://thecolorsofmotion.com/)
+https://thecolorsofmotion.com/
 
-[Human anatomy](https://www.innerbody.com/htm/body.html)
+https://www.innerbody.com/htm/body.html
 
-[Scale of the universe](https://htwins.net/scale2/)
+https://htwins.net/scale2/
 
-[My 2000's Tv](https://www.my00stv.com/#)
+https://www.my00stv.com/
 
 https://exercism.org/
 
-[teachyourselfcs.com](https://teachyourselfcs.com/)
+https://teachyourselfcs.com/
 
 https://freestuff.dev/
 
