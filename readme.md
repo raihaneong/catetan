@@ -3,12 +3,12 @@
 <!-- - [BOOKS](BOOKS)
 -->
 
+[uncategorized](#uncategorized)
 [swe](#swe)\
 [designer](#designer)\
 [asset](#asset)\
 [academic](#academic)\
 [job](#job)\
-[uncategorized](#uncategorized)
 
 ---
 
