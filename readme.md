@@ -95,6 +95,7 @@ https://www.coursera.org/
 https://brilliant.org/courses/
 https://www.indiabix.com/
 https://cs50.harvard.edu/x/
+https://tinybuddha.com/
 
 file hosting = https://qu.ax/
 
