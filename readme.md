@@ -19,6 +19,9 @@ chrome bookmarks:\
 
 # GENERAL
 
+Learning resources\
+https://ocw.mit.edu/, https://roadmap.sh/
+
 # UNCATEGORIZED
 http://info.cern.ch/
 https://www.rfc-editor.org/
