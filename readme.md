@@ -105,6 +105,10 @@ https://tinybuddha.com/
 
 https://www.tutorialspoint.com/index.htm
 
+technical writing\
+https://www.stc.org/
+https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/index.html
+
 file hosting = https://qu.ax/
 
 math\
