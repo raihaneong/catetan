@@ -1,472 +1,273 @@
 
 # Table of Contents
-- [BOOKS](BOOKS)
-- [RANDOM STUFF](#random-stuff)
-- [DESIGN](#design)
-  - [UI](#ui)
-  - [UX](#ux)
-- [ASSETS](#assets)
-  - [Image](#image)
-  - [Video](#video)
-- [PROGRAMMING](#programming)
-  - [Challenge](#challenge)
-  - [Mobile](#mobile)
-  - [Front-end](#front-end)
-    - [CSS](#css)
-    - [Javascript](#javascript)
-  - [Back-end](#back-end)
-  - [Other](#other)
-  - [Data Structures & Algorithms](#data-structure-&-algorithm)
-  - [Database](#database)
-- [TEMPORAL](#temporal)
-- [FREE STUFF](#free-stuff)
-- [ARTICLE](#article)
-- [KULIAH](#Kuliah)
-- [WORK](#work)
-- [UNCATEGORIZED](UNCATEGORIZED)
+<!-- - [BOOKS](BOOKS)
+-->
+
+[general](#general)\
+[uncategorized](#uncategorized)\
+[swe](#swe)\
+[designer](#designer)\
+[asset](#asset)\
+[academic](#academic)\
+[job](#job)
 
 ---
 
+chrome bookmarks:\
+[mastodon-servers](https://joinmastodon.org/servers), https://www.w3.org/, https://www.a11y-101.com/, https://www.freebsd.org/, https://springframework.guru/gang-of-four-design-patterns/, https://systemdesign.one/categories/, https://survey.devographics.com/en-US, https://www.learncpp.com/, https://www.learn-js.org/, https://www.howtographql.com/, https://devhints.io/, https://gitconnected.com/learn, https://roadmap.sh/, https://www.codewars.com/, https://blog.bytebytego.com/p/algorithms-you-should-know-before, https://neetcode.io/practice, https://osn.toki.id/, https://www.hackerrank.com/, https://codeforces.com/, https://algorithm-visualizer.org/backtracking/hamiltonean-cycles, https://visualgo.net/en, https://beta.character.ai/, https://chat.openai.com/, https://www.summarize.tech/, https://bard.google.com/chat?hl=en, https://www.phind.com/, https://threejs.org/docs/, https://discoverthreejs.com/, https://en.threejs-university.com/category/learn-threejs/, https://threejs.org/, https://www.theatrejs.com/, https://gsap.com/, https://github.com/pmndrs/drei, https://docs.pmnd.rs/react-three-fiber/getting-started/introduction, https://pixijs.com/, https://p5js.org/, https://www.framer.com/motion/, https://doc.babylonjs.com/, https://discourse.threejs.org/, https://cgsociety.org/, https://polycount.com/forum, https://blenderartists.org/, https://www.blendernation.com/, https://blender.community, https://www.zbrushcentral.com/, https://www.artstation.com/?sort_by=community&dimension=all, https://forum.highend3d.com/, https://www.geeksforgeeks.org/community/?ref=leftbarm https://learn.mongodb.com/learning-paths/introduction-to-mongodbm,  https://learn.saylor.org/?redirect=0
 
-# BOOKS
 
-https://edu.anarcho-copy.org/Programming%20Languages/
+# GENERAL
 
-# RANDOM STUFF
+Learning resources\
+https://ocw.mit.edu/, https://roadmap.sh/
 
-Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
+# UNCATEGORIZED
+http://info.cern.ch/
+https://www.rfc-editor.org/
+https://www.gnu.org/
+https://pcpartpicker.com/
+https://foundercontent.com/
+https://namelix.com/
+https://roomstyler.com/
+https://www.uberduck.ai/
+https://neontools.io/
+https://grabify.link/
+https://ihateregex.io/
+https://www.templatemaker.nl/en/
+https://text-compare.com/
+https://shortcuts.design/
+https://neverinstall.com/
+https://www.synthesia.io/homepage
+https://www.rephrase.ai/
+https://bigspeak.ai/
+https://dictation.io/
+https://witeboard.com/
+https://wetransfer.com/
+https://www.seakun.id/
+https://www.playphrase.me/
+https://pimeyes.com/en
+https://webcode.tools/
+https://frontendchecklist.io/
+https://sketch2code.azurewebsites.net/
+https://unused-css.com/
+https://www.magicpattern.design/tools
+https://coolbackgrounds.io/
+https://wickedbackgrounds.com/app
+https://www.shapedivider.app/
+https://www.uidesigndaily.com/
+https://spline.design/
+https://lawsofux.com/en/
+https://animista.net/
+https://screenlane.com
+https://froala.com/design-blocks/
+https://3dicons.co/
+https://collectui.com/
+https://www.humaaans.com/
+https://www.checklist.design/
+https://webgradients.com/
+https://webframe.xyz/
+https://www.lapa.ninja/
+https://jsdares.com/
+https://codecombat.com/
+https://freecodecamp.itch.io/learn-to-code-rpg
+https://javascriptquiz.com/
+https://screeps.com/
+https://flukeout.github.io/
+https://mastery.games/
+https://codepip.com/games/
+https://openvim.com/
+https://codingfantasy.com/games
+https://knightsoftheflexboxtable.com/
+https://katydecorah.com/css-ruler/
+https://typescript-exercises.github.io/
+https://designpatternsgame.com/
+https://react-tutorial.app/
+https://bevacqua.github.io/promisees/
+https://learngitbranching.js.org/
+https://selectstarsql.com/
+https://regex101.com/
+https://regexcrossword.com/
+https://regexone.com/
+https://lab.reaal.me/jsrobot/
+http://www.crunchzilla.com/
+https://www.laetusinpraesens.org/docs/limit.php
+https://clerk.com/
+https://planetscale.com/
+https://applieddigitalskills.withgoogle.com/s/en/home
+https://www.duolingo.com/learn
+https://leetcode.com/problemset/all/
+https://www.coursera.org/
+https://brilliant.org/courses/
+https://www.indiabix.com/
+https://cs50.harvard.edu/x/
+https://tinybuddha.com/
 
-human body = [https://smart.servier.com/](https://smart.servier.com/)
+https://www.tutorialspoint.com/index.htm
 
-learn-psychology = https://nobaproject.com/
+technical writing\
+https://www.stc.org/
+https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/index.html
+
+file hosting = https://qu.ax/
+
+math\
+https://www.desmos.com/
+
+https://patorjk.com/misc/scrollingtext/timewaster.php
+
+https://smart.servier.com/
+
+https://nobaproject.com/
 
 Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
 
-AI video= [synthesia.io](http://synthesia.io/), [rephrase.ai](http://rephrase.ai/), [spik.ai](http://spik.ai/), [dictation.io](http://dictation.io/),
+http://synthesia.io/, http://rephrase.ai/, http://spik.ai/, http://dictation.io/
 
-AI-music-generator = https://www.beatoven.ai/
+https://www.beatoven.ai/
 
-AI-image-generator = https://www.craiyon.com/, https://www.wombo.art/
+https://www.craiyon.com/, https://www.wombo.art/
 
-brief-generator = https://goodbrief.io/
+https://goodbrief.io/
 
-Video_quote= [Playphraseme](https://www.playphrase.me/)
+https://www.playphrase.me/
 
-shortcut = [https://shortcuts.design/](https://shortcuts.design/)
+https://shortcuts.design/
 
-random-logo= [https://logoipsum.com/](https://logoipsum.com/)
+https://logoipsum.com/
 
-Text-to-Speech= [https://notevibes.com/](https://notevibes.com/), [https://fakeyou.com/](https://fakeyou.com/)
+https://notevibes.com/ , https://fakeyou.com/
 
-vocal-instrument-separate = [https://www.lalal.ai/](https://www.lalal.ai/)
+https://www.lalal.ai/
 
-Rakit_pc= pcpartpicker
+https://logoipsum.com
 
-Founder= foundercontent
+https://neverinstall.com/
 
-Tools= neontools, uberduckai
+https://www.opensourcealternative.to/
 
-Bussinesnamegenerator= Namelix
+https://axiom.ai/
 
-Brand= brandingstyleguide, https://brandfetch.com/
+https://10015.io/
 
-Bikin_rumah= roomstyler
+Coqui.ai 
 
-Bikin_kemasan_produk= Templatemaker.nl
+https://www.splitmysong.com/
 
-Bapenda jabar
-
-IP-tracking= grabify.link
-
-Unknown= ihateregex.io
-
-Komparasi_file= textcompare
-
-Kombo_keyboard= Shortcuts.design
-
-Tanpa_install= neverinstall.com
-
-AI video= synthesia.io, rephrase.ai, spik.ai, dictation.io
-
-Cari_muka_orang= pimpeyes
-
-Papan_tulis= witeboard.com
-
-Bagi_file= wetransfer.com
-
-Emosi= Emotionchart
-
-Langganan= seakunid
-
-Video_quote= Playphraseme
-
-random-logo= https://logoipsum.com/
-
-run-app-without-install = https://neverinstall.com/
-
-alternative = https://www.opensourcealternative.to/
-
-browser-automation = https://axiom.ai/
-
-resource = https://10015.io/
-
-AI-voice = Coqui.ai 
-
-Splithsong = https://www.splitmysong.com/
-
-Ethical hacking = vulnhub.com
+vulnhub.com
 
 https://killedbygoogle.com/ 
 
-github = https://socialify.git.ci/
+https://socialify.git.ci/
 
-excel = https://excelunusual.com/
+https://excelunusual.com/
 
-radio = [http://radio.garden/](http://radio.garden/)
+http://radio.garden/
 
-content-generator-ai = https://www.copy.ai/
+https://www.copy.ai/
 
-ai-words = https://quillbot.com/
+https://quillbot.com/
 
-introverts = https://lifeat.io/explore, https://www.window-swap.com/
+https://lifeat.io/explore, https://www.window-swap.com/
 
-marketing = https://marketingexamples.com/
+https://marketingexamples.com/
 
-learn-things = https://www.classcentral.com/
+https://www.classcentral.com/
 
-structuring-service = https://prohura.com/
+https://prohura.com/
 
-simple-AWS = https://digger.dev/
+https://digger.dev/
 
-learn-anything = https://learn-anything.xyz/
+https://learn-anything.xyz/
 
-FPS-game = https://app.3daimtrainer.com/quick-play
+https://app.3daimtrainer.com/quick-play
 
-Learn-language = [Japan](https://easyjapanese.net/)
+https://easyjapanese.net/
 
 Github badge\
-[classic badge](https://badgen.net/)
+https://badgen.net/
 
 Freelance\
-[designer+freelance](https://eveerykit.com/product-category/for-designer-freelancer/)
+https://eveerykit.com/product-category/for-designer-freelancer/
 
 Archive\
-[Internet Archive](https://archive.org/)
+https://archive.org/
 
-[Window somewhere in the world](https://www.window-swap.com/)
+https://www.window-swap.com/
 
-[Walk in cities somewhere in the world](https://citywalks.live/)
+https://citywalks.live/
 
-[Drive somewhere in the world](https://drivenlisten.com/#)
+https://drivenlisten.com/
 
-[Drive somewhere in the world 2](https://driveandlisten.herokuapp.com/)
+https://driveandlisten.herokuapp.com/
 
-[Explore movie color](https://thecolorsofmotion.com/)
+https://thecolorsofmotion.com/
 
-[Human anatomy](https://www.innerbody.com/htm/body.html)
+https://www.innerbody.com/htm/body.html
 
-[Scale of the universe](https://htwins.net/scale2/)
+https://htwins.net/scale2/
 
-[My 2000's Tv](https://www.my00stv.com/#)
+https://www.my00stv.com/
 
+https://exercism.org/
 
---
+https://teachyourselfcs.com/
 
-ssr ssg spa
+https://freestuff.dev/
 
-astro build
+https://free-for.dev/#/
 
-nextjs
+https://learnxinyminutes.com/docs/javascript/
 
-qwik
+https://web.dev/
 
-serverless function
+https://hackr.io/
 
-tailwind, sass, windi css, mantine. daisy ui
+https://egghead.io/
 
-firebase
+https://scrimba.com/allcourses?price=free
 
-aws amplify, mongodb realm, nhost, supabase, appwrite
+Online-tools-for-dev = https://extendsclass.com/
 
-cloud firestore, planetscale, cockrouchdb, prisma
+learn\
+https://web.dev/learn/
+https://rapidapi.com/learn
 
-redis, cassandra
 
-cypress, playwright, vitest
 
-sendgrid, algolia
+[back to top](#table-of-contents)
 
-stripe, paypal
+---
 
-eslinter
+3d\
+https://www.dora.run/
+https://www.desmos.com/3d
+https://aframe.io/
 
-database, user auth
+VR\
+https://immersiveweb.dev/
 
-web server : nginx, apache
+AI\
+https://civitai.com/
 
-iaas, paas, baas, sass
+# SWE
 
---
-
---
-
-https://webcode.tools/\
-https://frontendchecklist.io/\
-https://sketch2code.azurewebsites.net/\
-https://unused-css.com/\
-https://www.magicpattern.design/tools\
-https://coolbackgrounds.io/\
-https://wickedbackgrounds.com/app\
-https://www.shapedivider.app/\
-https://www.uidesigndaily.com/\
-https://spline.design/\
-https://lawsofux.com/en/\
-https://animista.net/\
-https://screenlane.com/
-https://froala.com/design-blocks/\
-https://3dicons.co/\
-https://collectui.com/\
-https://www.humaaans.com/\
-https://www.checklist.design/\
-https://webgradients.com/\
-https://webframe.xyz/\
-https://www.lapa.ninja/
-
-
---
-
-???
-https://jsdares.com/\
-https://codecombat.com/\
-https://freecodecamp.itch.io/learn-to-code-rpg\
-https://javascriptquiz.com/\
-https://screeps.com/\
-https://flukeout.github.io/\
-https://mastery.games/\
-https://codepip.com/games/\
-https://openvim.com/\
-https://codingfantasy.com/games\
-https://knightsoftheflexboxtable.com/\
-https://katydecorah.com/css-ruler/\
-https://typescript-exercises.github.io/\
-https://designpatternsgame.com/\
-https://react-tutorial.app/\
-https://bevacqua.github.io/promisees/\
-https://learngitbranching.js.org/\
-https://selectstarsql.com/\
-https://regex101.com/\
-https://regexcrossword.com/\
-https://regexone.com/\
-https://lab.reaal.me/jsrobot/\
-http://www.crunchzilla.com/\
-
-
-# DESIGN
-
-Visual Design\
-[design system repo](https://designsystemsrepo.com/), [atlasian design](https://atlassian.design/), [material design](https://material.io/), [primer style](https://primer.style/), [spectrum adobe](https://spectrum.adobe.com/), [Microsoft fluent design system](https://www.microsoft.com/design/fluent/), [human interface guidlines by apple](https://developer.apple.com/design/human-interface-guidelines/), [carbon design system by ibm](https://www.carbondesignsystem.com/), [salesforce lightning design system](https://www.lightningdesignsystem.com/), [dark mode design](https://www.darkmodedesign.com/)
-
-Design System\
-[google material design](https://m3.material.io/), [Apple human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/platforms/overview), [atlasian design system](https://atlassian.design/), [pajamas gitlab design system](https://design.gitlab.com/), [firefox photon design system](https://design.firefox.com/photon/), [mailchimp patter library](https://ux.mailchimp.com/patterns/color), [uniform hudl design](http://uniform.hudltools.com/), [thumbprint design system](https://thumbprint.design/), [rizzo lonely planet](https://adele.uxpin.com/lonely-planet-rizzo), [carbon design system](https://carbondesignsystem.com/), [stackoverflow design](https://stackoverflow.design/), [audi user interface](https://www.audi.com/ci/en/guides/user-interface/introduction.html), [bbc GEL](https://www.bbc.co.uk/gel/guidelines), [hubspot canvas design system](https://canvas.hubspot.com/), [ant design](https://ant.design/), [polaris shopify](https://polaris.shopify.com/), [grommet](https://v2.grommet.io/), [marvelapp styleguide](https://marvelapp.com/styleguide/overview/introduction), [garden zendesk](https://garden.zendesk.com/), [salesforce ligthning design sytem](https://www.lightningdesignsystem.com/), [uber base web](https://baseweb.design/), [gojek ashpalt aloha](https://asphalt.gojek.io/), [orbit kiwi](https://orbit.kiwi/), [microsoft fluent UI](https://developer.microsoft.com/en-us/fluentui#/), [patternfly](https://www.patternfly.org/v4/), [pega constellation](https://design.pega.com/), [gold australia design system](https://gold.designsystemau.org/), [mozilla protocol](https://protocol.mozilla.org/), [intuit quickbooks](https://designsystem.quickbooks.com/), [workday canvas](https://canvas.workday.com/), [yelp cookbook](https://www.yelp.com/styleguide), [airbnb visual language](https://airbnb.design/building-a-visual-language/), [spectrum adobe](https://spectrum.adobe.com/), [lexicon liferay design](https://liferay.design/lexicon/), [microsoft fluent](https://www.microsoft.com/design/fluent/), [solid buzzfeed](https://solid.buzzfeed.com/), [mongodb ui design](https://www.mongodb.design/#/ui-design-system/welcome), [mixpanel design](https://design.mixpanel.com/), [solar bulb design](https://design.bulb.co.uk/), [oracle alta UI](https://www.oracle.com/webfolder/ux/middleware/alta/index.html), [latitude flexport design](https://www.flexport.com/design), [sap fiori design](https://experience.sap.com/fiori-design-web/), [evergreen segment design](https://evergreen.segment.com/), [clarity design](https://clarity.design/)
-
-Design Style\
-synthwave, vaporwave, trippy
-
-Principles\
-[design principles](https://principles.design/)
-
-Logo Generator\
-[logology](https://www.logology.co/), [tailorbrands](https://www.tailorbrands.com/logo-maker), [artify](https://www.artify.co/), [shopify](https://www.shopify.com/tools/logo-maker)
-
-Illustration 2D\
-[sketchvalley](https://sketchvalley.com/)
-
-Illustration 3D\
-[shapefest](https://www.shapefest.com/)
-
-## UI 
-
-UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/, https://userpersona.design/
-https://penpot.app/
-
-https://material.io/
-
-https://www.geometrize.co.uk/
-
-https://stellarium-web.org/
-
-https://www.solarsystemscope.com/
-
-https://stars.chromeexperiments.com/
-
-https://www.dailyui.co/
-
-https://advntr.co/
-
-https://lawsofux.com
-
-https://www.useronboard.com/onboarding-ux-patterns/
-
-Pattern\
-http://uipatterns.io/, https://uxchecklist.github.io/
-
-
-## UX
-https://uxtools.co/
-
-# ASSETS
-
-Skeletal Animation\
-[dragonbone](https://docs.egret.com/dragonbones/en/)
-
-## Image
-
-Tool\
-https://haikei.app/
-
-Background= coolbackground.io, transparenttexture, heropatterns, https://www.svgbackgrounds.com/ https://gradienta.io/ https://www.visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
-
-image_to_text = https://www.text-image.com/convert/
-
-image_to_geometric_primitive = https://www.geometrize.co.uk/
-
-animated-drawing = https://sketch.metademolab.com/
-
-create art: https://creator.nightcafe.studio/
-
-Maps\
-https://pictogon.com/
-
-Pattern\
-https://patternpad.com/
-
-AI Drawing\
-[autodraw](https://www.autodraw.com/)
-
-
-## Video
-
-video_to_text = https://anthiago.com/transcript/
-
-asset-music= https://mixkit.co/
-
-asset-video= http://coverr.co/
-
-Abstract = Tool.graphics
-
-Apus_objek= theinpaint, removebg, Nvidia inpainting
-
-Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
-
-Icon = https://tablericons.com/, https://tabler-icons.io/
-
-Motiongraphics= lottiefiles
-
-Make_music= onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocalremoverorg, http://lalal.ai/,
-
-Subtitle= kapwing, http://veed.io/, descript
-
-palet-warna = https://www.happyhues.co/, https://colors.dopely.top/
-
-VIDEO-EDITING = https://origami.design/, descript
-
---
-
-Tool.graphics
-
-auto_gambar= https://www.autodraw.com/
-
-Fileconverter= cloudconvert.com
-
-Jual= creativemarket, ui8net, uplab, envato, template master, canva, etsy, designcrowd, 99design, fiverr
-
-Inspiration = designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, awwwards, mobbin.design
-
-3D= spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
-
-Mockup= Mockupphone, shotsnapp, mockvideo, vecteezy, rotato.xyz, thing.morflax.com, artboartstudio, mockupbro, devicesshots, previewedapp, threedio, smartmockups, screenly, mockups-design, free-mockup, graphicburger, mockupworld, graphberry, freepik, ls.graphics, mckups, placeit.net, pixeden, mockuuups.studio, mockup.ceacle.com, medialoot, freebiesbug, cssauthor, unblast, rawpixel,
-
-Convert_vector= Vectorizerio
-
-Ai_image_resolution= letsenhance.io
-
-Image_size= tinypng
-
-Fontpair= fontjoy, fontpair.co
-
-Font-view = https://type-scale.com/, https://wordmark.it/, https://www.fontbrief.com/
-
-Font= metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
-
-Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
-
-Gambar_organ_tubuh= Servier medical art
-
-Iklan_produk= breakoutclips
-
-Packing= qualita_company
-
-Perkecil_size_file= tinypng.com
-
-Pixel= https://www.pixelartcss.com/
-
-Svg= svgomg
-
-Foto/vid= Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8, Isoflat, rawpixel, amritpaldesign, appitgdigital, isometriclove, Freepik, vecteezy, handzdesign, pixabay,isoflat, graphicburger, pixeden
-
-Icon= nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlineicons.com, iconscout.com, animaticons, akaricons, thenounproject, https://www.iconfinder.com/, https://systemuicons.com/, iconsaxio, lordicon, , Iconstore, iconfinder, streamlineicon, lordicon, remixicon, appitgdigital, ikonate, fontawesome.
-
-PNG= Pngpix , favpng, Subpng, pngtree, cleanpng.
-
-Illustrations= drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/
-
-illustration: blush.design, drawkit.io, humaaans.com, icons8.com, iconscout.com, illustrations.co, iradesign.io, isometric .nline, manypixels.co, openpeeps.com, pixeltrue.com, storyset.com, undraw.co 
-
-Warna= khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
-
-Gradient= meshgradient, cssgradient.io,
-
-asset-music= https://mixkit.co/
-
-asset-video= coverr.co
-
-Animasi= createwithflow, Render forest, animaker, gsap, greensock
-
-Edit_opening_video= panzoid
-
-Subtitle= kapwing, veed.io, descript
-
-Motiongraphics= lottiefiles
-
-VIDEO-EDITING = https://origami.design/, descript
-
-Edit_video_online= veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
-
-Edit_foto= fotor, photopea
-
-Apus_objek= theinpaint, removebg, Nvidia inpainting
-
-Photo_tracking= pixsy
-
-Make_music= onlinesequencer, mubert.com https://samplefocus.com/ vocalremoverorg, lalal.ai,
-
-Draw_online= sketch.io, photopea, fotor
-Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
-
-Cool\
-Trippy edit
-
---
-
-https://kleki.com/
-
-## Music\
-thirtydollar.website, specy.github.io/genshinMusic/#/
-
-# PROGRAMMING
+book\
+https://edu.anarcho-copy.org/Programming%20Languages/
+https://goalkicker.com/
 
 System design\
 https://systemdesign.one/
+
+competitive programming\
+https://codeforces.com/
+https://cses.fi/book/
+https://ioinformatics.org/
+http://www.usaco.org/index.php
+https://earthshakira.github.io/a2oj-clientside/server/
+
+data structure and algorithm\
+https://www.bigocheatsheet.com/
 
 Design Pattern\
 https://refactoring.guru/design-patterns/, http://www.mcdonaldland.info/2007/11/28/40/, https://www.cs.cmu.edu/~charlie/courses/15-214/2016-spring/slides/24%20-%20All%20the%20GoF%20Patterns.pdf, https://www.patterns.dev/
@@ -494,7 +295,7 @@ learn-about-the-web = https://howhttps.works/, https://howdns.works/
 game-in-web = https://donitz.itch.io/
 
 Deploy Website\
-[render](https://render.com/), [heroku](https://www.heroku.com/), [netlify](https://www.netlify.com/), [vercel](https://vercel.com/), [surge sh](https://surge.sh/)
+[render](https://render.com/), [heroku](https://www.heroku.com/), [netlify](https://www.netlify.com/), [vercel](https://vercel.com/), [surge sh](https://surge.sh/), https://railway.app/, https://www.cloudflare.com/
 
 books = the algorithm design manual 3rd edition
 
@@ -528,28 +329,6 @@ Data Structures and Algorithms\
 
 Typing\
 [ztype](https://zty.pe/)
-
-FREE STUFF
-
-https://exercism.org/
-
-[teachyourselfcs.com](https://teachyourselfcs.com/)
-
-https://freestuff.dev/
-
-https://free-for.dev/#/
-
-https://learnxinyminutes.com/docs/javascript/
-
-https://web.dev/
-
-https://hackr.io/
-
-https://egghead.io/
-
-https://scrimba.com/allcourses?price=free
-
-Online-tools-for-dev = https://extendsclass.com/
 
 ## **Mobile**
 
@@ -596,6 +375,7 @@ https://uiplaybook.dev/
 
 Website Accessibility\
 https://www.a11y-101.com/
+https://developer.mozilla.org/en-US/docs/Web/Accessibility
 
 ### ***CSS***
 
@@ -967,29 +747,217 @@ Postgresql-database-Course = https://online.umich.edu/series/postgresql-for-ever
 
 sqlite = https://www.sqlitetutorial.net/sqlite-nodejs/
 
-# TEMPORAL
-
-3d = https://www.dora.run/, https://www.theatrejs.com/
-
-auth0
-netlify
-vercel
-
-clerk
-firebase
-supabase
-planetscale
-sendgrid
-mailgun
-
-# ARTICLE
+[back to top](#table-of-contents)
 
 
-https://hackernoon.com/
+# DESIGNER
 
-limit-to-human-potential = https://www.laetusinpraesens.org/docs/limit.php#lima19
+Visual Design\
+[design system repo](https://designsystemsrepo.com/), [atlasian design](https://atlassian.design/), [material design](https://material.io/), [primer style](https://primer.style/), [spectrum adobe](https://spectrum.adobe.com/), [Microsoft fluent design system](https://www.microsoft.com/design/fluent/), [human interface guidlines by apple](https://developer.apple.com/design/human-interface-guidelines/), [carbon design system by ibm](https://www.carbondesignsystem.com/), [salesforce lightning design system](https://www.lightningdesignsystem.com/), [dark mode design](https://www.darkmodedesign.com/)
 
-# KULIAH
+Design System\
+[google material design](https://m3.material.io/), [Apple human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/platforms/overview), [atlasian design system](https://atlassian.design/), [pajamas gitlab design system](https://design.gitlab.com/), [firefox photon design system](https://design.firefox.com/photon/), [mailchimp patter library](https://ux.mailchimp.com/patterns/color), [uniform hudl design](http://uniform.hudltools.com/), [thumbprint design system](https://thumbprint.design/), [rizzo lonely planet](https://adele.uxpin.com/lonely-planet-rizzo), [carbon design system](https://carbondesignsystem.com/), [stackoverflow design](https://stackoverflow.design/), [audi user interface](https://www.audi.com/ci/en/guides/user-interface/introduction.html), [bbc GEL](https://www.bbc.co.uk/gel/guidelines), [hubspot canvas design system](https://canvas.hubspot.com/), [ant design](https://ant.design/), [polaris shopify](https://polaris.shopify.com/), [grommet](https://v2.grommet.io/), [marvelapp styleguide](https://marvelapp.com/styleguide/overview/introduction), [garden zendesk](https://garden.zendesk.com/), [salesforce ligthning design sytem](https://www.lightningdesignsystem.com/), [uber base web](https://baseweb.design/), [gojek ashpalt aloha](https://asphalt.gojek.io/), [orbit kiwi](https://orbit.kiwi/), [microsoft fluent UI](https://developer.microsoft.com/en-us/fluentui#/), [patternfly](https://www.patternfly.org/v4/), [pega constellation](https://design.pega.com/), [gold australia design system](https://gold.designsystemau.org/), [mozilla protocol](https://protocol.mozilla.org/), [intuit quickbooks](https://designsystem.quickbooks.com/), [workday canvas](https://canvas.workday.com/), [yelp cookbook](https://www.yelp.com/styleguide), [airbnb visual language](https://airbnb.design/building-a-visual-language/), [spectrum adobe](https://spectrum.adobe.com/), [lexicon liferay design](https://liferay.design/lexicon/), [microsoft fluent](https://www.microsoft.com/design/fluent/), [solid buzzfeed](https://solid.buzzfeed.com/), [mongodb ui design](https://www.mongodb.design/#/ui-design-system/welcome), [mixpanel design](https://design.mixpanel.com/), [solar bulb design](https://design.bulb.co.uk/), [oracle alta UI](https://www.oracle.com/webfolder/ux/middleware/alta/index.html), [latitude flexport design](https://www.flexport.com/design), [sap fiori design](https://experience.sap.com/fiori-design-web/), [evergreen segment design](https://evergreen.segment.com/), [clarity design](https://clarity.design/)
+
+Design Style\
+synthwave, vaporwave, trippy
+
+Principles\
+[design principles](https://principles.design/)
+
+Logo Generator\
+[logology](https://www.logology.co/), [tailorbrands](https://www.tailorbrands.com/logo-maker), [artify](https://www.artify.co/), [shopify](https://www.shopify.com/tools/logo-maker)
+
+Illustration 2D\
+[sketchvalley](https://sketchvalley.com/)
+
+Illustration 3D\
+[shapefest](https://www.shapefest.com/)
+
+## UI/UX
+
+UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/, https://userpersona.design/
+https://penpot.app/
+
+https://material.io/
+
+https://www.geometrize.co.uk/
+
+https://stellarium-web.org/
+
+https://www.solarsystemscope.com/
+
+https://stars.chromeexperiments.com/
+
+https://www.dailyui.co/
+
+https://advntr.co/
+
+https://lawsofux.com
+
+https://www.useronboard.com/onboarding-ux-patterns/
+
+Pattern\
+http://uipatterns.io/, https://uxchecklist.github.io/
+
+https://uxtools.co/
+
+# ASSETS
+
+Skeletal Animation\
+[dragonbone](https://docs.egret.com/dragonbones/en/)
+
+## Image
+
+Tool\
+https://haikei.app/
+
+Background= coolbackground.io, transparenttexture, heropatterns, https://www.svgbackgrounds.com/ https://gradienta.io/ https://www.visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
+
+image_to_text = https://www.text-image.com/convert/
+
+image_to_geometric_primitive = https://www.geometrize.co.uk/
+
+animated-drawing = https://sketch.metademolab.com/
+
+create art: https://creator.nightcafe.studio/
+
+Maps\
+https://pictogon.com/
+
+Pattern\
+https://patternpad.com/
+
+AI Drawing\
+[autodraw](https://www.autodraw.com/)
+
+
+[back to top](#table-of-contents)
+
+# ASSET
+
+## Video
+
+video_to_text = https://anthiago.com/transcript/
+
+asset-music= https://mixkit.co/
+
+asset-video= http://coverr.co/
+
+Abstract = Tool.graphics
+
+Apus_objek= theinpaint, removebg, Nvidia inpainting
+
+Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
+
+Icon = https://tablericons.com/, https://tabler-icons.io/
+
+Motiongraphics= lottiefiles
+
+Make_music= onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocalremoverorg, http://lalal.ai/,
+
+Subtitle= kapwing, http://veed.io/, descript
+
+palet-warna = https://www.happyhues.co/, https://colors.dopely.top/
+
+VIDEO-EDITING = https://origami.design/, descript
+
+--
+
+Tool.graphics
+
+auto_gambar= https://www.autodraw.com/
+
+Fileconverter= cloudconvert.com
+
+Jual= creativemarket, ui8net, uplab, envato, template master, canva, etsy, designcrowd, 99design, fiverr
+
+Inspiration = designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, awwwards, mobbin.design
+
+3D= spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
+
+Mockup= Mockupphone, shotsnapp, mockvideo, vecteezy, rotato.xyz, thing.morflax.com, artboartstudio, mockupbro, devicesshots, previewedapp, threedio, smartmockups, screenly, mockups-design, free-mockup, graphicburger, mockupworld, graphberry, freepik, ls.graphics, mckups, placeit.net, pixeden, mockuuups.studio, mockup.ceacle.com, medialoot, freebiesbug, cssauthor, unblast, rawpixel,
+
+Convert_vector= Vectorizerio
+
+Ai_image_resolution= letsenhance.io
+
+Image_size= tinypng
+
+Fontpair= fontjoy, fontpair.co
+
+Font-view = https://type-scale.com/, https://wordmark.it/, https://www.fontbrief.com/
+
+Font= metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
+
+Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
+
+Gambar_organ_tubuh= Servier medical art
+
+Iklan_produk= breakoutclips
+
+Packing= qualita_company
+
+Perkecil_size_file= tinypng.com
+
+Pixel= https://www.pixelartcss.com/
+
+Svg= svgomg
+
+Foto/vid= Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8, Isoflat, rawpixel, amritpaldesign, appitgdigital, isometriclove, Freepik, vecteezy, handzdesign, pixabay,isoflat, graphicburger, pixeden
+
+Icon= nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlineicons.com, iconscout.com, animaticons, akaricons, thenounproject, https://www.iconfinder.com/, https://systemuicons.com/, iconsaxio, lordicon, , Iconstore, iconfinder, streamlineicon, lordicon, remixicon, appitgdigital, ikonate, fontawesome.
+
+PNG= Pngpix , favpng, Subpng, pngtree, cleanpng.
+
+Illustrations= drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/
+
+illustration: blush.design, drawkit.io, humaaans.com, icons8.com, iconscout.com, illustrations.co, iradesign.io, isometric .nline, manypixels.co, openpeeps.com, pixeltrue.com, storyset.com, undraw.co 
+
+Warna= khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
+
+Gradient= meshgradient, cssgradient.io,
+
+asset-music= https://mixkit.co/
+
+asset-video= coverr.co
+
+Animasi= createwithflow, Render forest, animaker, gsap, greensock
+
+Edit_opening_video= panzoid
+
+Subtitle= kapwing, veed.io, descript
+
+Motiongraphics= lottiefiles
+
+VIDEO-EDITING = https://origami.design/, descript
+
+Edit_video_online= veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
+
+Edit_foto= fotor, photopea
+
+Apus_objek= theinpaint, removebg, Nvidia inpainting
+
+Photo_tracking= pixsy
+
+Make_music= onlinesequencer, mubert.com https://samplefocus.com/ vocalremoverorg, lalal.ai,
+
+Draw_online= sketch.io, photopea, fotor
+Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
+
+Cool\
+Trippy edit
+
+--
+
+https://kleki.com/
+
+## Music\
+thirtydollar.website, specy.github.io/genshinMusic/#/
+
+
+[back to top](#table-of-contents)
+
+# ACADEMIC
 
 Profile\
 [Pangkalan Data Pendidikan Tinggi](https://pddikti.kemdikbud.go.id/)
@@ -1041,7 +1009,11 @@ Text to Handwriting\
 20. Apakah sebelumnya ada penelitian lain? Apa perbedaannya?
 21. Apakah kesimpulan penelitian ini sudah menjawab rumusan masalah?
 
-# WORK
+[back to top](#table-of-contents)
+
+
+
+# JOB
 
 Resume/cv\
 https://resume.io/app, https://aksel.co.id, https://standardresume.co/
@@ -1052,38 +1024,5 @@ Interview\
 Oversea\
 [Relocation and Visa Sponsorship Jobs across the world](https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0
 )
-
-
-# UNCATEGORIZED
-http://info.cern.ch/
-
-https://www.rfc-editor.org/
-
-https://www.gnu.org/
-
-
-.
-
-.
-
-.
-
-.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [back to top](#table-of-contents)
