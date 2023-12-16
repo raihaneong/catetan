@@ -773,7 +773,7 @@ Illustration 2D\
 Illustration 3D\
 [shapefest](https://www.shapefest.com/)
 
-## UI 
+## UI/UX
 
 UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://www.uidesigndaily.com/ https://uxtools.co/ https://www.uplabs.com/, https://userpersona.design/
 https://penpot.app/
@@ -799,8 +799,6 @@ https://www.useronboard.com/onboarding-ux-patterns/
 Pattern\
 http://uipatterns.io/, https://uxchecklist.github.io/
 
-
-## UX
 https://uxtools.co/
 
 # ASSETS
