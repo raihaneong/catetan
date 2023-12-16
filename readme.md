@@ -247,6 +247,9 @@ https://aframe.io/
 VR\
 https://immersiveweb.dev/
 
+AI\
+https://civitai.com/
+
 # SWE
 
 book\
