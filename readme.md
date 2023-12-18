@@ -250,6 +250,9 @@ https://immersiveweb.dev/
 AI\
 https://civitai.com/
 
+animation\
+https://rive.app/
+
 # SWE
 
 book\
