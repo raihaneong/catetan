@@ -257,6 +257,13 @@ https://rive.app/
 tools\
 https://tsdocs.dev/
 
+book\
+https://freecomputerbooks.com/
+https://www.gutenberg.org/
+https://www.online-literature.com/
+https://manybooks.net/
+https://ppld.org/recommended-websites/read-print
+
 # SWE
 
 book\
