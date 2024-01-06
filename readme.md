@@ -244,6 +244,7 @@ https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/
 https://www.dora.run/
 https://www.desmos.com/3d
 https://aframe.io/
+https://www.shadertoy.com/
 
 VR\
 https://immersiveweb.dev/
