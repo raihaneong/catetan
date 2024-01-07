@@ -267,6 +267,9 @@ https://www.online-literature.com/
 https://manybooks.net/
 https://ppld.org/recommended-websites/read-print
 
+binary\
+https://binvis.io/#/
+
 # SWE
 
 book\
