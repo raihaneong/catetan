@@ -248,6 +248,10 @@ https://www.dora.run/
 https://www.desmos.com/3d
 https://aframe.io/
 https://www.shadertoy.com/
+https://graphtoy.com/
+http://dev.thi.ng/gradients/
+https://iquilezles.org/
+http://dev.thi.ng/gradients/
 
 VR\
 https://immersiveweb.dev/
