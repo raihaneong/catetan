@@ -103,6 +103,8 @@ https://www.indiabix.com/
 https://cs50.harvard.edu/x/
 https://tinybuddha.com/
 
+https://thi.ng/
+
 https://www.tutorialspoint.com/index.htm
 
 technical writing\
