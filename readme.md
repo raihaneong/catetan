@@ -105,6 +105,9 @@ https://tinybuddha.com/
 
 https://thi.ng/
 
+audio: howlerjs
+visual: gsap, threejs, theatrejs
+
 https://www.tutorialspoint.com/index.htm
 
 technical writing\
