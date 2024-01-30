@@ -296,7 +296,7 @@ https://ioinformatics.org/
 http://www.usaco.org/index.php
 https://earthshakira.github.io/a2oj-clientside/server/
 
-data structure and algorithm\
+data structure and algorithm dsa\
 https://www.bigocheatsheet.com/
 
 Design Pattern\
