@@ -336,7 +336,8 @@ books = the algorithm design manual 3rd edition
 algorithmic-art = https://www.ventrella.com/
 
 Git\
-[most frequently ask](https://firstaidgit.io/#/)
+[most frequently ask](https://firstaidgit.io/#/)\
+https://www.conventionalcommits.org/en/v1.0.0/
 
 Linux\
 [learn linux survival](https://linuxsurvival.com/)
