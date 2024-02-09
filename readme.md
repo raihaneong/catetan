@@ -3,13 +3,18 @@
 <!-- - [BOOKS](BOOKS)
 -->
 
-[general](#general)\
+[general](#general)
+[developer](#developer)
+[designer](#designer)
+[assets](#assets)
+
+<!-- [general](#general)\
 [uncategorized](#uncategorized)\
 [swe](#swe)\
 [designer](#designer)\
 [asset](#asset)\
 [academic](#academic)\
-[job](#job)
+[job](#job) -->
 
 ---
 
