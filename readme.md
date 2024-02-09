@@ -989,13 +989,13 @@ Trippy edit
 
 https://kleki.com/
 
-## Music\
+=Music\
 thirtydollar.website, specy.github.io/genshinMusic/#/
 
 
 [back to top](#table-of-contents)
 
-# ACADEMIC
+= ACADEMIC
 
 Profile\
 [Pangkalan Data Pendidikan Tinggi](https://pddikti.kemdikbud.go.id/)
@@ -1022,7 +1022,7 @@ International Phonetic Alphabet Translator\
 Text to Handwriting\
 [jnckmedia](https://jnckmedia.com/nulis/)
 
-## Pertanyaan ketika skripsi
+Pertanyaan ketika skripsi
 
 
 1. Mengapa mengambil judul tersebut?
@@ -1051,7 +1051,7 @@ Text to Handwriting\
 
 
 
-# JOB
+= JOB
 
 Resume/cv\
 https://resume.io/app, https://aksel.co.id, https://standardresume.co/
