@@ -19,8 +19,7 @@
 ---
 
 artificial intelligence\
-https://beta.character.ai/, https://chat.openai.com/, https://www.uberduck.ai/,
-https://www.rephrase.ai/, https://bigspeak.ai/
+https://beta.character.ai/, https://chat.openai.com/, https://www.uberduck.ai/, https://www.rephrase.ai/, https://bigspeak.ai/, http://synthesia.io/, http://rephrase.ai/, http://spik.ai/, http://dictation.io/, https://www.beatoven.ai/, https://www.craiyon.com/, https://www.wombo.art/
 
 # GENERAL
 
@@ -133,12 +132,6 @@ https://smart.servier.com/
 https://nobaproject.com/
 
 Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
-
-http://synthesia.io/, http://rephrase.ai/, http://spik.ai/, http://dictation.io/
-
-https://www.beatoven.ai/
-
-https://www.craiyon.com/, https://www.wombo.art/
 
 https://goodbrief.io/
 
