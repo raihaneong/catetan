@@ -999,6 +999,9 @@ thirtydollar.website, specy.github.io/genshinMusic/#/
 
 = ACADEMIC
 
+research\
+https://www.ebsco.com/, 
+
 Profile\
 [Pangkalan Data Pendidikan Tinggi](https://pddikti.kemdikbud.go.id/)
 
