@@ -24,6 +24,9 @@ https://beta.character.ai/, https://chat.openai.com/, https://www.uberduck.ai/, 
 internet\
 https://www.he.net/
 
+data structure and alogrithm\
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html 
+
 # GENERAL
 
 chrome bookmarks:\
