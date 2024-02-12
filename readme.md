@@ -27,6 +27,9 @@ https://www.he.net/, https://getdeploying.com/
 data structure and alogrithm\
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html 
 
+software engineer\
+https://crackmes.one/
+
 # GENERAL
 
 chrome bookmarks:\
