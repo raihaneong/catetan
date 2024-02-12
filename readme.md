@@ -22,7 +22,7 @@ artificial intelligence\
 https://beta.character.ai/, https://chat.openai.com/, https://www.uberduck.ai/, https://www.rephrase.ai/, https://bigspeak.ai/, http://synthesia.io/, http://rephrase.ai/, http://spik.ai/, http://dictation.io/, https://www.beatoven.ai/, https://www.craiyon.com/, https://www.wombo.art/
 
 internet\
-https://www.he.net/
+https://www.he.net/, https://getdeploying.com/
 
 data structure and alogrithm\
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html 
