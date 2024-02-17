@@ -933,8 +933,6 @@ Font-view = https://type-scale.com/, https://wordmark.it/, https://www.fontbrief
 
 Font= metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
 
-Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
-
 Gambar_organ_tubuh= Servier medical art
 
 Iklan_produk= breakoutclips
