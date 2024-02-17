@@ -30,6 +30,10 @@ https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 software engineer\
 https://crackmes.one/, https://www.hackthebox.com/
 
+fun website\
+emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
+
+
 # GENERAL
 
 chrome bookmarks:\
@@ -139,8 +143,6 @@ https://patorjk.com/misc/scrollingtext/timewaster.php
 https://smart.servier.com/
 
 https://nobaproject.com/
-
-Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
 
 https://goodbrief.io/
 
