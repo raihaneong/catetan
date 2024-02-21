@@ -36,6 +36,8 @@ emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worl
 shader language\
 https://thebookofshaders.com/
 
+documentation\
+https://www.fileformat.com/
 
 # GENERAL
 
