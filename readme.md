@@ -40,7 +40,7 @@ documentation\
 https://www.fileformat.com/
 
 website design reference\
-https://www.darkmodedesign.com/, https://www.awwwards.com/
+https://www.darkmodedesign.com/, https://www.awwwards.com/, https://threejs.org/, https://stacksorted.com/buttons, https://refero.design/, https://minimal.gallery/
 
 # GENERAL
 
