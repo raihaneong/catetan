@@ -42,6 +42,9 @@ https://www.fileformat.com/
 website design reference\
 https://www.darkmodedesign.com/, https://www.awwwards.com/, https://threejs.org/, https://stacksorted.com/buttons, https://refero.design/, https://minimal.gallery/
 
+creative programming\
+[p5js](https://p5js.org/), [tinkersynth](https://tinkersynth.com/), [shadertoy](https://www.shadertoy.com/), [openprocessing](https://openprocessing.org/), [processing](https://processing.org/), [touchdesigner](https://derivative.ca/)
+
 # GENERAL
 
 chrome bookmarks:\
