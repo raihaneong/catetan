@@ -48,6 +48,9 @@ https://fluent2.microsoft.design/, https://carbondesignsystem.com/, https://deve
 creative programming\
 [p5js](https://p5js.org/), [tinkersynth](https://tinkersynth.com/), [shadertoy](https://www.shadertoy.com/), [openprocessing](https://openprocessing.org/), [processing](https://processing.org/), [touchdesigner](https://derivative.ca/)
 
+information archive\
+https://archive.org/, https://ghostarchive.org/, https://archive.ph/
+
 # GENERAL
 
 chrome bookmarks:\
