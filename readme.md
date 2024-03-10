@@ -269,7 +269,7 @@ https://web.dev/learn/
 https://rapidapi.com/learn
 https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/
 https://www.apisecuniversity.com/
-
+https://www.coursesidekick.com/study-guides
 
 
 [back to top](#table-of-contents)
