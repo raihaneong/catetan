@@ -40,7 +40,7 @@ documentation\
 https://www.fileformat.com/
 
 website design reference\
-https://www.darkmodedesign.com/, https://www.awwwards.com/, https://threejs.org/, https://stacksorted.com/buttons, https://refero.design/, https://minimal.gallery/
+https://www.darkmodedesign.com/, https://www.awwwards.com/, https://threejs.org/, https://stacksorted.com/buttons, https://refero.design/, https://minimal.gallery/, https://www.commarts.com/webpicks/
 
 design system\
 https://fluent2.microsoft.design/, https://carbondesignsystem.com/, https://developer.apple.com/design/, https://m3.material.io/, https://www.beercss.com/
