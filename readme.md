@@ -31,7 +31,7 @@ software engineer\
 https://crackmes.one/, https://www.hackthebox.com/
 
 fun website\
-emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
+emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl, https://www.localingual.com/
 
 shader language\
 https://thebookofshaders.com/
