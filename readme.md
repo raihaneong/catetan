@@ -315,6 +315,65 @@ HTML\
 CSS\
 [css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://www.flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
 
+CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
+
+CSS-play = [https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://www.flexboxdefense.com/](http://www.flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
+
+CSS-tips = [https://moderncss.dev/](https://moderncss.dev/)
+
+CSS-cubic-bezier = [easings.net](https://easings.net/)
+
+CSS-pixel = [https://www.pixelartcss.com/](https://www.pixelartcss.com/)
+
+CSS-animation = [https://animista.net/](https://animista.net/), [https://animate.style/](https://animate.style/), [https://keyframes.app/](https://keyframes.app/), [https://www.minimamente.com/project/magic/](https://www.minimamente.com/project/magic/), [https://whirl.netlify.app/](https://whirl.netlify.app/), [https://loading.io](https://loading.io/)
+
+CSS-bem = [https://9elements.com/bem-cheat-sheet/](https://9elements.com/bem-cheat-sheet/)
+
+CSS-challenge = [https://cssbattle.dev/](https://cssbattle.dev/), [https://100dayscss.com/](https://100dayscss.com/), [https://www.codewars.com/dashboard](https://www.codewars.com/dashboard)
+
+CSS-grid = [https://www.layoutit.com/cn](https://www.layoutit.com/cn), [https://griddy.io/](https://griddy.io/), [https://cssgr.id/](https://cssgr.id/), [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/), [https://gridbyexample.com/](https://gridbyexample.com/)
+
+CSS-flexbox = [https://loading.io/flexbox/](https://loading.io/flexbox/)
+
+CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
+
+CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
+
+https://github.com/IanLunn/Hover/blob/master/css/hover.css
+
+https://grid.malven.co/
+
+https://cssgrid-generator.netlify.app/
+
+https://animate.style/
+
+https://templatemo.com/
+
+https://designmodo.com/css-website-designs/
+
+https://100dayscss.com/
+
+https://dailycssdesign.com/
+
+https://cssbud.com/css-generator/css-glow-generator/
+
+https://shadows.brumm.af/
+
+https://rupl.github.io/unfold/
+
+https://html-css-js.com/css/generator/,
+https://webcode.tools/,
+https://www.toptal.com/developers/css3maker,
+http://css3generator.com/,
+https://www.cssmatic.com/,
+https://enjoycss.com/,
+http://css3studio.com/page-css3/css-box-shadow.php,
+https://keyframes.app/,
+https://waitanimate.wstone.uk/,
+https://animista.net/,
+https://animista.net/,
+https://www.transition.style/
+
 javascript\
 
 
@@ -449,65 +508,7 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility
 
 ### ***CSS***
 
-CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
 
-CSS-play = [https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://www.flexboxdefense.com/](http://www.flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
-
-CSS-tips = [https://moderncss.dev/](https://moderncss.dev/)
-
-CSS-cubic-bezier = [easings.net](https://easings.net/)
-
-CSS-pixel = [https://www.pixelartcss.com/](https://www.pixelartcss.com/)
-
-CSS-animation = [https://animista.net/](https://animista.net/), [https://animate.style/](https://animate.style/), [https://keyframes.app/](https://keyframes.app/), [https://www.minimamente.com/project/magic/](https://www.minimamente.com/project/magic/), [https://whirl.netlify.app/](https://whirl.netlify.app/), [https://loading.io](https://loading.io/)
-
-CSS-bem = [https://9elements.com/bem-cheat-sheet/](https://9elements.com/bem-cheat-sheet/)
-
-CSS-challenge = [https://cssbattle.dev/](https://cssbattle.dev/), [https://100dayscss.com/](https://100dayscss.com/), [https://www.codewars.com/dashboard](https://www.codewars.com/dashboard)
-
-CSS-grid = [https://www.layoutit.com/cn](https://www.layoutit.com/cn), [https://griddy.io/](https://griddy.io/), [https://cssgr.id/](https://cssgr.id/), [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/), [https://gridbyexample.com/](https://gridbyexample.com/)
-
-CSS-flexbox = [https://loading.io/flexbox/](https://loading.io/flexbox/)
-
-CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
-
-CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
-
-https://github.com/IanLunn/Hover/blob/master/css/hover.css
-
-https://grid.malven.co/
-
-https://cssgrid-generator.netlify.app/
-
-https://animate.style/
-
-https://templatemo.com/
-
-https://designmodo.com/css-website-designs/
-
-https://100dayscss.com/
-
-https://dailycssdesign.com/
-
-https://cssbud.com/css-generator/css-glow-generator/
-
-https://shadows.brumm.af/
-
-https://rupl.github.io/unfold/
-
-CSS\
-https://html-css-js.com/css/generator/,
-https://webcode.tools/,
-https://www.toptal.com/developers/css3maker,
-http://css3generator.com/,
-https://www.cssmatic.com/,
-https://enjoycss.com/,
-http://css3studio.com/page-css3/css-box-shadow.php,
-https://keyframes.app/,
-https://waitanimate.wstone.uk/,
-https://animista.net/,
-https://animista.net/,
-https://www.transition.style/
 
 Background\
 http://www.patternify.com/,
