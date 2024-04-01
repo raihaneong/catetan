@@ -310,9 +310,9 @@ https://binvis.io/#/
 
 # DEVELOPER
 
-HTML\
+## HTML
 
-CSS\
+## CSS
 [css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://www.flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
 
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
@@ -488,7 +488,7 @@ CSSpixel= https://www.pixelartcss.com/
 
 HTML CSS generator= webcode.tools, tridiv.com
 
-javascript\
+## javascript
 JS-dom = https://htmldom.dev/
 
 JS-utility = https://1loc.dev/
