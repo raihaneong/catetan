@@ -477,6 +477,23 @@ Blob\
 https://www.blobmaker.app/
 
 javascript\
+JS-dom = https://htmldom.dev/
+
+JS-utility = https://1loc.dev/
+
+JS-learn = https://javascript.info/
+
+https://www.jsv9000.app/
+
+https://javascript.info/
+
+https://javascripttutorial.net/
+
+https://learn-js.org/en/
+
+https://javascript30.com/
+
+https://jstherightway.org/
 
 
 frontend\
@@ -615,23 +632,7 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility
 
 ### ***Javascript***
 
-JS-dom = https://htmldom.dev/
 
-JS-utility = https://1loc.dev/
-
-JS-learn = https://javascript.info/
-
-https://www.jsv9000.app/
-
-https://javascript.info/
-
-https://javascripttutorial.net/
-
-https://learn-js.org/en/
-
-https://javascript30.com/
-
-https://jstherightway.org/
 
 ## **Back-end**
 
