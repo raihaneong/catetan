@@ -310,6 +310,9 @@ https://binvis.io/#/
 
 # DEVELOPER
 
+javascript\
+
+
 frontend\
 https://freefrontend.com/
 
