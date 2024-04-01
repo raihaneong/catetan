@@ -476,6 +476,18 @@ https://theme.numl.design/
 Blob\
 https://www.blobmaker.app/
 
+Animation_CSS= easings.net
+
+CSS= css-tricks, cssbattle, flexboxfroggy, cssdiner, bemcheatsheet, cssdiner, rupl-unfold, cssgridgarden, flexboxdefense, victordarras-cssgame, cssfiltergenerator, kerframeapp, Animateresource, whirlnetlify, minimamente, jonsuh-hamburger, animate.style, ianlunn-hover, greensock-gsap, zurb-motionui
+
+CSS_layout= gridlayoutit, csslayout.io, griddy.io, purecsslayouts, CSSgridgenerator, loadingioflexbox, cssgr.id, gridbyexample,
+
+Cssbackground= https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com 
+
+CSSpixel= https://www.pixelartcss.com/
+
+HTML CSS generator= webcode.tools, tridiv.com
+
 javascript\
 JS-dom = https://htmldom.dev/
 
@@ -751,17 +763,7 @@ React_animation_demo= https://react-animations.herokuapp.com/
 
 JavaScript_libraries= fullpagejs, animejs, threejs, screenfulljs, leafletjs, popperjs
 
-Animation_CSS= easings.net
 
-CSS= css-tricks, cssbattle, flexboxfroggy, cssdiner, bemcheatsheet, cssdiner, rupl-unfold, cssgridgarden, flexboxdefense, victordarras-cssgame, cssfiltergenerator, kerframeapp, Animateresource, whirlnetlify, minimamente, jonsuh-hamburger, animate.style, ianlunn-hover, greensock-gsap, zurb-motionui
-
-CSS_layout= gridlayoutit, csslayout.io, griddy.io, purecsslayouts, CSSgridgenerator, loadingioflexbox, cssgr.id, gridbyexample,
-
-Cssbackground= https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com 
-
-CSSpixel= https://www.pixelartcss.com/
-
-HTML CSS generator= webcode.tools, tridiv.com
 
 SVG= nucleo.app
 
