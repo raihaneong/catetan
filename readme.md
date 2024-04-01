@@ -511,6 +511,16 @@ https://jstherightway.org/
 ## Data Structures and Algorithms
 [leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://www.hackerrank.com), [codewars](https://www.codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://www.kaggle.com/), [advent of code](https://adventofcode.com/)
 
+Visualization-data-structure-and-algorithm = Visualgo.net, https://algorithm-visualizer.org/, https://www.toptal.com/developers/sorting-algorithms
+
+leet-code-guide = https://www.techinterviewhandbook.org/grind75
+
+https://www.geeksforgeeks.org/data-structures/
+
+https://www.techinterviewhandbook.org/
+
+
+
 frontend\
 https://freefrontend.com/
 
@@ -791,15 +801,7 @@ Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle,
 
 
 
-## Data Structures & Algorithms
 
-Visualization-data-structure-and-algorithm = Visualgo.net, https://algorithm-visualizer.org/, https://www.toptal.com/developers/sorting-algorithms
-
-leet-code-guide = https://www.techinterviewhandbook.org/grind75
-
-https://www.geeksforgeeks.org/data-structures/
-
-https://www.techinterviewhandbook.org/
 
 ## Database
 
