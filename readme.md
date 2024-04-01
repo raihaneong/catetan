@@ -1033,7 +1033,9 @@ thirtydollar.website, specy.github.io/genshinMusic/#/
 
 [back to top](#table-of-contents)
 
-= ACADEMIC
+---
+
+# ACADEMIC
 
 research\
 https://www.ebsco.com/, 
@@ -1092,7 +1094,7 @@ Pertanyaan ketika skripsi
 
 
 
-= JOB
+# JOB
 
 Resume/cv\
 https://resume.io/app, https://aksel.co.id, https://standardresume.co/
