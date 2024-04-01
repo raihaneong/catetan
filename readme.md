@@ -1094,7 +1094,7 @@ Pertanyaan ketika skripsi
 
 
 
-# JOB
+# CAREER
 
 Resume/cv\
 https://resume.io/app, https://aksel.co.id, https://standardresume.co/
