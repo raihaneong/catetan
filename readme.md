@@ -508,6 +508,9 @@ https://javascript30.com/
 https://jstherightway.org/
 
 
+Data Structures and Algorithms\
+[leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://www.hackerrank.com), [codewars](https://www.codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://www.kaggle.com/), [advent of code](https://adventofcode.com/)
+
 frontend\
 https://freefrontend.com/
 
@@ -584,8 +587,7 @@ https://landingpage.fyi/
 
 
 
-Data Structures and Algorithms\
-[leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://www.hackerrank.com), [codewars](https://www.codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://www.kaggle.com/), [advent of code](https://adventofcode.com/)
+
 
 Typing\
 [ztype](https://zty.pe/)
