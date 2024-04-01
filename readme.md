@@ -308,7 +308,7 @@ https://ppld.org/recommended-websites/read-print
 binary\
 https://binvis.io/#/
 
-# developer
+# DEVELOPER
 
 frontend\
 https://freefrontend.com/
