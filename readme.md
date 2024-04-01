@@ -3,9 +3,9 @@
 <!-- - [BOOKS](BOOKS)
 -->
 
-[general](#general)
-[developer](#developer)
-[designer](#designer)
+[general](#general)\
+[developer](#developer)\
+[designer](#designer)\
 [assets](#assets)
 
 <!-- [general](#general)\
