@@ -50,7 +50,7 @@ math\
 https://desmos.com/
 
 links to learn things\
-https://tutorialspoint.com/index.htm
+https://tutorialspoint.com/index.htm, https://web.dev/learn/, https://rapidapi.com/learn, https://apisecuniversity.com/, https://coursesidekick.com/study-guides
 
 Github badge\
 https://badgen.net/
@@ -209,13 +209,6 @@ https://egghead.io/
 https://scrimba.com/allcourses?price=free
 
 Online-tools-for-dev = https://extendsclass.com/
-
-learn\
-https://web.dev/learn/
-https://rapidapi.com/learn
-https://apisecuniversity.com/
-https://coursesidekick.com/study-guides
-
 
 [back to top](#table-of-contents)
 
