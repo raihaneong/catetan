@@ -161,19 +161,12 @@ https://copy.ai/
 https://quillbot.com/
 https://lifeat.io/explore
 https://window-swap.com/
-
 https://marketingexamples.com/
-
 https://classcentral.com/
-
 https://prohura.com/
-
 https://digger.dev/
-
 https://learn-anything.xyz/
-
 https://app.3daimtrainer.com/quick-play
-
 https://easyjapanese.net/
 
 Github badge\
