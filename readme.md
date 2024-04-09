@@ -1031,10 +1031,6 @@ https://kleki.com/
 thirtydollar.website, specy.github.io/genshinMusic/#/
 
 
-[back to top](#table-of-contents)
-
----
-
 # academic related links
 
 research\
