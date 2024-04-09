@@ -796,9 +796,6 @@ Skeletal Animation\
 
 ## Image
 
-Tool\
-https://haikei.app/
-
 Background= coolbackground.io, transparenttexture, heropatterns, https://svgbackgrounds.com/ https://gradienta.io/ https://visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
 
 image_to_text = https://text-image.com/convert/
@@ -924,6 +921,9 @@ https://anthiago.com/transcript/
 
 drawing\
 https://kleki.com/
+
+svg generator\
+https://haikei.app/
 
 # academic related links
 
