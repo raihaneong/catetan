@@ -1023,8 +1023,6 @@ Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 Cool\
 Trippy edit
 
---
-
 https://kleki.com/
 
 =Music\
