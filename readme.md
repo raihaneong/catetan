@@ -31,6 +31,9 @@ creative programming\
 information archive\
 https://archive.org/, https://ghostarchive.org/, https://archive.ph/
 
+music creation\
+https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://musiclab.chromeexperiments.com/Song-Maker
+
 # GENERAL
 
 chrome bookmarks:\
@@ -981,9 +984,6 @@ Cool\
 Trippy edit
 
 https://kleki.com/
-
-music creation\
-https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://musiclab.chromeexperiments.com/Song-Maker
 
 # academic related links
 
