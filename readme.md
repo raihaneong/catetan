@@ -52,6 +52,9 @@ https://desmos.com/
 links to learn things\
 https://tutorialspoint.com/index.htm
 
+Github badge\
+https://badgen.net/
+
 # GENERAL
 
 chrome bookmarks:\
@@ -172,9 +175,6 @@ https://digger.dev/
 https://learn-anything.xyz/
 https://app.3daimtrainer.com/quick-play
 https://easyjapanese.net/
-
-Github badge\
-https://badgen.net/
 
 https://window-swap.com/
 
