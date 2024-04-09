@@ -151,7 +151,6 @@ https://neverinstall.com/
 https://opensourcealternative.to/
 https://axiom.ai/
 https://10015.io/
-Coqui.ai 
 https://splitmysong.com/
 https://www.vulnhub.com/
 https://killedbygoogle.com/ 
