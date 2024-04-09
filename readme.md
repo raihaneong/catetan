@@ -983,9 +983,7 @@ Trippy edit
 https://kleki.com/
 
 music creation\
-https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, 
-thirtydollar.website, specy.github.io/genshinMusic/#/
-
+https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://musiclab.chromeexperiments.com/Song-Maker
 
 # academic related links
 
