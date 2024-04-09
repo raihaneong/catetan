@@ -34,6 +34,20 @@ https://archive.org/, https://ghostarchive.org/, https://archive.ph/
 music creation\
 https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://musiclab.chromeexperiments.com/Song-Maker
 
+audio: howlerjs
+visual: gsap, threejs, theatrejs
+
+https://tutorialspoint.com/index.htm
+
+technical writing\
+https://stc.org/
+https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/index.html
+
+file hosting = https://qu.ax/
+
+math\
+https://desmos.com/
+
 # GENERAL
 
 chrome bookmarks:\
@@ -123,20 +137,6 @@ https://cs50.harvard.edu/x/
 https://tinybuddha.com/
 
 https://thi.ng/
-
-audio: howlerjs
-visual: gsap, threejs, theatrejs
-
-https://tutorialspoint.com/index.htm
-
-technical writing\
-https://stc.org/
-https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/index.html
-
-file hosting = https://qu.ax/
-
-math\
-https://desmos.com/
 
 https://patorjk.com/misc/scrollingtext/timewaster.php
 
