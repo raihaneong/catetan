@@ -220,10 +220,6 @@ https://binvis.io/#/
 audio\
 https://samplefocus.com/
 
-# DEVELOPER
-
-## HTML
-
 ## CSS
 [css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
 
