@@ -32,7 +32,7 @@ information archive\
 https://archive.org/, https://ghostarchive.org/, https://archive.ph/, https://arxiv.org/
 
 music creation\
-https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://musiclab.chromeexperiments.com/Song-Maker
+https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/
 
 javascript audio library\
 https://howlerjs.com/
@@ -786,8 +786,6 @@ https://geometrize.co.uk/
 https://stellarium-web.org/
 
 https://solarsystemscope.com/
-
-https://stars.chromeexperiments.com/
 
 https://dailyui.co/
 
