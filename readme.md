@@ -876,8 +876,6 @@ Iklan_produk= breakoutclips
 
 Packing= qualita_company
 
-Perkecil_size_file= tinypng.com
-
 Pixel= https://pixelartcss.com/
 
 Foto/vid= Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8, Isoflat, rawpixel, amritpaldesign, appitgdigital, isometriclove, Freepik, vecteezy, handzdesign, pixabay,isoflat, graphicburger, pixeden
