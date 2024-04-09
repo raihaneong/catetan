@@ -858,6 +858,13 @@ palet-warna = https://happyhues.co/, https://colors.dopely.top/
 
 VIDEO-EDITING = https://origami.design/, descript
 
+
+VIDEO-EDITING = https://origami.design/, descript
+
+Edit_video_online= veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
+
+asset-video= coverr.co
+
 --
 
 auto_gambar= https://autodraw.com/
@@ -910,13 +917,7 @@ Gradient= meshgradient, cssgradient.io,
 
 asset-music= https://mixkit.co/
 
-asset-video= coverr.co
-
 Motiongraphics= lottiefiles
-
-VIDEO-EDITING = https://origami.design/, descript
-
-Edit_video_online= veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
 
 Edit_foto= fotor, photopea
 
