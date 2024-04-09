@@ -190,10 +190,6 @@ https://scrimba.com/allcourses?price=free
 
 Online-tools-for-dev = https://extendsclass.com/
 
-[back to top](#table-of-contents)
-
----
-
 3d\
 https://dora.run/
 https://desmos.com/3d
