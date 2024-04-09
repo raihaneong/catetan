@@ -1035,7 +1035,7 @@ thirtydollar.website, specy.github.io/genshinMusic/#/
 
 ---
 
-# ACADEMIC
+# academic related links
 
 research\
 https://ebsco.com/, 
