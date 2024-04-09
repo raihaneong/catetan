@@ -593,12 +593,6 @@ https://ray.so/
 Tools\
 https://landingpage.fyi/
 
-## CHALLENGE
-
-
-
-
-
 Typing\
 [ztype](https://zty.pe/)
 
