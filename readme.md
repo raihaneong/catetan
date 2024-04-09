@@ -983,6 +983,7 @@ Trippy edit
 https://kleki.com/
 
 music creation\
+https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, 
 thirtydollar.website, specy.github.io/genshinMusic/#/
 
 
