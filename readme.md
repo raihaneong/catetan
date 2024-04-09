@@ -176,9 +176,6 @@ https://easyjapanese.net/
 Github badge\
 https://badgen.net/
 
-Freelance\
-https://eveerykit.com/product-category/for-designer-freelancer/
-
 https://window-swap.com/
 
 https://citywalks.live/
