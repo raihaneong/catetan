@@ -40,8 +40,6 @@ https://howlerjs.com/
 javascript animation library\
 https://threejs.org/, https://www.theatrejs.com/, https://gsap.com/
 
-https://tutorialspoint.com/index.htm
-
 technical writing\
 https://stc.org/
 https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/index.html
@@ -50,6 +48,9 @@ file hosting = https://qu.ax/
 
 math\
 https://desmos.com/
+
+links to learn things\
+https://tutorialspoint.com/index.htm
 
 # GENERAL
 
