@@ -918,8 +918,6 @@ asset-music= https://mixkit.co/
 
 asset-video= coverr.co
 
-Animasi= createwithflow, Render forest, animaker, gsap, greensock
-
 Motiongraphics= lottiefiles
 
 VIDEO-EDITING = https://origami.design/, descript
