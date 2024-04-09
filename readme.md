@@ -908,7 +908,6 @@ Photo_tracking= pixsy
 
 Make_music= onlinesequencer, mubert.com https://samplefocus.com/ vocalremoverorg, lalal.ai,
 
-Draw_online= sketch.io, photopea, fotor
 Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 
 Cool\
