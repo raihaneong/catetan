@@ -880,10 +880,7 @@ International Phonetic Alphabet Translator\
 Text to Handwriting\
 [jnckmedia](https://jnckmedia.com/nulis/)
 
-
 [back to top](#table-of-contents)
-
-
 
 # job related links
 
