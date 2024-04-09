@@ -153,7 +153,7 @@ https://axiom.ai/
 https://10015.io/
 Coqui.ai 
 https://splitmysong.com/
-vulnhub.com
+https://www.vulnhub.com/
 https://killedbygoogle.com/ 
 https://socialify.git.ci/
 https://excelunusual.com/
