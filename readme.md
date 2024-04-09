@@ -820,8 +820,6 @@ AI Drawing\
 
 ## Video
 
-video_to_text = https://anthiago.com/transcript/
-
 asset-music= https://mixkit.co/
 
 asset-video= http://coverr.co/
@@ -922,6 +920,9 @@ https://kleki.com/
 
 Github badge\
 https://badgen.net/
+
+video transcriptor\
+https://anthiago.com/transcript/
 
 
 # academic related links
