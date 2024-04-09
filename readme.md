@@ -649,15 +649,6 @@ Website Accessibility\
 https://a11y-101.com/
 https://developer.mozilla.org/en-US/docs/Web/Accessibility
 
-### ***CSS***
-
-
-
-
-### ***Javascript***
-
-
-
 ## **Back-end**
 
 API= publicapis, https://directus.io/, https://opentdb.com/
