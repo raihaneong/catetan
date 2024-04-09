@@ -32,7 +32,7 @@ information archive\
 https://archive.org/, https://ghostarchive.org/, https://archive.ph/, https://arxiv.org/
 
 music creation\
-https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, onlinesequencer, mubert.com https://samplefocus.com/ vocalremoverorg, lalal.ai,
+https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://onlinesequencer.net/, https://mubert.com/, https://samplefocus.com/ vocalremoverorg, lalal.ai,
 
 javascript audio library\
 https://howlerjs.com/
