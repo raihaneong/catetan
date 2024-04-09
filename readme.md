@@ -860,8 +860,6 @@ VIDEO-EDITING = https://origami.design/, descript
 
 --
 
-Tool.graphics
-
 auto_gambar= https://autodraw.com/
 
 Fileconverter= cloudconvert.com
