@@ -1070,7 +1070,7 @@ Text to Handwriting\
 
 
 
-# CAREER
+# job related links
 
 Resume/cv\
 https://resume.io/app, https://aksel.co.id, https://standardresume.co/
