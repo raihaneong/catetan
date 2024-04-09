@@ -34,8 +34,11 @@ https://archive.org/, https://ghostarchive.org/, https://archive.ph/, https://ar
 music creation\
 https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://musiclab.chromeexperiments.com/Song-Maker
 
-audio: howlerjs
-visual: gsap, threejs, theatrejs
+javascript audio library\
+https://howlerjs.com/
+
+javascript animation library\
+https://threejs.org/, https://www.theatrejs.com/, https://gsap.com/
 
 https://tutorialspoint.com/index.htm
 
