@@ -757,8 +757,6 @@ https://readme.so/id
 
 git= Ohshitgit
 
-Tes
-
 Tes= enrollapp, usertesting
 
 Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle, jsbin, vscode.dev
