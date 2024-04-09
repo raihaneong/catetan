@@ -52,9 +52,6 @@ https://desmos.com/
 links to learn things\
 https://tutorialspoint.com/index.htm, https://web.dev/learn/, https://rapidapi.com/learn, https://apisecuniversity.com/, https://coursesidekick.com/study-guides, https://ocw.mit.edu/, https://roadmap.sh/
 
-Github badge\
-https://badgen.net/
-
 # GENERAL
 
 chrome bookmarks:\
@@ -922,6 +919,9 @@ Trippy edit
 https://kleki.com/
 
 # useful tools
+
+Github badge\
+https://badgen.net/
 
 
 # academic related links
