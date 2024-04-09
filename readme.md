@@ -213,7 +213,6 @@ Online-tools-for-dev = https://extendsclass.com/
 learn\
 https://web.dev/learn/
 https://rapidapi.com/learn
-https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/
 https://apisecuniversity.com/
 https://coursesidekick.com/study-guides
 
