@@ -50,13 +50,10 @@ math\
 https://desmos.com/
 
 links to learn things\
-https://tutorialspoint.com/index.htm, https://web.dev/learn/, https://rapidapi.com/learn, https://apisecuniversity.com/, https://coursesidekick.com/study-guides
+https://tutorialspoint.com/index.htm, https://web.dev/learn/, https://rapidapi.com/learn, https://apisecuniversity.com/, https://coursesidekick.com/study-guides, https://ocw.mit.edu/, https://roadmap.sh/
 
 Github badge\
 https://badgen.net/
-
-Learning resources\
-https://ocw.mit.edu/, https://roadmap.sh/
 
 # GENERAL
 
