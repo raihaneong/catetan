@@ -32,7 +32,7 @@ information archive\
 https://archive.org/, https://ghostarchive.org/, https://archive.ph/, https://arxiv.org/
 
 music creation\
-https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/
+https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, onlinesequencer, mubert.com https://samplefocus.com/ vocalremoverorg, lalal.ai,
 
 javascript audio library\
 https://howlerjs.com/
@@ -905,8 +905,6 @@ Edit_foto= fotor, photopea
 Apus_objek= theinpaint, removebg, Nvidia inpainting
 
 Photo_tracking= pixsy
-
-Make_music= onlinesequencer, mubert.com https://samplefocus.com/ vocalremoverorg, lalal.ai,
 
 Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 
