@@ -1,23 +1,3 @@
-
-# Table of Contents
-<!-- - [BOOKS](BOOKS)
--->
-
-[general](#general)\
-[developer](#developer)\
-[designer](#designer)\
-[assets](#assets)
-
-<!-- [general](#general)\
-[uncategorized](#uncategorized)\
-[swe](#swe)\
-[designer](#designer)\
-[asset](#asset)\
-[academic](#academic)\
-[job](#job) -->
-
----
-
 artificial intelligence\
 https://beta.character.ai/, https://chat.openai.com/, https://uberduck.ai/, https://rephrase.ai/, https://bigspeak.ai/, http://synthesia.io/, http://rephrase.ai/, http://spik.ai/, http://dictation.io/, https://beatoven.ai/, https://craiyon.com/, https://wombo.art/
 
