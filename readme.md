@@ -29,7 +29,7 @@ creative programming\
 [p5js](https://p5js.org/), [tinkersynth](https://tinkersynth.com/), [shadertoy](https://shadertoy.com/), [openprocessing](https://openprocessing.org/), [processing](https://processing.org/), [touchdesigner](https://derivative.ca/)
 
 information archive\
-https://archive.org/, https://ghostarchive.org/, https://archive.ph/
+https://archive.org/, https://ghostarchive.org/, https://archive.ph/, https://arxiv.org/
 
 music creation\
 https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://musiclab.chromeexperiments.com/Song-Maker
@@ -174,11 +174,6 @@ https://badgen.net/
 
 Freelance\
 https://eveerykit.com/product-category/for-designer-freelancer/
-
-Archive\
-https://archive.org/
-
-https://arxiv.org/
 
 https://window-swap.com/
 
