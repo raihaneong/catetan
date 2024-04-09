@@ -55,15 +55,13 @@ https://tutorialspoint.com/index.htm
 Github badge\
 https://badgen.net/
 
+Learning resources\
+https://ocw.mit.edu/, https://roadmap.sh/
+
 # GENERAL
 
 chrome bookmarks:\
 [mastodon-servers](https://joinmastodon.org/servers), https://w3.org/, https://a11y-101.com/, https://freebsd.org/, https://springframework.guru/gang-of-four-design-patterns/, https://systemdesign.one/categories/, https://survey.devographics.com/en-US, https://learncpp.com/, https://learn-js.org/, https://howtographql.com/, https://devhints.io/, https://gitconnected.com/learn, https://roadmap.sh/, https://codewars.com/, https://blog.bytebytego.com/p/algorithms-you-should-know-before, https://neetcode.io/practice, https://osn.toki.id/, https://hackerrank.com/, https://codeforces.com/, https://algorithm-visualizer.org/backtracking/hamiltonean-cycles, https://visualgo.net/en, https://summarize.tech/, https://bard.google.com/chat?hl=en, https://phind.com/, https://threejs.org/docs/, https://discoverthreejs.com/, https://en.threejs-university.com/category/learn-threejs/, https://threejs.org/, https://theatrejs.com/, https://gsap.com/, https://github.com/pmndrs/drei, https://docs.pmnd.rs/react-three-fiber/getting-started/introduction, https://pixijs.com/, https://p5js.org/, https://framer.com/motion/, https://doc.babylonjs.com/, https://discourse.threejs.org/, https://cgsociety.org/, https://polycount.com/forum, https://blenderartists.org/, https://blendernation.com/, https://blender.community, https://zbrushcentral.com/, https://artstation.com/?sort_by=community&dimension=all, https://forum.highend3d.com/, https://geeksforgeeks.org/community/?ref=leftbarm https://learn.mongodb.com/learning-paths/introduction-to-mongodbm,  https://learn.saylor.org/?redirect=0
-
-
-
-Learning resources\
-https://ocw.mit.edu/, https://roadmap.sh/
 
 # UNCATEGORIZED
 http://info.cern.ch/
