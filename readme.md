@@ -880,8 +880,6 @@ Perkecil_size_file= tinypng.com
 
 Pixel= https://pixelartcss.com/
 
-Svg= svgomg
-
 Foto/vid= Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8, Isoflat, rawpixel, amritpaldesign, appitgdigital, isometriclove, Freepik, vecteezy, handzdesign, pixabay,isoflat, graphicburger, pixeden
 
 Icon= nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlineicons.com, iconscout.com, animaticons, akaricons, thenounproject, https://iconfinder.com/, https://systemuicons.com/, iconsaxio, lordicon, , Iconstore, iconfinder, streamlineicon, lordicon, remixicon, appitgdigital, ikonate, fontawesome.
@@ -924,6 +922,9 @@ https://kleki.com/
 
 svg generator\
 https://haikei.app/
+
+svg editor\
+https://svgomg.net/
 
 # academic related links
 
