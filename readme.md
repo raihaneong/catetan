@@ -858,9 +858,6 @@ palet-warna = https://happyhues.co/, https://colors.dopely.top/
 
 VIDEO-EDITING = https://origami.design/, descript
 
-
-VIDEO-EDITING = https://origami.design/, descript
-
 Edit_video_online= veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
 
 asset-video= coverr.co
