@@ -682,9 +682,7 @@ readme = [https://readme.so/id/editor](https://readme.so/id/editor)
 
 usage = [https://uses.tech/](https://uses.tech/)
 
-documentation = [overapi.com](http://overapi.com/), [devdocs.io](http://devdocs.io/), [devhints.io](http://devhints.io/), [https://ihateregex.io/](https://ihateregex.io/)
-
-documentation = [https://explainshell.com/](https://explainshell.com/)
+documentation = [overapi.com](http://overapi.com/), [devdocs.io](http://devdocs.io/), [devhints.io](http://devhints.io/), [https://ihateregex.io/](https://ihateregex.io/), [https://explainshell.com/](https://explainshell.com/)
 
 Learn-by-games= codingame, coregame, [codecombat.com](http://codecombat.com/), [education.minecraft.net](http://education.minecraft.net/), [tynker.com](http://tynker.com/), [checkio.org](http://checkio.org/), jsrobot, robocode, checkio, codingame, jsdares, codecombat, flexboxfroggy, cssdiner, elevatorsaga, crunchzilla, sql murder mystery, warriorjs, [https://codewars.com/dashboard](https://codewars.com/dashboard)
 
