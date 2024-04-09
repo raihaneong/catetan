@@ -34,9 +34,6 @@ https://archive.org/, https://ghostarchive.org/, https://archive.ph/, https://ar
 music creation\
 https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://onlinesequencer.net/, https://mubert.com/
 
-audio\
-https://samplefocus.com/
-
 javascript audio library\
 https://howlerjs.com/
 
@@ -219,6 +216,9 @@ https://ppld.org/recommended-websites/read-print
 
 binary\
 https://binvis.io/#/
+
+audio\
+https://samplefocus.com/
 
 # DEVELOPER
 
