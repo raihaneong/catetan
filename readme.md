@@ -1025,7 +1025,7 @@ Trippy edit
 
 https://kleki.com/
 
-=Music\
+Music\
 thirtydollar.website, specy.github.io/genshinMusic/#/
 
 
