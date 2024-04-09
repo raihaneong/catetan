@@ -920,10 +920,6 @@ asset-video= coverr.co
 
 Animasi= createwithflow, Render forest, animaker, gsap, greensock
 
-Edit_opening_video= panzoid
-
-Subtitle= kapwing, veed.io, descript
-
 Motiongraphics= lottiefiles
 
 VIDEO-EDITING = https://origami.design/, descript
