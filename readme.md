@@ -482,21 +482,11 @@ https://refactoring.guru/design-patterns/, http://mcdonaldland.info/2007/11/28/4
 
 web3: app.stackup.dev, Learnweb3.io, cryptozombies.io, buildspace.so, questbookapp.xyz, nftschool.dev, remix.ethereum.org, ethernaut.openzeppelin.com,solanacookbook.com, useweb3.xyz, buildspace.io, https://useweb3.xyz/
 
-buildFastFUllStackWebApps = https://glitch.com/
-
-profileMarkdown = https://profileme.dev/
-
 create-markdown = https://pandao.github.io/editor.md/en.html
 
 Programming-logic = https://circuitverse.org/simulator
 
-Real-time-sharecode = https://codeshare.io/
-
-Code-review-as-a-Service = https://pullrequest.com/
-
 documenting = https://bookstackapp.com/
-
-software-architect = https://freecodecamp.org/news/an-introduction-to-software-architecture-patterns/
 
 learn-about-the-web = https://howhttps.works/, https://howdns.works/
 
@@ -504,8 +494,6 @@ game-in-web = https://donitz.itch.io/
 
 Deploy Website\
 [render](https://render.com/), [heroku](https://heroku.com/), [netlify](https://netlify.com/), [vercel](https://vercel.com/), [surge sh](https://surge.sh/), https://railway.app/, https://cloudflare.com/
-
-books = the algorithm design manual 3rd edition
 
 algorithmic-art = https://ventrella.com/
 
@@ -521,9 +509,6 @@ https://kapwing.com/museum-of-websites
 
 Open-Source\
 [notification infrastucture](https://novu.co/)
-
-Snippet\
-https://ray.so/
 
 Tools\
 https://landingpage.fyi/
@@ -544,8 +529,6 @@ create-frontEnd-fast = https://editorx.com/
 
 Design-to-webapps = https://locofy.ai/
 
-React = https://mui.com/
-
 metatags = https://metatags.io/
 
 checklist = https://frontendchecklist.io/, https://checklist.design/, https://designsystemchecklist.com/
@@ -553,8 +536,6 @@ checklist = https://frontendchecklist.io/, https://checklist.design/, https://de
 HTML = https://htmlcheatsheet.com/, https://w3.org/TR/2011/WD-html5-20110525/content-models.html, https://htmldog.com/
 
 web-background = https://webgradients.com/, https://bgjar.com/
-
-Testing = cypress, enzymjs, jest
 
 https://webdevelopermentor.com/challenges/notifications-menu
 
@@ -582,14 +563,9 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility
 
 API= publicapis, https://directus.io/, https://opentdb.com/
 
-NPM = http://bundlephobia.com/,
-
 test-api = https://jsonplaceholder.typicode.com/, https://pie.dev/, https://dummyjson.com/
 
 https://regexr.com/
-
-
-nodejs = https://nodejsera.com/30-days-of-node.html
 
 
 ## **Other**
@@ -605,8 +581,6 @@ usage = [https://uses.tech/](https://uses.tech/)
 documentation = [overapi.com](http://overapi.com/), [devdocs.io](http://devdocs.io/), [devhints.io](http://devhints.io/), [https://ihateregex.io/](https://ihateregex.io/), [https://explainshell.com/](https://explainshell.com/)
 
 Learn-by-games= codingame, coregame, [codecombat.com](http://codecombat.com/), [education.minecraft.net](http://education.minecraft.net/), [tynker.com](http://tynker.com/), [checkio.org](http://checkio.org/), jsrobot, robocode, checkio, codingame, jsdares, codecombat, flexboxfroggy, cssdiner, elevatorsaga, crunchzilla, sql murder mystery, warriorjs, [https://codewars.com/dashboard](https://codewars.com/dashboard)
-
-createSnippet = [Carbon.now.sh](http://carbon.now.sh/), [ray.so](http://ray.so/),
 
 reference = [https://mobbin.design/browse/android/apps](https://mobbin.design/browse/android/apps), [https://stackshare.io/stacks](https://stackshare.io/stacks)
 
@@ -631,21 +605,15 @@ Tentang_shell= explainshell.com Documentation
 
 Improve_web= caniuse.com, devhints.io, Bundlephobia.com
 
-Tes_frontend= enzymjs, jest, cypress
-
 Tes_website= caniuse.com, builtwith.com, pagespeedinsights, https://nibbler.silktide.com/
 
 Inspiration= siteinspire, designresourc.es, https://saasframe.io/
 
 Web_sama= similarsites.com
 
-Fileconverter= cloudconvert.com
-
 Artificial intelligence= tensorflow
 
 API= publicapis, insomniarest.
-
-Node= reactsimpleimg
 
 Code_Game= codingame, coregame, codecombat.com, education.minecraft.net, tynker.com, checkio.org
 
@@ -654,8 +622,6 @@ Learncode_by_game= jdrobot, robocode, checkio, codingame, jsdares, codecombat, s
 Code_snippet= Carbon.now.sh, ray.so,
 
 Build_app= https://teta.so/, glideapps, bravoatudioapp, draftbit, animaapp, sketch2react
-
-Build_webapp= bubble.io
 
 Belajar_code= 100dayscss, top,geeksforgeeks, cssbattle, , frontend practice, codingchallenges, stylestage, frontend mentor, codewars, hackr.io, Code4startup.com
 
@@ -701,8 +667,6 @@ Websitecheck= downforeveryoneorjustme.com
 
 SQL-API= https://directus.io/
 
-Git & Github
-
 https://learngitbranching.js.org/
 
 https://readme.so/id
@@ -722,10 +686,6 @@ https://grafana.com/
 https://dynobird.com/
 
 https://drawsql.app/
-
-raphconnect
-
-drawsql
 
 faunadb
 
@@ -836,8 +796,6 @@ Motiongraphics= lottiefiles
 
 Make_music= onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocalremoverorg, http://lalal.ai/,
 
-Subtitle= kapwing, http://veed.io/, descript
-
 palet-warna = https://happyhues.co/, https://colors.dopely.top/
 
 VIDEO-EDITING = https://origami.design/, descript
@@ -859,10 +817,6 @@ Inspiration = designinspiration.com, Behance, pinterest, dribbble, muz.li, savee
 Mockup= Mockupphone, shotsnapp, mockvideo, vecteezy, rotato.xyz, thing.morflax.com, artboartstudio, mockupbro, devicesshots, previewedapp, threedio, smartmockups, screenly, mockups-design, free-mockup, graphicburger, mockupworld, graphberry, freepik, ls.graphics, mckups, placeit.net, pixeden, mockuuups.studio, mockup.ceacle.com, medialoot, freebiesbug, cssauthor, unblast, rawpixel,
 
 Convert_vector= Vectorizerio
-
-Ai_image_resolution= letsenhance.io
-
-Image_size= tinypng
 
 Fontpair= fontjoy, fontpair.co
 
