@@ -866,8 +866,6 @@ auto_gambar= https://autodraw.com/
 
 Fileconverter= cloudconvert.com
 
-Jual= creativemarket, ui8net, uplab, envato, template master, canva, etsy, designcrowd, 99design, fiverr
-
 Inspiration = designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, mobbin.design
 
 3D= spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
