@@ -1065,30 +1065,6 @@ International Phonetic Alphabet Translator\
 Text to Handwriting\
 [jnckmedia](https://jnckmedia.com/nulis/)
 
-Pertanyaan ketika skripsi
-
-
-1. Mengapa mengambil judul tersebut?
-2. Apa jenis penelitian kamu dan Mengapa mengambil jenis penelitian tersebut?
-3. Apa permasalahan skripsi kamu?
-4. Berapa populasi dan sampel pada penelitian kamu? (kuantitatif)
-5. Pendekatan apa yang kamu gunakan? (kualitatif)
-6. Dimana kamu melakukan penelitian ini?
-7. Mengapa kamu memilih lokasi penelitian tersebut?
-8. Apa hambatan dalam melakukan penelitian?
-9. Teori siapa yang kamu gunakan di penelitian ini?
-10. Apa instruman penelitian ini?
-11. Bagaimana prosedur pengambilan data penelitian ini?
-12. Bagaimana proses analisis data pada penelitian ini?
-13. Apa sumber data pada penelitian ini? (kualitatif)
-14. Apa hipotesis pada penelitian ini? (kuantitatif)
-15. Berapa variabel pada penelitian ini?
-16. Apa temuan penelitian ini?
-17. Apa kesimpulan dari penelitian ini?
-18. Apa impact dari penelitian ini?
-19. Apa manfaat penelitian ini?
-20. Apakah sebelumnya ada penelitian lain? Apa perbedaannya?
-21. Apakah kesimpulan penelitian ini sudah menjawab rumusan masalah?
 
 [back to top](#table-of-contents)
 
