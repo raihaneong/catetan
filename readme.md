@@ -152,28 +152,17 @@ CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
 
 CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
 
-https://github.com/IanLunn/Hover/blob/master/css/hover.css
-
-https://grid.malven.co/
-
-https://cssgrid-generator.netlify.app/
-
-https://animate.style/
-
-https://templatemo.com/
-
-https://designmodo.com/css-website-designs/
-
-https://100dayscss.com/
-
-https://dailycssdesign.com/
-
-https://cssbud.com/css-generator/css-glow-generator/
-
-https://shadows.brumm.af/
-
-https://rupl.github.io/unfold/
-
+https://github.com/IanLunn/Hover/blob/master/css/hover.css,
+https://grid.malven.co/,
+https://cssgrid-generator.netlify.app/,
+https://animate.style/,
+https://templatemo.com/,
+https://designmodo.com/css-website-designs/,
+https://100dayscss.com/,
+https://dailycssdesign.com/,
+https://cssbud.com/css-generator/css-glow-generator/,
+https://shadows.brumm.af/,
+https://rupl.github.io/unfold/,
 https://html-css-js.com/css/generator/,
 https://webcode.tools/,
 https://toptal.com/developers/css3maker,
