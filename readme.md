@@ -1,6 +1,7 @@
 > title (category) > group > resource
 
 # UNCATEGORIZED
+
 http://info.cern.ch/,
 https://rfc-editor.org/,
 https://gnu.org/,
@@ -14,121 +15,124 @@ https://ihateregex.io/,
 https://templatemaker.nl/en/,
 https://text-compare.com/,
 https://shortcuts.design/,
-https://neverinstall.com/, 
-https://synthesia.io/homepage, 
-https://dictation.io/, 
-https://witeboard.com/, 
-https://wetransfer.com/, 
-https://seakun.id/, 
-https://playphrase.me/, 
-https://pimeyes.com/en, 
-https://webcode.tools/, 
-https://frontendchecklist.io/, 
-https://sketch2code.azurewebsites.net/, 
-https://unused-css.com/, 
-https://magicpattern.design/tools, 
-https://coolbackgrounds.io/, 
-https://wickedbackgrounds.com/app, 
-https://shapedivider.app/, 
-https://uidesigndaily.com/, 
-https://spline.design/, 
-https://lawsofux.com/en/, 
-https://animista.net/, 
-https://screenlane.com, 
-https://froala.com/design-blocks/, 
-https://collectui.com/, 
-https://humaaans.com/, 
-https://checklist.design/, 
-https://webgradients.com/, 
-https://webframe.xyz/, 
-https://lapa.ninja/, 
-https://jsdares.com/, 
-https://codecombat.com/, 
-https://freecodecamp.itch.io/learn-to-code-rpg, 
-https://screeps.com/, 
-https://flukeout.github.io/, 
-https://mastery.games/, 
-https://codepip.com/games/, 
-https://openvim.com/, 
-https://codingfantasy.com/games, 
-https://knightsoftheflexboxtable.com/, 
-https://katydecorah.com/css-ruler/, 
-https://typescript-exercises.github.io/, 
-https://designpatternsgame.com/, 
-https://react-tutorial.app/, 
-https://bevacqua.github.io/promisees/, 
-https://learngitbranching.js.org/, 
-https://selectstarsql.com/, 
-https://regex101.com/, 
-https://regexcrossword.com/, 
-https://regexone.com/, 
-https://lab.reaal.me/jsrobot/, 
-http://crunchzilla.com/, 
-https://laetusinpraesens.org/docs/limit.php, 
-https://clerk.com/, 
-https://planetscale.com/, 
-https://applieddigitalskills.withgoogle.com/s/en/home, 
-https://duolingo.com/learn, 
-https://leetcode.com/problemset/all/, 
-https://coursera.org/, 
-https://brilliant.org/courses/, 
-https://indiabix.com/, 
-https://cs50.harvard.edu/x/, 
-https://tinybuddha.com/, 
-https://thi.ng/, 
-https://patorjk.com/misc/scrollingtext/timewaster.php, 
-https://smart.servier.com/, 
-https://nobaproject.com/, 
-https://goodbrief.io/, 
-https://playphrase.me/, 
-https://shortcuts.design/, 
-https://logoipsum.com/, 
-https://notevibes.com/, 
-https://fakeyou.com/, 
-https://lalal.ai/, 
-https://logoipsum.com, 
-https://neverinstall.com/, 
-https://opensourcealternative.to/, 
-https://axiom.ai/, 
-https://10015.io/, 
-https://splitmysong.com/, 
-https://www.vulnhub.com/, 
-https://killedbygoogle.com/, 
-https://socialify.git.ci/, 
-https://excelunusual.com/, 
-http://radio.garden/, 
-https://copy.ai/, 
-https://quillbot.com/, 
-https://lifeat.io/explore, 
-https://window-swap.com/, 
-https://marketingexamples.com/, 
-https://classcentral.com/, 
-https://prohura.com/, 
-https://digger.dev/, 
-https://learn-anything.xyz/, 
-https://app.3daimtrainer.com/quick-play, 
-https://easyjapanese.net/, 
-https://window-swap.com/, 
-https://citywalks.live/, 
-https://drivenlisten.com/, 
-https://driveandlisten.herokuapp.com/, 
-https://thecolorsofmotion.com/, 
-https://innerbody.com/htm/body.html, 
-https://htwins.net/scale2/, 
-https://my00stv.com/, 
-https://exercism.org/, 
-https://teachyourselfcs.com/, 
-https://freestuff.dev/, 
-https://free-for.dev/#/, 
-https://web.dev/, 
-https://hackr.io/, 
-https://egghead.io/, 
+https://neverinstall.com/,
+https://synthesia.io/homepage,
+https://dictation.io/,
+https://witeboard.com/,
+https://wetransfer.com/,
+https://seakun.id/,
+https://playphrase.me/,
+https://pimeyes.com/en,
+https://webcode.tools/,
+https://frontendchecklist.io/,
+https://sketch2code.azurewebsites.net/,
+https://unused-css.com/,
+https://magicpattern.design/tools,
+https://coolbackgrounds.io/,
+https://wickedbackgrounds.com/app,
+https://shapedivider.app/,
+https://uidesigndaily.com/,
+https://spline.design/,
+https://lawsofux.com/en/,
+https://animista.net/,
+https://screenlane.com,
+https://froala.com/design-blocks/,
+https://collectui.com/,
+https://humaaans.com/,
+https://checklist.design/,
+https://webgradients.com/,
+https://webframe.xyz/,
+https://lapa.ninja/,
+https://jsdares.com/,
+https://codecombat.com/,
+https://freecodecamp.itch.io/learn-to-code-rpg,
+https://screeps.com/,
+https://flukeout.github.io/,
+https://mastery.games/,
+https://codepip.com/games/,
+https://openvim.com/,
+https://codingfantasy.com/games,
+https://knightsoftheflexboxtable.com/,
+https://katydecorah.com/css-ruler/,
+https://typescript-exercises.github.io/,
+https://designpatternsgame.com/,
+https://react-tutorial.app/,
+https://bevacqua.github.io/promisees/,
+https://learngitbranching.js.org/,
+https://selectstarsql.com/,
+https://regex101.com/,
+https://regexcrossword.com/,
+https://regexone.com/,
+https://lab.reaal.me/jsrobot/,
+http://crunchzilla.com/,
+https://laetusinpraesens.org/docs/limit.php,
+https://clerk.com/,
+https://planetscale.com/,
+https://applieddigitalskills.withgoogle.com/s/en/home,
+https://duolingo.com/learn,
+https://leetcode.com/problemset/all/,
+https://coursera.org/,
+https://brilliant.org/courses/,
+https://indiabix.com/,
+https://cs50.harvard.edu/x/,
+https://tinybuddha.com/,
+https://thi.ng/,
+https://patorjk.com/misc/scrollingtext/timewaster.php,
+https://smart.servier.com/,
+https://nobaproject.com/,
+https://goodbrief.io/,
+https://playphrase.me/,
+https://shortcuts.design/,
+https://logoipsum.com/,
+https://notevibes.com/,
+https://fakeyou.com/,
+https://lalal.ai/,
+https://logoipsum.com,
+https://neverinstall.com/,
+https://opensourcealternative.to/,
+https://axiom.ai/,
+https://10015.io/,
+https://splitmysong.com/,
+https://www.vulnhub.com/,
+https://killedbygoogle.com/,
+https://socialify.git.ci/,
+https://excelunusual.com/,
+http://radio.garden/,
+https://copy.ai/,
+https://quillbot.com/,
+https://lifeat.io/explore,
+https://window-swap.com/,
+https://marketingexamples.com/,
+https://classcentral.com/,
+https://prohura.com/,
+https://digger.dev/,
+https://learn-anything.xyz/,
+https://app.3daimtrainer.com/quick-play,
+https://easyjapanese.net/,
+https://window-swap.com/,
+https://citywalks.live/,
+https://drivenlisten.com/,
+https://driveandlisten.herokuapp.com/,
+https://thecolorsofmotion.com/,
+https://innerbody.com/htm/body.html,
+https://htwins.net/scale2/,
+https://my00stv.com/,
+https://exercism.org/,
+https://teachyourselfcs.com/,
+https://freestuff.dev/,
+https://free-for.dev/#/,
+https://web.dev/,
+https://hackr.io/,
+https://egghead.io/,
 https://scrimba.com/allcourses?price=free
+
 # GENERAL LINKS
+
 # CSS and JAVASCRIPT
-https://cssbattle.dev/, 
-https://flukeout.github.io/, 
-http://flexboxdefense.com/, 
+
+https://cssbattle.dev/,
+https://flukeout.github.io/,
+http://flexboxdefense.com/,
 https://cssgridgarden.com/#id
 
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
@@ -258,7 +262,7 @@ https://divtable.com/table-styler/,
 https://10015.io/tools/css-loader-generator
 
 Chart\
-https://chartscss.org/	
+https://chartscss.org/
 
 Loading\
 https://whirl.netlify.app/,
@@ -285,7 +289,7 @@ CSS= css-tricks, cssbattle, flexboxfroggy, cssdiner, bemcheatsheet, cssdiner, ru
 
 CSS_layout= gridlayoutit, csslayout.io, griddy.io, purecsslayouts, CSSgridgenerator, loadingioflexbox, cssgr.id, gridbyexample,
 
-Cssbackground= https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com 
+Cssbackground= https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com
 
 CSSpixel= https://pixelartcss.com/
 
@@ -322,6 +326,7 @@ JavaScript= https://1loc.dev/ https://javascripting.com/?sort=rating https://lea
 JavaScript_libraries= fullpagejs, animejs, threejs, screenfulljs, leafletjs, popperjs
 
 # C++
+
 # DATABASE and SERVER
 
 https://supabase.com/
@@ -341,7 +346,9 @@ Database-manager-platform = Harperdb.io
 Postgresql-database-Course = https://online.umich.edu/series/postgresql-for-everybody/
 
 sqlite = https://sqlitetutorial.net/sqlite-nodejs/
+
 # DATA STRUCTURE and ALGORITHM
+
 [leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://hackerrank.com), [codewars](https://codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://kaggle.com/), [advent of code](https://adventofcode.com/)
 
 Visualization-data-structure-and-algorithm = Visualgo.net, https://algorithm-visualizer.org/, https://toptal.com/developers/sorting-algorithms
@@ -364,7 +371,8 @@ https://bigocheatsheet.com/
 https://algs4.cs.princeton.edu/home/
 
 data structure and alogrithm\
-https://cs.usfca.edu/~galles/visualization/Algorithms.html 
+https://cs.usfca.edu/~galles/visualization/Algorithms.html
+
 # AUDIO, IMAGE, and VIDEO
 
 music creation\
@@ -445,7 +453,7 @@ Icon= nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlin
 
 PNG= Pngpix , favpng, Subpng, pngtree, cleanpng.
 
-Illustrations= drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/, blush.design, drawkit.io, humaaans.com, icons8.com, iconscout.com, illustrations.co, iradesign.io, isometric .nline, manypixels.co, openpeeps.com, pixeltrue.com, storyset.com, undraw.co 
+Illustrations= drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/, blush.design, drawkit.io, humaaans.com, icons8.com, iconscout.com, illustrations.co, iradesign.io, isometric .nline, manypixels.co, openpeeps.com, pixeltrue.com, storyset.com, undraw.co
 
 Warna= khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
 
@@ -460,6 +468,7 @@ Apus_objek= theinpaint, removebg, Nvidia inpainting
 Photo_tracking= pixsy
 
 Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
+
 # TOOLS
 
 Github badge\
@@ -520,7 +529,7 @@ links to learn things\
 https://tutorialspoint.com/index.htm, https://web.dev/learn/, https://rapidapi.com/learn, https://apisecuniversity.com/, https://coursesidekick.com/study-guides, https://ocw.mit.edu/, https://roadmap.sh/
 
 chrome bookmarks:\
-[mastodon-servers](https://joinmastodon.org/servers), https://w3.org/, https://a11y-101.com/, https://freebsd.org/, https://springframework.guru/gang-of-four-design-patterns/, https://systemdesign.one/categories/, https://survey.devographics.com/en-US, https://learncpp.com/, https://learn-js.org/, https://howtographql.com/, https://devhints.io/, https://gitconnected.com/learn, https://roadmap.sh/, https://codewars.com/, https://blog.bytebytego.com/p/algorithms-you-should-know-before, https://neetcode.io/practice, https://osn.toki.id/, https://hackerrank.com/, https://codeforces.com/, https://algorithm-visualizer.org/backtracking/hamiltonean-cycles, https://visualgo.net/en, https://summarize.tech/, https://bard.google.com/chat?hl=en, https://phind.com/, https://threejs.org/docs/, https://discoverthreejs.com/, https://en.threejs-university.com/category/learn-threejs/, https://threejs.org/, https://theatrejs.com/, https://gsap.com/, https://github.com/pmndrs/drei, https://docs.pmnd.rs/react-three-fiber/getting-started/introduction, https://pixijs.com/, https://p5js.org/, https://framer.com/motion/, https://doc.babylonjs.com/, https://discourse.threejs.org/, https://cgsociety.org/, https://polycount.com/forum, https://blenderartists.org/, https://blendernation.com/, https://blender.community, https://zbrushcentral.com/, https://artstation.com/?sort_by=community&dimension=all, https://forum.highend3d.com/, https://geeksforgeeks.org/community/?ref=leftbarm https://learn.mongodb.com/learning-paths/introduction-to-mongodbm,  https://learn.saylor.org/?redirect=0
+[mastodon-servers](https://joinmastodon.org/servers), https://w3.org/, https://a11y-101.com/, https://freebsd.org/, https://springframework.guru/gang-of-four-design-patterns/, https://systemdesign.one/categories/, https://survey.devographics.com/en-US, https://learncpp.com/, https://learn-js.org/, https://howtographql.com/, https://devhints.io/, https://gitconnected.com/learn, https://roadmap.sh/, https://codewars.com/, https://blog.bytebytego.com/p/algorithms-you-should-know-before, https://neetcode.io/practice, https://osn.toki.id/, https://hackerrank.com/, https://codeforces.com/, https://algorithm-visualizer.org/backtracking/hamiltonean-cycles, https://visualgo.net/en, https://summarize.tech/, https://bard.google.com/chat?hl=en, https://phind.com/, https://threejs.org/docs/, https://discoverthreejs.com/, https://en.threejs-university.com/category/learn-threejs/, https://threejs.org/, https://theatrejs.com/, https://gsap.com/, https://github.com/pmndrs/drei, https://docs.pmnd.rs/react-three-fiber/getting-started/introduction, https://pixijs.com/, https://p5js.org/, https://framer.com/motion/, https://doc.babylonjs.com/, https://discourse.threejs.org/, https://cgsociety.org/, https://polycount.com/forum, https://blenderartists.org/, https://blendernation.com/, https://blender.community, https://zbrushcentral.com/, https://artstation.com/?sort_by=community&dimension=all, https://forum.highend3d.com/, https://geeksforgeeks.org/community/?ref=leftbarm https://learn.mongodb.com/learning-paths/introduction-to-mongodbm, https://learn.saylor.org/?redirect=0
 
 Online-tools-for-dev = https://extendsclass.com/
 
@@ -643,7 +652,6 @@ API= publicapis, https://directus.io/, https://opentdb.com/
 test-api = https://jsonplaceholder.typicode.com/, https://pie.dev/, https://dummyjson.com/
 
 https://regexr.com/
-
 
 Other\
 ultimate-resource = [https://devresourc.es/,](https://devresourc.es/) [designresourc.es](http://designresourc.es/), [smalldev.tools](https://smalldev.tools/), [omatsuri.app](https://omatsuri.app/), [https://tiny-helpers.dev/](https://tiny-helpers.dev/), https://devtooly.com/
@@ -824,7 +832,7 @@ Survey\
 
 Referencing (include journal and article)\
 [Mendeley](https://mendeley.com/),
-[connected papers in a visual graph](https://connectedpapers.com/), [world's historical newspaper archive](https://elephind.com/), [Citationsy](https://citationsy.com/), [OAI Identifier](https://oai.core.ac.uk/), [Ministry of Religious Affairs Reference kemenag](https://moraref.kemenag.go.id/), [science direct](https://sciencedirect.com/), [scopus](https://scopus.com/sources), [indonesian scientific journal database](http://isjd.pdii.lipi.go.id/), [Internet Archive Journal](https://archive.org/details/journals), [google schoolar](https://scholar.google.com/), [garuda kemdikbud](https://garuda.kemdikbud.go.id/), [sinta kemdikbud](https://sinta.kemdikbud.go.id/journals), [moraref kemenag](https://moraref.kemenag.go.id/archives/journal), [International Organization of Scientific Research](https://iosrjournals.org/), [Directory of Open Access Journals](https://doaj.org/ ), [JSTOR](https://jstor.org/), [high-quality images from anywhere](https://jstor.org/site/artstor/), [institute of education sciences](https://eric.ed.gov/), [institution of mechancal engineer](https://archives.imeche.org/), [national library of medicine](https://pubmed.ncbi.nlm.nih.gov/), [inspire high energy physics](https://inspirehep.net/), [ieee explore](https://ieeexplore.ieee.org/Xplore/home.jsp), [scientific electronic library online](https://scielo.org/), [ssrn](https://ssrn.com/), [ebsco](https://www.ebsco.com/)
+[connected papers in a visual graph](https://connectedpapers.com/), [world's historical newspaper archive](https://elephind.com/), [Citationsy](https://citationsy.com/), [OAI Identifier](https://oai.core.ac.uk/), [Ministry of Religious Affairs Reference kemenag](https://moraref.kemenag.go.id/), [science direct](https://sciencedirect.com/), [scopus](https://scopus.com/sources), [indonesian scientific journal database](http://isjd.pdii.lipi.go.id/), [Internet Archive Journal](https://archive.org/details/journals), [google schoolar](https://scholar.google.com/), [garuda kemdikbud](https://garuda.kemdikbud.go.id/), [sinta kemdikbud](https://sinta.kemdikbud.go.id/journals), [moraref kemenag](https://moraref.kemenag.go.id/archives/journal), [International Organization of Scientific Research](https://iosrjournals.org/), [Directory of Open Access Journals](https://doaj.org/), [JSTOR](https://jstor.org/), [high-quality images from anywhere](https://jstor.org/site/artstor/), [institute of education sciences](https://eric.ed.gov/), [institution of mechancal engineer](https://archives.imeche.org/), [national library of medicine](https://pubmed.ncbi.nlm.nih.gov/), [inspire high energy physics](https://inspirehep.net/), [ieee explore](https://ieeexplore.ieee.org/Xplore/home.jsp), [scientific electronic library online](https://scielo.org/), [ssrn](https://ssrn.com/), [ebsco](https://www.ebsco.com/)
 
 Buku\
 [perpusnas e-resources](https://e-resources.perpusnas.go.id/), [pdfdrive](https://pdfdrive.com/)
@@ -841,7 +849,6 @@ International Phonetic Alphabet Translator\
 Text to Handwriting\
 [jnckmedia](https://jnckmedia.com/nulis/)
 
-
 # JOB
 
 Resume/cv\
@@ -851,5 +858,4 @@ Interview\
 [30secondsofinterviews](https://30secondsofinterviews.org/), [64-interview-questions](https://soulsearch.files.wordpress.com/2007/05/64interviewquestions1.pdf)
 
 Oversea\
-[Relocation and Visa Sponsorship Jobs across the world](https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0
-)
+[Relocation and Visa Sponsorship Jobs across the world](https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0)
