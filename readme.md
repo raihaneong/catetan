@@ -1,6 +1,7 @@
 > title (category) > group > resource
 
 # UNCATEGORIZED
+http://info.cern.ch/, https://rfc-editor.org/, https://gnu.org/, https://pcpartpicker.com/, https://foundercontent.com/, https://namelix.com/, https://roomstyler.com/, https://neontools.io/, https://grabify.link/, https://ihateregex.io/, https://templatemaker.nl/en/, https://text-compare.com/, https://shortcuts.design/, https://neverinstall.com/, https://synthesia.io/homepage, https://dictation.io/, https://witeboard.com/, https://wetransfer.com/, https://seakun.id/, https://playphrase.me/, https://pimeyes.com/en, https://webcode.tools/, https://frontendchecklist.io/, https://sketch2code.azurewebsites.net/, https://unused-css.com/, https://magicpattern.design/tools, https://coolbackgrounds.io/, https://wickedbackgrounds.com/app, https://shapedivider.app/, https://uidesigndaily.com/, https://spline.design/, https://lawsofux.com/en/, https://animista.net/, https://screenlane.com, https://froala.com/design-blocks/, https://3dicons.co/, https://collectui.com/, https://humaaans.com/, https://checklist.design/, https://webgradients.com/, https://webframe.xyz/, https://lapa.ninja/, https://jsdares.com/, https://codecombat.com/, https://freecodecamp.itch.io/learn-to-code-rpg, https://screeps.com/, https://flukeout.github.io/, https://mastery.games/, https://codepip.com/games/, https://openvim.com/, https://codingfantasy.com/games, https://knightsoftheflexboxtable.com/, https://katydecorah.com/css-ruler/, https://typescript-exercises.github.io/, https://designpatternsgame.com/, https://react-tutorial.app/, https://bevacqua.github.io/promisees/, https://learngitbranching.js.org/, https://selectstarsql.com/, https://regex101.com/, https://regexcrossword.com/, https://regexone.com/, https://lab.reaal.me/jsrobot/, http://crunchzilla.com/, https://laetusinpraesens.org/docs/limit.php, https://clerk.com/, https://planetscale.com/, https://applieddigitalskills.withgoogle.com/s/en/home, https://duolingo.com/learn, https://leetcode.com/problemset/all/, https://coursera.org/, https://brilliant.org/courses/, https://indiabix.com/, https://cs50.harvard.edu/x/, https://tinybuddha.com/, https://thi.ng/, https://patorjk.com/misc/scrollingtext/timewaster.php, https://smart.servier.com/, https://nobaproject.com/, https://goodbrief.io/, https://playphrase.me/, https://shortcuts.design/, https://logoipsum.com/, https://notevibes.com/, https://fakeyou.com/, https://lalal.ai/, https://logoipsum.com, https://neverinstall.com/, https://opensourcealternative.to/, https://axiom.ai/, https://10015.io/, https://splitmysong.com/, https://www.vulnhub.com/, https://killedbygoogle.com/ , https://socialify.git.ci/, https://excelunusual.com/, http://radio.garden/, https://copy.ai/, https://quillbot.com/, https://lifeat.io/explore, https://window-swap.com/, https://marketingexamples.com/, https://classcentral.com/, https://prohura.com/, https://digger.dev/, https://learn-anything.xyz/, https://app.3daimtrainer.com/quick-play, https://easyjapanese.net/, https://window-swap.com/, https://citywalks.live/, https://drivenlisten.com/, https://driveandlisten.herokuapp.com/, https://thecolorsofmotion.com/, https://innerbody.com/htm/body.html, https://htwins.net/scale2/, https://my00stv.com/, https://exercism.org/, https://teachyourselfcs.com/, https://freestuff.dev/, https://free-for.dev/#/, https://web.dev/, https://hackr.io/, https://egghead.io/, https://scrimba.com/allcourses?price=free
 # GENERAL LINKS
 # CSS and JAVASCRIPT
 [css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
@@ -395,132 +396,6 @@ https://tutorialspoint.com/index.htm, https://web.dev/learn/, https://rapidapi.c
 
 chrome bookmarks:\
 [mastodon-servers](https://joinmastodon.org/servers), https://w3.org/, https://a11y-101.com/, https://freebsd.org/, https://springframework.guru/gang-of-four-design-patterns/, https://systemdesign.one/categories/, https://survey.devographics.com/en-US, https://learncpp.com/, https://learn-js.org/, https://howtographql.com/, https://devhints.io/, https://gitconnected.com/learn, https://roadmap.sh/, https://codewars.com/, https://blog.bytebytego.com/p/algorithms-you-should-know-before, https://neetcode.io/practice, https://osn.toki.id/, https://hackerrank.com/, https://codeforces.com/, https://algorithm-visualizer.org/backtracking/hamiltonean-cycles, https://visualgo.net/en, https://summarize.tech/, https://bard.google.com/chat?hl=en, https://phind.com/, https://threejs.org/docs/, https://discoverthreejs.com/, https://en.threejs-university.com/category/learn-threejs/, https://threejs.org/, https://theatrejs.com/, https://gsap.com/, https://github.com/pmndrs/drei, https://docs.pmnd.rs/react-three-fiber/getting-started/introduction, https://pixijs.com/, https://p5js.org/, https://framer.com/motion/, https://doc.babylonjs.com/, https://discourse.threejs.org/, https://cgsociety.org/, https://polycount.com/forum, https://blenderartists.org/, https://blendernation.com/, https://blender.community, https://zbrushcentral.com/, https://artstation.com/?sort_by=community&dimension=all, https://forum.highend3d.com/, https://geeksforgeeks.org/community/?ref=leftbarm https://learn.mongodb.com/learning-paths/introduction-to-mongodbm,  https://learn.saylor.org/?redirect=0
-
-UNCATEGORIZED\
-http://info.cern.ch/
-https://rfc-editor.org/
-https://gnu.org/
-https://pcpartpicker.com/
-https://foundercontent.com/
-https://namelix.com/
-https://roomstyler.com/
-https://neontools.io/
-https://grabify.link/
-https://ihateregex.io/
-https://templatemaker.nl/en/
-https://text-compare.com/
-https://shortcuts.design/
-https://neverinstall.com/
-https://synthesia.io/homepage
-https://dictation.io/
-https://witeboard.com/
-https://wetransfer.com/
-https://seakun.id/
-https://playphrase.me/
-https://pimeyes.com/en
-https://webcode.tools/
-https://frontendchecklist.io/
-https://sketch2code.azurewebsites.net/
-https://unused-css.com/
-https://magicpattern.design/tools
-https://coolbackgrounds.io/
-https://wickedbackgrounds.com/app
-https://shapedivider.app/
-https://uidesigndaily.com/
-https://spline.design/
-https://lawsofux.com/en/
-https://animista.net/
-https://screenlane.com
-https://froala.com/design-blocks/
-https://3dicons.co/
-https://collectui.com/
-https://humaaans.com/
-https://checklist.design/
-https://webgradients.com/
-https://webframe.xyz/
-https://lapa.ninja/
-https://jsdares.com/
-https://codecombat.com/
-https://freecodecamp.itch.io/learn-to-code-rpg
-https://screeps.com/
-https://flukeout.github.io/
-https://mastery.games/
-https://codepip.com/games/
-https://openvim.com/
-https://codingfantasy.com/games
-https://knightsoftheflexboxtable.com/
-https://katydecorah.com/css-ruler/
-https://typescript-exercises.github.io/
-https://designpatternsgame.com/
-https://react-tutorial.app/
-https://bevacqua.github.io/promisees/
-https://learngitbranching.js.org/
-https://selectstarsql.com/
-https://regex101.com/
-https://regexcrossword.com/
-https://regexone.com/
-https://lab.reaal.me/jsrobot/
-http://crunchzilla.com/
-https://laetusinpraesens.org/docs/limit.php
-https://clerk.com/
-https://planetscale.com/
-https://applieddigitalskills.withgoogle.com/s/en/home
-https://duolingo.com/learn
-https://leetcode.com/problemset/all/
-https://coursera.org/
-https://brilliant.org/courses/
-https://indiabix.com/
-https://cs50.harvard.edu/x/
-https://tinybuddha.com/
-https://thi.ng/
-https://patorjk.com/misc/scrollingtext/timewaster.php
-https://smart.servier.com/
-https://nobaproject.com/
-https://goodbrief.io/
-https://playphrase.me/
-https://shortcuts.design/
-https://logoipsum.com/
-https://notevibes.com/
-https://fakeyou.com/
-https://lalal.ai/
-https://logoipsum.com
-https://neverinstall.com/
-https://opensourcealternative.to/
-https://axiom.ai/
-https://10015.io/
-https://splitmysong.com/
-https://www.vulnhub.com/
-https://killedbygoogle.com/ 
-https://socialify.git.ci/
-https://excelunusual.com/
-http://radio.garden/
-https://copy.ai/
-https://quillbot.com/
-https://lifeat.io/explore
-https://window-swap.com/
-https://marketingexamples.com/
-https://classcentral.com/
-https://prohura.com/
-https://digger.dev/
-https://learn-anything.xyz/
-https://app.3daimtrainer.com/quick-play
-https://easyjapanese.net/
-https://window-swap.com/
-https://citywalks.live/
-https://drivenlisten.com/
-https://driveandlisten.herokuapp.com/
-https://thecolorsofmotion.com/
-https://innerbody.com/htm/body.html
-https://htwins.net/scale2/
-https://my00stv.com/
-https://exercism.org/
-https://teachyourselfcs.com/
-https://freestuff.dev/
-https://free-for.dev/#/
-https://web.dev/
-https://hackr.io/
-https://egghead.io/
-https://scrimba.com/allcourses?price=free
 
 Online-tools-for-dev = https://extendsclass.com/
 
