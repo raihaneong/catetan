@@ -498,12 +498,10 @@ https://landingpage.fyi/
 Typing\
 [ztype](https://zty.pe/)
 
-## **Mobile**
-
+Mobile\
 https://cordova.apache.org/
 
-## **Front-end**
-
+Front-end\
 3D\
 [spline](https://spline.design/), [p3d](https://p3d.in/), [sketchfab](https://sketchfab.com/), [cannonjs](http://cannonjs.org/), [draco](https://google.github.io/draco/)
 
@@ -541,8 +539,7 @@ Website Accessibility\
 https://a11y-101.com/
 https://developer.mozilla.org/en-US/docs/Web/Accessibility
 
-## **Back-end**
-
+Back-end\
 API= publicapis, https://directus.io/, https://opentdb.com/
 
 test-api = https://jsonplaceholder.typicode.com/, https://pie.dev/, https://dummyjson.com/
@@ -550,8 +547,7 @@ test-api = https://jsonplaceholder.typicode.com/, https://pie.dev/, https://dumm
 https://regexr.com/
 
 
-## **Other**
-
+Other\
 ultimate-resource = [https://devresourc.es/,](https://devresourc.es/) [designresourc.es](http://designresourc.es/), [smalldev.tools](https://smalldev.tools/), [omatsuri.app](https://omatsuri.app/), [https://tiny-helpers.dev/](https://tiny-helpers.dev/), https://devtooly.com/
 
 ultimate-learn = [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
@@ -673,8 +669,7 @@ Illustration 3D\
 
 3D website development
 
-## UI/UX
-
+UI/UX\
 UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://uidesigndaily.com/ https://uxtools.co/ https://uplabs.com/, https://userpersona.design/
 https://penpot.app/
 
@@ -699,8 +694,7 @@ http://uipatterns.io/, https://uxchecklist.github.io/
 
 https://uxtools.co/
 
-# assets
-
+assets\
 Skeletal Animation\
 [dragonbone](https://docs.egret.com/dragonbones/en/)
 
