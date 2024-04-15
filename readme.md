@@ -126,7 +126,10 @@ https://egghead.io/,
 https://scrimba.com/allcourses?price=free
 # GENERAL LINKS
 # CSS and JAVASCRIPT
-[css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
+https://cssbattle.dev/, 
+https://flukeout.github.io/, 
+http://flexboxdefense.com/, 
+https://cssgridgarden.com/#id
 
 CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
 
