@@ -265,7 +265,7 @@ Make_music= onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocal
 
 asset-music= https://mixkit.co/
 
-## Image
+---
 
 Background= coolbackground.io, transparenttexture, heropatterns, https://svgbackgrounds.com/ https://gradienta.io/ https://visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
 
@@ -289,7 +289,7 @@ AI Drawing\
 
 [back to top](#table-of-contents)
 
-## Video
+---
 
 asset-video= http://coverr.co/
 
