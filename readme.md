@@ -397,7 +397,6 @@ CSSpixel= https://pixelartcss.com/
 HTML CSS generator= webcode.tools, tridiv.com
 
 ## javascript
-JS-dom = https://htmldom.dev/
 
 JS-utility = https://1loc.dev/
 
