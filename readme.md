@@ -708,7 +708,7 @@ https://haikei.app/
 svg editor\
 https://svgomg.net/
 
-# academic related links
+# ACADEMIC
 
 Profile\
 [Pangkalan Data Pendidikan Tinggi](https://pddikti.kemdikbud.go.id/)
@@ -736,7 +736,7 @@ Text to Handwriting\
 [jnckmedia](https://jnckmedia.com/nulis/)
 
 
-# job related links
+# JOB
 
 Resume/cv\
 https://resume.io/app, https://aksel.co.id, https://standardresume.co/
