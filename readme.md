@@ -1,3 +1,14 @@
+
+
+# UNCATEGORIZED
+# GENERAL LINKS
+# CSS and JAVASCRIPT
+# C++
+# DATABASE and SERVER
+# DATA STRUCTURE and ALGORITHM
+# AUDIO, IMAGE, and VIDEO
+# TOOLS
+
 artificial intelligence\
 https://beta.character.ai/, https://chat.openai.com/, https://uberduck.ai/, https://rephrase.ai/, https://bigspeak.ai/, http://synthesia.io/, http://rephrase.ai/, http://spik.ai/, http://dictation.io/, https://beatoven.ai/, https://craiyon.com/, https://wombo.art/
 
