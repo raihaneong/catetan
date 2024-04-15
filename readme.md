@@ -176,8 +176,6 @@ CSSpixel= https://pixelartcss.com/
 
 HTML CSS generator= webcode.tools, tridiv.com
 
----
-
 javascript audio library\
 https://howlerjs.com/
 
@@ -263,8 +261,6 @@ Make_music= onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocal
 
 asset-music= https://mixkit.co/
 
----
-
 Background= coolbackground.io, transparenttexture, heropatterns, https://svgbackgrounds.com/ https://gradienta.io/ https://visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
 
 image_to_text = https://text-image.com/convert/
@@ -283,8 +279,6 @@ https://patternpad.com/
 
 AI Drawing\
 [autodraw](https://autodraw.com/)
-
----
 
 asset-video= http://coverr.co/
 
