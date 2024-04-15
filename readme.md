@@ -64,8 +64,6 @@ https://animista.net/,
 https://animista.net/,
 https://transition.style/
 
-
-
 Background\
 http://patternify.com/,
 http://dragdropsite.github.io/waterpipe.js/,
@@ -285,8 +283,6 @@ https://patternpad.com/
 
 AI Drawing\
 [autodraw](https://autodraw.com/)
-
-
 
 ---
 
@@ -569,10 +565,6 @@ https://binvis.io/#/
 audio\
 https://samplefocus.com/
 
-
-
-
-
 frontend\
 https://freefrontend.com/
 
@@ -582,7 +574,6 @@ https://goalkicker.com/
 
 System design\
 https://systemdesign.one/
-
 
 Design Pattern\
 https://refactoring.guru/design-patterns/, http://mcdonaldland.info/2007/11/28/40/, https://cs.cmu.edu/~charlie/courses/15-214/2016-spring/slides/24%20-%20All%20the%20GoF%20Patterns.pdf, https://patterns.dev/
@@ -703,7 +694,6 @@ git = [https://learngitbranching.js.org/,](https://learngitbranching.js.org/) [h
 
 git= Ohshitgit
 
---
 Web_tools= hiddentools.dev
 
 Understanding-frontend= Thisvsthat.dev, webcomponents.org https://uses.tech/
@@ -737,10 +727,6 @@ Bikin_web= graphite.space, Webflow, wix, wordpress, godaddy, weebly, typedream
 Trend= mobbindesign, Gtrend, audience insight, socialsearcher
 
 SEO_tools= semrush, googlesearchconsole, ubersuggest, Yoast, answerthepublic, gtmetrix, seoquake, metatags, dailypurposes, notjustanalytics, hashtagstacks, all-hashtag, ingramer,
-
---
-
---
 
 Tools= https://smalldev.tools/, https://omatsuri.app/
 
@@ -777,9 +763,6 @@ git= Ohshitgit
 Tes= enrollapp, usertesting
 
 Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle, jsbin, vscode.dev
-
-
-
 
 # designer
 
