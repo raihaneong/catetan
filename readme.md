@@ -1,7 +1,7 @@
 > title (category) > group > resource
 
 # UNCATEGORIZED
-http://info.cern.ch/, https://rfc-editor.org/, https://gnu.org/, https://pcpartpicker.com/, https://foundercontent.com/, https://namelix.com/, https://roomstyler.com/, https://neontools.io/, https://grabify.link/, https://ihateregex.io/, https://templatemaker.nl/en/, https://text-compare.com/, https://shortcuts.design/, https://neverinstall.com/, https://synthesia.io/homepage, https://dictation.io/, https://witeboard.com/, https://wetransfer.com/, https://seakun.id/, https://playphrase.me/, https://pimeyes.com/en, https://webcode.tools/, https://frontendchecklist.io/, https://sketch2code.azurewebsites.net/, https://unused-css.com/, https://magicpattern.design/tools, https://coolbackgrounds.io/, https://wickedbackgrounds.com/app, https://shapedivider.app/, https://uidesigndaily.com/, https://spline.design/, https://lawsofux.com/en/, https://animista.net/, https://screenlane.com, https://froala.com/design-blocks/, https://3dicons.co/, https://collectui.com/, https://humaaans.com/, https://checklist.design/, https://webgradients.com/, https://webframe.xyz/, https://lapa.ninja/, https://jsdares.com/, https://codecombat.com/, https://freecodecamp.itch.io/learn-to-code-rpg, https://screeps.com/, https://flukeout.github.io/, https://mastery.games/, https://codepip.com/games/, https://openvim.com/, https://codingfantasy.com/games, https://knightsoftheflexboxtable.com/, https://katydecorah.com/css-ruler/, https://typescript-exercises.github.io/, https://designpatternsgame.com/, https://react-tutorial.app/, https://bevacqua.github.io/promisees/, https://learngitbranching.js.org/, https://selectstarsql.com/, https://regex101.com/, https://regexcrossword.com/, https://regexone.com/, https://lab.reaal.me/jsrobot/, http://crunchzilla.com/, https://laetusinpraesens.org/docs/limit.php, https://clerk.com/, https://planetscale.com/, https://applieddigitalskills.withgoogle.com/s/en/home, https://duolingo.com/learn, https://leetcode.com/problemset/all/, https://coursera.org/, https://brilliant.org/courses/, https://indiabix.com/, https://cs50.harvard.edu/x/, https://tinybuddha.com/, https://thi.ng/, https://patorjk.com/misc/scrollingtext/timewaster.php, https://smart.servier.com/, https://nobaproject.com/, https://goodbrief.io/, https://playphrase.me/, https://shortcuts.design/, https://logoipsum.com/, https://notevibes.com/, https://fakeyou.com/, https://lalal.ai/, https://logoipsum.com, https://neverinstall.com/, https://opensourcealternative.to/, https://axiom.ai/, https://10015.io/, https://splitmysong.com/, https://www.vulnhub.com/, https://killedbygoogle.com/ , https://socialify.git.ci/, https://excelunusual.com/, http://radio.garden/, https://copy.ai/, https://quillbot.com/, https://lifeat.io/explore, https://window-swap.com/, https://marketingexamples.com/, https://classcentral.com/, https://prohura.com/, https://digger.dev/, https://learn-anything.xyz/, https://app.3daimtrainer.com/quick-play, https://easyjapanese.net/, https://window-swap.com/, https://citywalks.live/, https://drivenlisten.com/, https://driveandlisten.herokuapp.com/, https://thecolorsofmotion.com/, https://innerbody.com/htm/body.html, https://htwins.net/scale2/, https://my00stv.com/, https://exercism.org/, https://teachyourselfcs.com/, https://freestuff.dev/, https://free-for.dev/#/, https://web.dev/, https://hackr.io/, https://egghead.io/, https://scrimba.com/allcourses?price=free
+http://info.cern.ch/, https://rfc-editor.org/, https://gnu.org/, https://pcpartpicker.com/, https://foundercontent.com/, https://namelix.com/, https://roomstyler.com/, https://neontools.io/, https://grabify.link/, https://ihateregex.io/, https://templatemaker.nl/en/, https://text-compare.com/, https://shortcuts.design/, https://neverinstall.com/, https://synthesia.io/homepage, https://dictation.io/, https://witeboard.com/, https://wetransfer.com/, https://seakun.id/, https://playphrase.me/, https://pimeyes.com/en, https://webcode.tools/, https://frontendchecklist.io/, https://sketch2code.azurewebsites.net/, https://unused-css.com/, https://magicpattern.design/tools, https://coolbackgrounds.io/, https://wickedbackgrounds.com/app, https://shapedivider.app/, https://uidesigndaily.com/, https://spline.design/, https://lawsofux.com/en/, https://animista.net/, https://screenlane.com, https://froala.com/design-blocks/, https://collectui.com/, https://humaaans.com/, https://checklist.design/, https://webgradients.com/, https://webframe.xyz/, https://lapa.ninja/, https://jsdares.com/, https://codecombat.com/, https://freecodecamp.itch.io/learn-to-code-rpg, https://screeps.com/, https://flukeout.github.io/, https://mastery.games/, https://codepip.com/games/, https://openvim.com/, https://codingfantasy.com/games, https://knightsoftheflexboxtable.com/, https://katydecorah.com/css-ruler/, https://typescript-exercises.github.io/, https://designpatternsgame.com/, https://react-tutorial.app/, https://bevacqua.github.io/promisees/, https://learngitbranching.js.org/, https://selectstarsql.com/, https://regex101.com/, https://regexcrossword.com/, https://regexone.com/, https://lab.reaal.me/jsrobot/, http://crunchzilla.com/, https://laetusinpraesens.org/docs/limit.php, https://clerk.com/, https://planetscale.com/, https://applieddigitalskills.withgoogle.com/s/en/home, https://duolingo.com/learn, https://leetcode.com/problemset/all/, https://coursera.org/, https://brilliant.org/courses/, https://indiabix.com/, https://cs50.harvard.edu/x/, https://tinybuddha.com/, https://thi.ng/, https://patorjk.com/misc/scrollingtext/timewaster.php, https://smart.servier.com/, https://nobaproject.com/, https://goodbrief.io/, https://playphrase.me/, https://shortcuts.design/, https://logoipsum.com/, https://notevibes.com/, https://fakeyou.com/, https://lalal.ai/, https://logoipsum.com, https://neverinstall.com/, https://opensourcealternative.to/, https://axiom.ai/, https://10015.io/, https://splitmysong.com/, https://www.vulnhub.com/, https://killedbygoogle.com/ , https://socialify.git.ci/, https://excelunusual.com/, http://radio.garden/, https://copy.ai/, https://quillbot.com/, https://lifeat.io/explore, https://window-swap.com/, https://marketingexamples.com/, https://classcentral.com/, https://prohura.com/, https://digger.dev/, https://learn-anything.xyz/, https://app.3daimtrainer.com/quick-play, https://easyjapanese.net/, https://window-swap.com/, https://citywalks.live/, https://drivenlisten.com/, https://driveandlisten.herokuapp.com/, https://thecolorsofmotion.com/, https://innerbody.com/htm/body.html, https://htwins.net/scale2/, https://my00stv.com/, https://exercism.org/, https://teachyourselfcs.com/, https://freestuff.dev/, https://free-for.dev/#/, https://web.dev/, https://hackr.io/, https://egghead.io/, https://scrimba.com/allcourses?price=free
 # GENERAL LINKS
 # CSS and JAVASCRIPT
 [css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
@@ -309,8 +309,6 @@ Fileconverter= cloudconvert.com
 
 Inspiration = designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, mobbin.design
 
-3D= spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
-
 Mockup= Mockupphone, shotsnapp, mockvideo, vecteezy, rotato.xyz, thing.morflax.com, artboartstudio, mockupbro, devicesshots, previewedapp, threedio, smartmockups, screenly, mockups-design, free-mockup, graphicburger, mockupworld, graphberry, freepik, ls.graphics, mckups, placeit.net, pixeden, mockuuups.studio, mockup.ceacle.com, medialoot, freebiesbug, cssauthor, unblast, rawpixel,
 
 Convert_vector= Vectorizerio
@@ -414,16 +412,6 @@ chrome bookmarks:\
 
 Online-tools-for-dev = https://extendsclass.com/
 
-3d\
-https://dora.run/
-https://desmos.com/3d
-https://aframe.io/
-https://shadertoy.com/
-https://graphtoy.com/
-http://dev.thi.ng/gradients/
-https://iquilezles.org/
-http://dev.thi.ng/gradients/
-
 VR\
 https://immersiveweb.dev/
 
@@ -502,8 +490,6 @@ Mobile\
 https://cordova.apache.org/
 
 Front-end\
-3D\
-[spline](https://spline.design/), [p3d](https://p3d.in/), [sketchfab](https://sketchfab.com/), [cannonjs](http://cannonjs.org/), [draco](https://google.github.io/draco/)
 
 create-frontEnd-fast = https://editorx.com/
 
@@ -705,6 +691,16 @@ Trippy edit
 
 latest information website provider\
 https://gpuopen.com/
+
+3D= spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
+
+https://3dicons.co/
+
+3d\
+https://dora.run/, https://desmos.com/3d, https://aframe.io/, https://shadertoy.com/, https://graphtoy.com/, http://dev.thi.ng/gradients/, https://iquilezles.org/, http://dev.thi.ng/gradients/
+
+3D\
+[spline](https://spline.design/), [p3d](https://p3d.in/), [sketchfab](https://sketchfab.com/), [cannonjs](http://cannonjs.org/), [draco](https://google.github.io/draco/)
 
 # ACADEMIC
 
