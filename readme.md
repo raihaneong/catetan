@@ -255,6 +255,111 @@ https://algs4.cs.princeton.edu/home/
 data structure and alogrithm\
 https://cs.usfca.edu/~galles/visualization/Algorithms.html 
 # AUDIO, IMAGE, and VIDEO
+
+music creation\
+https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://onlinesequencer.net/, https://mubert.com/
+
+asset-music= https://mixkit.co/
+
+Make_music= onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocalremoverorg, http://lalal.ai/,
+
+asset-music= https://mixkit.co/
+
+## Image
+
+Background= coolbackground.io, transparenttexture, heropatterns, https://svgbackgrounds.com/ https://gradienta.io/ https://visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
+
+image_to_text = https://text-image.com/convert/
+
+image_to_geometric_primitive = https://geometrize.co.uk/
+
+animated-drawing = https://sketch.metademolab.com/
+
+create art: https://creator.nightcafe.studio/
+
+Maps\
+https://pictogon.com/
+
+Pattern\
+https://patternpad.com/
+
+AI Drawing\
+[autodraw](https://autodraw.com/)
+
+
+[back to top](#table-of-contents)
+
+## Video
+
+asset-video= http://coverr.co/
+
+Abstract = Tool.graphics
+
+Apus_objek= theinpaint, removebg, Nvidia inpainting
+
+Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
+
+Icon = https://tablericons.com/, https://tabler-icons.io/
+
+Motiongraphics= lottiefiles
+
+palet-warna = https://happyhues.co/, https://colors.dopely.top/
+
+VIDEO-EDITING = https://origami.design/, descript
+
+Edit_video_online= veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
+
+asset-video= coverr.co
+
+--
+
+auto_gambar= https://autodraw.com/
+
+Fileconverter= cloudconvert.com
+
+Inspiration = designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, mobbin.design
+
+3D= spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
+
+Mockup= Mockupphone, shotsnapp, mockvideo, vecteezy, rotato.xyz, thing.morflax.com, artboartstudio, mockupbro, devicesshots, previewedapp, threedio, smartmockups, screenly, mockups-design, free-mockup, graphicburger, mockupworld, graphberry, freepik, ls.graphics, mckups, placeit.net, pixeden, mockuuups.studio, mockup.ceacle.com, medialoot, freebiesbug, cssauthor, unblast, rawpixel,
+
+Convert_vector= Vectorizerio
+
+Fontpair= fontjoy, fontpair.co
+
+Font-view = https://type-scale.com/, https://wordmark.it/, https://fontbrief.com/
+
+Font= metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
+
+Gambar_organ_tubuh= Servier medical art
+
+Iklan_produk= breakoutclips
+
+Packing= qualita_company
+
+Pixel= https://pixelartcss.com/
+
+Foto/vid= Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8, Isoflat, rawpixel, amritpaldesign, appitgdigital, isometriclove, Freepik, vecteezy, handzdesign, pixabay,isoflat, graphicburger, pixeden
+
+Icon= nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlineicons.com, iconscout.com, animaticons, akaricons, thenounproject, https://iconfinder.com/, https://systemuicons.com/, iconsaxio, lordicon, , Iconstore, iconfinder, streamlineicon, lordicon, remixicon, appitgdigital, ikonate, fontawesome.
+
+PNG= Pngpix , favpng, Subpng, pngtree, cleanpng.
+
+Illustrations= drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/, blush.design, drawkit.io, humaaans.com, icons8.com, iconscout.com, illustrations.co, iradesign.io, isometric .nline, manypixels.co, openpeeps.com, pixeltrue.com, storyset.com, undraw.co 
+
+Warna= khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
+
+Gradient= meshgradient, cssgradient.io,
+
+Motiongraphics= lottiefiles
+
+Edit_foto= fotor, photopea
+
+Apus_objek= theinpaint, removebg, Nvidia inpainting
+
+Photo_tracking= pixsy
+
+Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 # TOOLS
 
 artificial intelligence\
@@ -286,9 +391,6 @@ creative programming\
 
 information archive\
 https://archive.org/, https://ghostarchive.org/, https://archive.ph/, https://arxiv.org/
-
-music creation\
-https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://onlinesequencer.net/, https://mubert.com/
 
 technical writing\
 https://stc.org/
@@ -735,107 +837,6 @@ https://uxtools.co/
 Skeletal Animation\
 [dragonbone](https://docs.egret.com/dragonbones/en/)
 
-## Image
-
-Background= coolbackground.io, transparenttexture, heropatterns, https://svgbackgrounds.com/ https://gradienta.io/ https://visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
-
-image_to_text = https://text-image.com/convert/
-
-image_to_geometric_primitive = https://geometrize.co.uk/
-
-animated-drawing = https://sketch.metademolab.com/
-
-create art: https://creator.nightcafe.studio/
-
-Maps\
-https://pictogon.com/
-
-Pattern\
-https://patternpad.com/
-
-AI Drawing\
-[autodraw](https://autodraw.com/)
-
-
-[back to top](#table-of-contents)
-
-## Video
-
-asset-music= https://mixkit.co/
-
-asset-video= http://coverr.co/
-
-Abstract = Tool.graphics
-
-Apus_objek= theinpaint, removebg, Nvidia inpainting
-
-Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
-
-Icon = https://tablericons.com/, https://tabler-icons.io/
-
-Motiongraphics= lottiefiles
-
-Make_music= onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocalremoverorg, http://lalal.ai/,
-
-palet-warna = https://happyhues.co/, https://colors.dopely.top/
-
-VIDEO-EDITING = https://origami.design/, descript
-
-Edit_video_online= veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
-
-asset-video= coverr.co
-
---
-
-auto_gambar= https://autodraw.com/
-
-Fileconverter= cloudconvert.com
-
-Inspiration = designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, mobbin.design
-
-3D= spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
-
-Mockup= Mockupphone, shotsnapp, mockvideo, vecteezy, rotato.xyz, thing.morflax.com, artboartstudio, mockupbro, devicesshots, previewedapp, threedio, smartmockups, screenly, mockups-design, free-mockup, graphicburger, mockupworld, graphberry, freepik, ls.graphics, mckups, placeit.net, pixeden, mockuuups.studio, mockup.ceacle.com, medialoot, freebiesbug, cssauthor, unblast, rawpixel,
-
-Convert_vector= Vectorizerio
-
-Fontpair= fontjoy, fontpair.co
-
-Font-view = https://type-scale.com/, https://wordmark.it/, https://fontbrief.com/
-
-Font= metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
-
-Gambar_organ_tubuh= Servier medical art
-
-Iklan_produk= breakoutclips
-
-Packing= qualita_company
-
-Pixel= https://pixelartcss.com/
-
-Foto/vid= Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8, Isoflat, rawpixel, amritpaldesign, appitgdigital, isometriclove, Freepik, vecteezy, handzdesign, pixabay,isoflat, graphicburger, pixeden
-
-Icon= nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlineicons.com, iconscout.com, animaticons, akaricons, thenounproject, https://iconfinder.com/, https://systemuicons.com/, iconsaxio, lordicon, , Iconstore, iconfinder, streamlineicon, lordicon, remixicon, appitgdigital, ikonate, fontawesome.
-
-PNG= Pngpix , favpng, Subpng, pngtree, cleanpng.
-
-Illustrations= drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/, blush.design, drawkit.io, humaaans.com, icons8.com, iconscout.com, illustrations.co, iradesign.io, isometric .nline, manypixels.co, openpeeps.com, pixeltrue.com, storyset.com, undraw.co 
-
-Warna= khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
-
-Gradient= meshgradient, cssgradient.io,
-
-asset-music= https://mixkit.co/
-
-Motiongraphics= lottiefiles
-
-Edit_foto= fotor, photopea
-
-Apus_objek= theinpaint, removebg, Nvidia inpainting
-
-Photo_tracking= pixsy
-
-Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 
 Cool\
 Trippy edit
