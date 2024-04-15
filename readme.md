@@ -287,7 +287,6 @@ AI Drawing\
 [autodraw](https://autodraw.com/)
 
 
-[back to top](#table-of-contents)
 
 ---
 
@@ -780,7 +779,6 @@ Tes= enrollapp, usertesting
 Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle, jsbin, vscode.dev
 
 
-[back to top](#table-of-contents)
 
 
 # designer
@@ -885,7 +883,6 @@ International Phonetic Alphabet Translator\
 Text to Handwriting\
 [jnckmedia](https://jnckmedia.com/nulis/)
 
-[back to top](#table-of-contents)
 
 # job related links
 
@@ -898,5 +895,3 @@ Interview\
 Oversea\
 [Relocation and Visa Sponsorship Jobs across the world](https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0
 )
-
-[back to top](#table-of-contents)
