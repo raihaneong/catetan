@@ -213,6 +213,29 @@ JavaScript_libraries= fullpagejs, animejs, threejs, screenfulljs, leafletjs, pop
 # C++
 # DATABASE and SERVER
 # DATA STRUCTURE and ALGORITHM
+[leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://hackerrank.com), [codewars](https://codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://kaggle.com/), [advent of code](https://adventofcode.com/)
+
+Visualization-data-structure-and-algorithm = Visualgo.net, https://algorithm-visualizer.org/, https://toptal.com/developers/sorting-algorithms
+
+leet-code-guide = https://techinterviewhandbook.org/grind75
+
+https://geeksforgeeks.org/data-structures/
+
+https://techinterviewhandbook.org/
+
+competitive programming\
+https://codeforces.com/
+https://cses.fi/book/
+https://ioinformatics.org/
+http://usaco.org/index.php
+https://earthshakira.github.io/a2oj-clientside/server/
+
+data structure and algorithm dsa\
+https://bigocheatsheet.com/
+https://algs4.cs.princeton.edu/home/
+
+data structure and alogrithm\
+https://cs.usfca.edu/~galles/visualization/Algorithms.html 
 # AUDIO, IMAGE, and VIDEO
 # TOOLS
 
@@ -221,9 +244,6 @@ https://beta.character.ai/, https://chat.openai.com/, https://uberduck.ai/, http
 
 internet\
 https://he.net/, https://getdeploying.com/
-
-data structure and alogrithm\
-https://cs.usfca.edu/~galles/visualization/Algorithms.html 
 
 software engineer\
 https://crackmes.one/, https://hackthebox.com/
@@ -431,16 +451,6 @@ audio\
 https://samplefocus.com/
 
 
-## Data Structures and Algorithms
-[leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://hackerrank.com), [codewars](https://codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://kaggle.com/), [advent of code](https://adventofcode.com/)
-
-Visualization-data-structure-and-algorithm = Visualgo.net, https://algorithm-visualizer.org/, https://toptal.com/developers/sorting-algorithms
-
-leet-code-guide = https://techinterviewhandbook.org/grind75
-
-https://geeksforgeeks.org/data-structures/
-
-https://techinterviewhandbook.org/
 
 
 
@@ -454,16 +464,6 @@ https://goalkicker.com/
 System design\
 https://systemdesign.one/
 
-competitive programming\
-https://codeforces.com/
-https://cses.fi/book/
-https://ioinformatics.org/
-http://usaco.org/index.php
-https://earthshakira.github.io/a2oj-clientside/server/
-
-data structure and algorithm dsa\
-https://bigocheatsheet.com/
-https://algs4.cs.princeton.edu/home/
 
 Design Pattern\
 https://refactoring.guru/design-patterns/, http://mcdonaldland.info/2007/11/28/40/, https://cs.cmu.edu/~charlie/courses/15-214/2016-spring/slides/24%20-%20All%20the%20GoF%20Patterns.pdf, https://patterns.dev/
