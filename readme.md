@@ -212,6 +212,24 @@ JavaScript_libraries= fullpagejs, animejs, threejs, screenfulljs, leafletjs, pop
 
 # C++
 # DATABASE and SERVER
+
+https://supabase.com/
+
+https://grafana.com/
+
+https://dynobird.com/
+
+https://drawsql.app/
+
+faunadb
+
+dbdesigner
+
+Database-manager-platform = Harperdb.io
+
+Postgresql-database-Course = https://online.umich.edu/series/postgresql-for-everybody/
+
+sqlite = https://sqlitetutorial.net/sqlite-nodejs/
 # DATA STRUCTURE and ALGORITHM
 [leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://hackerrank.com), [codewars](https://codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://kaggle.com/), [advent of code](https://adventofcode.com/)
 
@@ -659,25 +677,6 @@ Tes= enrollapp, usertesting
 
 Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle, jsbin, vscode.dev
 
-## Database
-
-https://supabase.com/
-
-https://grafana.com/
-
-https://dynobird.com/
-
-https://drawsql.app/
-
-faunadb
-
-dbdesigner
-
-Database-manager-platform = Harperdb.io
-
-Postgresql-database-Course = https://online.umich.edu/series/postgresql-for-everybody/
-
-sqlite = https://sqlitetutorial.net/sqlite-nodejs/
 
 [back to top](#table-of-contents)
 
