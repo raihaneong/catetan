@@ -709,6 +709,9 @@ Trippy edit
 
 # GRAPHICAL THIRD DIMENSIONAL COMPUTERIZATION
 
+latest information website provider\
+https://gpuopen.com/
+
 # ACADEMIC
 
 Profile\
