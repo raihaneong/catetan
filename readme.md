@@ -352,6 +352,21 @@ Photo_tracking= pixsy
 Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
 # TOOLS
 
+Github badge\
+https://badgen.net/
+
+video transcriptor\
+https://anthiago.com/transcript/
+
+drawing\
+https://kleki.com/
+
+svg generator\
+https://haikei.app/
+
+svg editor\
+https://svgomg.net/
+
 artificial intelligence\
 https://beta.character.ai/, https://chat.openai.com/, https://uberduck.ai/, https://rephrase.ai/, https://bigspeak.ai/, http://synthesia.io/, http://rephrase.ai/, http://spik.ai/, http://dictation.io/, https://beatoven.ai/, https://craiyon.com/, https://wombo.art/
 
@@ -656,6 +671,8 @@ Illustration 2D\
 Illustration 3D\
 [shapefest](https://shapefest.com/)
 
+3D website development
+
 ## UI/UX
 
 UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://uidesigndaily.com/ https://uxtools.co/ https://uplabs.com/, https://userpersona.design/
@@ -687,26 +704,8 @@ https://uxtools.co/
 Skeletal Animation\
 [dragonbone](https://docs.egret.com/dragonbones/en/)
 
-
 Cool\
 Trippy edit
-
-# useful tools
-
-Github badge\
-https://badgen.net/
-
-video transcriptor\
-https://anthiago.com/transcript/
-
-drawing\
-https://kleki.com/
-
-svg generator\
-https://haikei.app/
-
-svg editor\
-https://svgomg.net/
 
 # ACADEMIC
 
