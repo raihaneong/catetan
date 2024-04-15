@@ -3,6 +3,181 @@
 # UNCATEGORIZED
 # GENERAL LINKS
 # CSS and JAVASCRIPT
+[css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
+
+CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
+
+CSS-play = [https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://flexboxdefense.com/](http://flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
+
+CSS-tips = [https://moderncss.dev/](https://moderncss.dev/)
+
+CSS-cubic-bezier = [easings.net](https://easings.net/)
+
+CSS-pixel = [https://pixelartcss.com/](https://pixelartcss.com/)
+
+CSS-animation = [https://animista.net/](https://animista.net/), [https://animate.style/](https://animate.style/), [https://keyframes.app/](https://keyframes.app/), [https://minimamente.com/project/magic/](https://minimamente.com/project/magic/), [https://whirl.netlify.app/](https://whirl.netlify.app/), [https://loading.io](https://loading.io/)
+
+CSS-bem = [https://9elements.com/bem-cheat-sheet/](https://9elements.com/bem-cheat-sheet/)
+
+CSS-challenge = [https://cssbattle.dev/](https://cssbattle.dev/), [https://100dayscss.com/](https://100dayscss.com/), [https://codewars.com/dashboard](https://codewars.com/dashboard)
+
+CSS-grid = [https://layoutit.com/cn](https://layoutit.com/cn), [https://griddy.io/](https://griddy.io/), [https://cssgr.id/](https://cssgr.id/), [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/), [https://gridbyexample.com/](https://gridbyexample.com/)
+
+CSS-flexbox = [https://loading.io/flexbox/](https://loading.io/flexbox/)
+
+CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
+
+CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
+
+https://github.com/IanLunn/Hover/blob/master/css/hover.css
+
+https://grid.malven.co/
+
+https://cssgrid-generator.netlify.app/
+
+https://animate.style/
+
+https://templatemo.com/
+
+https://designmodo.com/css-website-designs/
+
+https://100dayscss.com/
+
+https://dailycssdesign.com/
+
+https://cssbud.com/css-generator/css-glow-generator/
+
+https://shadows.brumm.af/
+
+https://rupl.github.io/unfold/
+
+https://html-css-js.com/css/generator/,
+https://webcode.tools/,
+https://toptal.com/developers/css3maker,
+http://css3generator.com/,
+https://cssmatic.com/,
+https://enjoycss.com/,
+http://css3studio.com/page-css3/css-box-shadow.php,
+https://keyframes.app/,
+https://waitanimate.wstone.uk/,
+https://animista.net/,
+https://animista.net/,
+https://transition.style/
+
+
+
+Background\
+http://patternify.com/,
+http://dragdropsite.github.io/waterpipe.js/,
+https://bgjar.com/,
+https://stripesgenerator.com/,
+
+Border\
+https://9elements.github.io/fancy-border-radius/,
+https://mdbootstrap.com/docs/standard/tools/design/fancy-border-radius/,
+https://codepen.io/amit_sheen/pen/xxZeyjO,
+
+Box-shadow\
+https://shadows.brumm.af/,
+https://htmlcssfreebies.com/box-shadow-generator-multiple/,
+https://cssbud.com/css-generator/css-box-shadow-generator/,
+https://getcssscan.com/css-box-shadow-examples,
+https://cssbud.com/css-generator/css-glow-generator/
+
+Button\
+https://cssbuttoncreator.com/,
+https://bestcssbuttongenerator.com/,
+https://css-tricks.com/examples/ButtonMaker/,
+https://getcssscan.com/css-buttons-examples,
+https://gradientbuttons.colorion.co/,
+https://markodenic.com/tools/buttons-generator/,
+
+Dividers\
+https://wweb.dev/resources/css-separator-generator/,
+https://shapedivider.app/,
+https://getwaves.io/
+
+Filters\
+https://cssfilters.co/,
+https://baseline.is/tools/css-photo-filters/,
+https://hero-generator.netlify.app/
+
+Gradients\
+https://cssgradient.io/,
+https://colorzilla.com/gradient-editor/,
+https://meshgradient.com/,
+https://gradientos.app/
+
+Layuots\
+https://layout.bradwoods.io/,
+https://the-echoplex.net/flexyboxes/,
+https://cssgrid-generator.netlify.app/,
+https://codepen.io/michellebarker/full/zYOMYWv,
+https://grid.layoutit.com/
+
+Palletes\
+https://coolors.co/
+
+Tools\
+https://omatsuri.app/,
+http://eky.hk/,
+https://doodlenerd.com/,
+https://cssportal.com/,
+https://cssbud.com/,
+https://10015.io/
+
+Typography\
+http://csstypeset.com/
+
+Underline\
+https://underline-generator.netlify.app/?ref=undesign,
+https://cssbud.com/css-generator/css-underline-generator/
+
+Generator\
+https://ui.glass/generator/,
+https://css.glass/,
+https://neumorphism.io/#e0e0e0,
+https://neumorphic.design/,
+https://jnkkkk.github.io/MoreToggles.css/,
+https://3dbookcovergenerator.netlify.app/,
+https://jonsuh.com/hamburgers/,
+https://divtable.com/table-styler/,
+https://10015.io/tools/css-loader-generator
+
+Chart\
+https://chartscss.org/	
+
+Loading\
+https://whirl.netlify.app/,
+https://loading.io/
+
+Color\
+https://codepen.io/TajShireen/pen/YzZmbep
+
+Accordion\
+https://accordionslider.com/
+
+Pixel\
+https://pixelartcss.com/
+
+Theme\
+https://theme.numl.design/
+
+Blob\
+https://blobmaker.app/
+
+Animation_CSS= easings.net
+
+CSS= css-tricks, cssbattle, flexboxfroggy, cssdiner, bemcheatsheet, cssdiner, rupl-unfold, cssgridgarden, flexboxdefense, victordarras-cssgame, cssfiltergenerator, kerframeapp, Animateresource, whirlnetlify, minimamente, jonsuh-hamburger, animate.style, ianlunn-hover, greensock-gsap, zurb-motionui
+
+CSS_layout= gridlayoutit, csslayout.io, griddy.io, purecsslayouts, CSSgridgenerator, loadingioflexbox, cssgr.id, gridbyexample,
+
+Cssbackground= https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com 
+
+CSSpixel= https://pixelartcss.com/
+
+HTML CSS generator= webcode.tools, tridiv.com
+
 
 javascript audio library\
 https://howlerjs.com/
@@ -254,181 +429,6 @@ https://binvis.io/#/
 audio\
 https://samplefocus.com/
 
-## CSS
-[css battle](https://cssbattle.dev/), [css diner](https://flukeout.github.io/), [flexbox defense](http://flexboxdefense.com/), [css garden](https://cssgridgarden.com/#id)
-
-CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
-
-CSS-play = [https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://flexboxdefense.com/](http://flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
-
-CSS-tips = [https://moderncss.dev/](https://moderncss.dev/)
-
-CSS-cubic-bezier = [easings.net](https://easings.net/)
-
-CSS-pixel = [https://pixelartcss.com/](https://pixelartcss.com/)
-
-CSS-animation = [https://animista.net/](https://animista.net/), [https://animate.style/](https://animate.style/), [https://keyframes.app/](https://keyframes.app/), [https://minimamente.com/project/magic/](https://minimamente.com/project/magic/), [https://whirl.netlify.app/](https://whirl.netlify.app/), [https://loading.io](https://loading.io/)
-
-CSS-bem = [https://9elements.com/bem-cheat-sheet/](https://9elements.com/bem-cheat-sheet/)
-
-CSS-challenge = [https://cssbattle.dev/](https://cssbattle.dev/), [https://100dayscss.com/](https://100dayscss.com/), [https://codewars.com/dashboard](https://codewars.com/dashboard)
-
-CSS-grid = [https://layoutit.com/cn](https://layoutit.com/cn), [https://griddy.io/](https://griddy.io/), [https://cssgr.id/](https://cssgr.id/), [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/), [https://gridbyexample.com/](https://gridbyexample.com/)
-
-CSS-flexbox = [https://loading.io/flexbox/](https://loading.io/flexbox/)
-
-CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
-
-CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
-
-https://github.com/IanLunn/Hover/blob/master/css/hover.css
-
-https://grid.malven.co/
-
-https://cssgrid-generator.netlify.app/
-
-https://animate.style/
-
-https://templatemo.com/
-
-https://designmodo.com/css-website-designs/
-
-https://100dayscss.com/
-
-https://dailycssdesign.com/
-
-https://cssbud.com/css-generator/css-glow-generator/
-
-https://shadows.brumm.af/
-
-https://rupl.github.io/unfold/
-
-https://html-css-js.com/css/generator/,
-https://webcode.tools/,
-https://toptal.com/developers/css3maker,
-http://css3generator.com/,
-https://cssmatic.com/,
-https://enjoycss.com/,
-http://css3studio.com/page-css3/css-box-shadow.php,
-https://keyframes.app/,
-https://waitanimate.wstone.uk/,
-https://animista.net/,
-https://animista.net/,
-https://transition.style/
-
-
-
-Background\
-http://patternify.com/,
-http://dragdropsite.github.io/waterpipe.js/,
-https://bgjar.com/,
-https://stripesgenerator.com/,
-
-Border\
-https://9elements.github.io/fancy-border-radius/,
-https://mdbootstrap.com/docs/standard/tools/design/fancy-border-radius/,
-https://codepen.io/amit_sheen/pen/xxZeyjO,
-
-Box-shadow\
-https://shadows.brumm.af/,
-https://htmlcssfreebies.com/box-shadow-generator-multiple/,
-https://cssbud.com/css-generator/css-box-shadow-generator/,
-https://getcssscan.com/css-box-shadow-examples,
-https://cssbud.com/css-generator/css-glow-generator/
-
-Button\
-https://cssbuttoncreator.com/,
-https://bestcssbuttongenerator.com/,
-https://css-tricks.com/examples/ButtonMaker/,
-https://getcssscan.com/css-buttons-examples,
-https://gradientbuttons.colorion.co/,
-https://markodenic.com/tools/buttons-generator/,
-
-Dividers\
-https://wweb.dev/resources/css-separator-generator/,
-https://shapedivider.app/,
-https://getwaves.io/
-
-Filters\
-https://cssfilters.co/,
-https://baseline.is/tools/css-photo-filters/,
-https://hero-generator.netlify.app/
-
-Gradients\
-https://cssgradient.io/,
-https://colorzilla.com/gradient-editor/,
-https://meshgradient.com/,
-https://gradientos.app/
-
-Layuots\
-https://layout.bradwoods.io/,
-https://the-echoplex.net/flexyboxes/,
-https://cssgrid-generator.netlify.app/,
-https://codepen.io/michellebarker/full/zYOMYWv,
-https://grid.layoutit.com/
-
-Palletes\
-https://coolors.co/
-
-Tools\
-https://omatsuri.app/,
-http://eky.hk/,
-https://doodlenerd.com/,
-https://cssportal.com/,
-https://cssbud.com/,
-https://10015.io/
-
-Typography\
-http://csstypeset.com/
-
-Underline\
-https://underline-generator.netlify.app/?ref=undesign,
-https://cssbud.com/css-generator/css-underline-generator/
-
-Generator\
-https://ui.glass/generator/,
-https://css.glass/,
-https://neumorphism.io/#e0e0e0,
-https://neumorphic.design/,
-https://jnkkkk.github.io/MoreToggles.css/,
-https://3dbookcovergenerator.netlify.app/,
-https://jonsuh.com/hamburgers/,
-https://divtable.com/table-styler/,
-https://10015.io/tools/css-loader-generator
-
-Chart\
-https://chartscss.org/	
-
-Loading\
-https://whirl.netlify.app/,
-https://loading.io/
-
-Color\
-https://codepen.io/TajShireen/pen/YzZmbep
-
-Accordion\
-https://accordionslider.com/
-
-Pixel\
-https://pixelartcss.com/
-
-Theme\
-https://theme.numl.design/
-
-Blob\
-https://blobmaker.app/
-
-Animation_CSS= easings.net
-
-CSS= css-tricks, cssbattle, flexboxfroggy, cssdiner, bemcheatsheet, cssdiner, rupl-unfold, cssgridgarden, flexboxdefense, victordarras-cssgame, cssfiltergenerator, kerframeapp, Animateresource, whirlnetlify, minimamente, jonsuh-hamburger, animate.style, ianlunn-hover, greensock-gsap, zurb-motionui
-
-CSS_layout= gridlayoutit, csslayout.io, griddy.io, purecsslayouts, CSSgridgenerator, loadingioflexbox, cssgr.id, gridbyexample,
-
-Cssbackground= https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com 
-
-CSSpixel= https://pixelartcss.com/
-
-HTML CSS generator= webcode.tools, tridiv.com
 
 ## Data Structures and Algorithms
 [leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://hackerrank.com), [codewars](https://codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://kaggle.com/), [advent of code](https://adventofcode.com/)
