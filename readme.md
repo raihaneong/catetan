@@ -1,4 +1,4 @@
-
+> title (category) > group > resource
 
 # UNCATEGORIZED
 # GENERAL LINKS
