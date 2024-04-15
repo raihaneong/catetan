@@ -3,6 +3,37 @@
 # UNCATEGORIZED
 # GENERAL LINKS
 # CSS and JAVASCRIPT
+
+javascript audio library\
+https://howlerjs.com/
+
+javascript animation library\
+https://threejs.org/, https://www.theatrejs.com/, https://gsap.com/
+
+https://javascriptquiz.com/
+
+https://learnxinyminutes.com/docs/javascript/
+
+JS-utility = https://1loc.dev/
+
+JS-learn = https://javascript.info/
+
+https://jsv9000.app/
+
+https://javascript.info/
+
+https://javascripttutorial.net/
+
+https://learn-js.org/en/
+
+https://javascript30.com/
+
+https://jstherightway.org/
+
+JavaScript= https://1loc.dev/ https://javascripting.com/?sort=rating https://learnxinyminutes.com/docs/javascript/
+
+JavaScript_libraries= fullpagejs, animejs, threejs, screenfulljs, leafletjs, popperjs
+
 # C++
 # DATABASE and SERVER
 # DATA STRUCTURE and ALGORITHM
@@ -44,12 +75,6 @@ https://archive.org/, https://ghostarchive.org/, https://archive.ph/, https://ar
 
 music creation\
 https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://onlinesequencer.net/, https://mubert.com/
-
-javascript audio library\
-https://howlerjs.com/
-
-javascript animation library\
-https://threejs.org/, https://www.theatrejs.com/, https://gsap.com/
 
 technical writing\
 https://stc.org/
@@ -112,7 +137,6 @@ https://lapa.ninja/
 https://jsdares.com/
 https://codecombat.com/
 https://freecodecamp.itch.io/learn-to-code-rpg
-https://javascriptquiz.com/
 https://screeps.com/
 https://flukeout.github.io/
 https://mastery.games/
@@ -188,7 +212,6 @@ https://exercism.org/
 https://teachyourselfcs.com/
 https://freestuff.dev/
 https://free-for.dev/#/
-https://learnxinyminutes.com/docs/javascript/
 https://web.dev/
 https://hackr.io/
 https://egghead.io/
@@ -407,25 +430,6 @@ CSSpixel= https://pixelartcss.com/
 
 HTML CSS generator= webcode.tools, tridiv.com
 
-## javascript
-
-JS-utility = https://1loc.dev/
-
-JS-learn = https://javascript.info/
-
-https://jsv9000.app/
-
-https://javascript.info/
-
-https://javascripttutorial.net/
-
-https://learn-js.org/en/
-
-https://javascript30.com/
-
-https://jstherightway.org/
-
-
 ## Data Structures and Algorithms
 [leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://hackerrank.com), [codewars](https://codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://kaggle.com/), [advent of code](https://adventofcode.com/)
 
@@ -634,15 +638,9 @@ Learn= Thisvsthat, webcomponents.org,
 
 HTML= Htmldog, htmlcheatsheet.com, htmldom.dev https://w3.org/TR/2011/WD-html5-20110525/content-models.html
 
-JavaScript= https://1loc.dev/ https://javascripting.com/?sort=rating https://learnxinyminutes.com/docs/javascript/
-
 NPM= bundlephobia,
 
 React_animation_demo= https://react-animations.herokuapp.com/
-
-JavaScript_libraries= fullpagejs, animejs, threejs, screenfulljs, leafletjs, popperjs
-
-
 
 SVG= nucleo.app
 
