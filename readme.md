@@ -719,9 +719,6 @@ pixeltrue.com,
 storyset.com, 
 undraw.co
 
-Motiongraphics\
-lottiefiles
-
 Edit_foto\
 fotor, 
 photopea
