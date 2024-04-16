@@ -1136,28 +1136,6 @@ sql murder mystery,
 warriorjs, 
 [https://codewars.com/dashboard](https://codewars.com/dashboard)
 
-Code_Game\
-coregame, 
-codecombat.com, 
-education.minecraft.net, 
-tynker.com, 
-checkio.org
-
-Learncode_by_game\
-jdrobot, 
-robocode, 
-checkio, 
-jsdares, 
-codecombat, 
-screeps, 
-flexboxfroggy, 
-cssdiner, 
-untrustedjavascript, 
-elevatorsaga, 
-crunchzilla, 
-sql murder mystery, 
-warriorjs.
-
 reference\
 [https://mobbin.design/browse/android/apps](https://mobbin.design/browse/android/apps), 
 [https://stackshare.io/stacks](https://stackshare.io/stacks)
