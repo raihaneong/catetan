@@ -588,7 +588,8 @@ technical writing\
 https://stc.org/
 https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/index.html
 
-file hosting = https://qu.ax/
+file hosting\
+https://qu.ax/
 
 math\
 https://desmos.com/
@@ -909,7 +910,8 @@ Illustration 3D\
 3D website development
 
 UI/UX\
-UI/UX= app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://uidesigndaily.com/ https://uxtools.co/ https://uplabs.com/, https://userpersona.design/
+UI/UX\
+app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://uidesigndaily.com/ https://uxtools.co/ https://uplabs.com/, https://userpersona.design/
 https://penpot.app/
 
 https://material.io/
@@ -945,7 +947,8 @@ Trippy edit
 latest information website provider\
 https://gpuopen.com/
 
-3D= spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
+3D\
+spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
 
 https://3dicons.co/
 
