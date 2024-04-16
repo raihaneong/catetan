@@ -807,7 +807,7 @@ Skeletal Animation\
 Cool\
 Trippy edit
 
-# GRAPHICAL THIRD DIMENSIONAL COMPUTERIZATION
+# GRAPHICAL THIRD DIMENSIONAL
 
 latest information website provider\
 https://gpuopen.com/
