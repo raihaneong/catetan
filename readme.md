@@ -1137,6 +1137,30 @@ sql murder mystery,
 warriorjs, 
 [https://codewars.com/dashboard](https://codewars.com/dashboard)
 
+Code_Game\
+codingame, 
+coregame, 
+codecombat.com, 
+education.minecraft.net, 
+tynker.com, 
+checkio.org
+
+Learncode_by_game\
+jdrobot, 
+robocode, 
+checkio, 
+codingame, 
+jsdares, 
+codecombat, 
+screeps, 
+flexboxfroggy, 
+cssdiner, 
+untrustedjavascript, 
+elevatorsaga, 
+crunchzilla, 
+sql murder mystery, 
+warriorjs.
+
 reference\
 [https://mobbin.design/browse/android/apps](https://mobbin.design/browse/android/apps), 
 [https://stackshare.io/stacks](https://stackshare.io/stacks)
@@ -1194,30 +1218,6 @@ tensorflow
 
 API\
 publicapis, insomniarest.
-
-Code_Game\
-codingame, 
-coregame, 
-codecombat.com, 
-education.minecraft.net, 
-tynker.com, 
-checkio.org
-
-Learncode_by_game\
-jdrobot, 
-robocode, 
-checkio, 
-codingame, 
-jsdares, 
-codecombat, 
-screeps, 
-flexboxfroggy, 
-cssdiner, 
-untrustedjavascript, 
-elevatorsaga, 
-crunchzilla, 
-sql murder mystery, 
-warriorjs.
 
 Code_snippet\
 Carbon.now.sh, 
