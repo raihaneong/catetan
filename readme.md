@@ -1521,6 +1521,9 @@ http://dev.thi.ng/gradients/
 [cannonjs](http://cannonjs.org/), 
 [draco](https://google.github.io/draco/)
 
+Shading language\
+GLSL, HLSL
+
 # ACADEMIC
 
 Profile\
