@@ -136,10 +136,14 @@ http://flexboxdefense.com/,
 https://cssgridgarden.com/#id
 
 CSS-ultimate\
-[https://angrytools.com/](https://angrytools.com/)
+https://angrytools.com/
 
 CSS-play\
-[https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://flexboxdefense.com/](http://flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
+[https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), 
+[https://flukeout.github.io/](https://flukeout.github.io/), 
+[https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), 
+[http://flexboxdefense.com/](http://flexboxdefense.com/), 
+[https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
 
 CSS-tips\
 [https://moderncss.dev/](https://moderncss.dev/)
@@ -151,16 +155,27 @@ CSS-pixel\
 [https://pixelartcss.com/](https://pixelartcss.com/)
 
 CSS-animation\
-[https://animista.net/](https://animista.net/), [https://animate.style/](https://animate.style/), [https://keyframes.app/](https://keyframes.app/), [https://minimamente.com/project/magic/](https://minimamente.com/project/magic/), [https://whirl.netlify.app/](https://whirl.netlify.app/), [https://loading.io](https://loading.io/)
+[https://animista.net/](https://animista.net/), 
+[https://animate.style/](https://animate.style/), 
+[https://keyframes.app/](https://keyframes.app/), 
+[https://minimamente.com/project/magic/](https://minimamente.com/project/magic/), 
+[https://whirl.netlify.app/](https://whirl.netlify.app/), 
+[https://loading.io](https://loading.io/)
 
 CSS-bem\
 [https://9elements.com/bem-cheat-sheet/](https://9elements.com/bem-cheat-sheet/)
 
 CSS-challenge\
-[https://cssbattle.dev/](https://cssbattle.dev/), [https://100dayscss.com/](https://100dayscss.com/), [https://codewars.com/dashboard](https://codewars.com/dashboard)
+[https://cssbattle.dev/](https://cssbattle.dev/), 
+[https://100dayscss.com/](https://100dayscss.com/), 
+[https://codewars.com/dashboard](https://codewars.com/dashboard)
 
 CSS-grid\
-[https://layoutit.com/cn](https://layoutit.com/cn), [https://griddy.io/](https://griddy.io/), [https://cssgr.id/](https://cssgr.id/), [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/), [https://gridbyexample.com/](https://gridbyexample.com/)
+[https://layoutit.com/cn](https://layoutit.com/cn), 
+[https://griddy.io/](https://griddy.io/), 
+[https://cssgr.id/](https://cssgr.id/), 
+[https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/), 
+[https://gridbyexample.com/](https://gridbyexample.com/)
 
 CSS-flexbox\
 [https://loading.io/flexbox/](https://loading.io/flexbox/)
@@ -299,13 +314,41 @@ Animation_CSS\
 easings.net
 
 CSS\
-css-tricks, cssbattle, flexboxfroggy, cssdiner, bemcheatsheet, cssdiner, rupl-unfold, cssgridgarden, flexboxdefense, victordarras-cssgame, cssfiltergenerator, kerframeapp, Animateresource, whirlnetlify, minimamente, jonsuh-hamburger, animate.style, ianlunn-hover, greensock-gsap, zurb-motionui
+css-tricks, 
+cssbattle, 
+flexboxfroggy, 
+cssdiner, 
+bemcheatsheet, 
+cssdiner, 
+rupl-unfold, 
+cssgridgarden, 
+flexboxdefense, 
+victordarras-cssgame, 
+cssfiltergenerator, 
+kerframeapp, 
+Animateresource, 
+whirlnetlify, 
+minimamente, 
+jonsuh-hamburger, 
+animate.style, 
+ianlunn-hover, 
+greensock-gsap, 
+zurb-motionui
 
 CSS_layout\
-gridlayoutit, csslayout.io, griddy.io, purecsslayouts, CSSgridgenerator, loadingioflexbox, cssgr.id, gridbyexample,
+gridlayoutit, 
+csslayout.io, 
+griddy.io, 
+purecsslayouts, 
+CSSgridgenerator, 
+loadingioflexbox, 
+cssgr.id, 
+gridbyexample,
 
 Cssbackground\
-https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com
+https://dragdropsite.github.io/waterpipe.js/,
+Bgjar.com,
+webgradients.com
 
 CSSpixel\
 https://pixelartcss.com/
@@ -317,7 +360,9 @@ javascript audio library\
 https://howlerjs.com/
 
 javascript animation library\
-https://threejs.org/, https://www.theatrejs.com/, https://gsap.com/
+https://threejs.org/, 
+https://www.theatrejs.com/, 
+https://gsap.com/
 
 https://javascriptquiz.com/
 
@@ -342,10 +387,17 @@ https://javascript30.com/
 https://jstherightway.org/
 
 JavaScript\
-https://1loc.dev/ https://javascripting.com/?sort=rating https://learnxinyminutes.com/docs/javascript/
+https://1loc.dev/,
+https://javascripting.com/?sort=rating,
+https://learnxinyminutes.com/docs/javascript/
 
 JavaScript_libraries\
-fullpagejs, animejs, threejs, screenfulljs, leafletjs, popperjs
+fullpagejs, 
+animejs, 
+threejs, 
+screenfulljs, 
+leafletjs, 
+popperjs
 
 # C++
 
@@ -374,10 +426,19 @@ https://sqlitetutorial.net/sqlite-nodejs/
 
 # DATA STRUCTURE and ALGORITHM
 
-[leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://hackerrank.com), [codewars](https://codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://kaggle.com/), [advent of code](https://adventofcode.com/)
+[leetcode](https://leetcode.com/problemset/all/), 
+[hackerrank](https://hackerrank.com), 
+[codewars](https://codewars.com/), 
+[algo monster](https://algo.monster/), 
+[neetcode](https://neetcode.io/), 
+[exercism](https://exercism.org), 
+[kaggle data science](https://kaggle.com/), 
+[advent of code](https://adventofcode.com/)
 
 Visualization-data-structure-and-algorithm\
-Visualgo.net, https://algorithm-visualizer.org/, https://toptal.com/developers/sorting-algorithms
+Visualgo.net, 
+https://algorithm-visualizer.org/, 
+https://toptal.com/developers/sorting-algorithms
 
 leet-code-guide\
 https://techinterviewhandbook.org/grind75
@@ -403,19 +464,34 @@ https://cs.usfca.edu/~galles/visualization/Algorithms.html
 # AUDIO, IMAGE, and VIDEO
 
 music creation\
-https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://onlinesequencer.net/, https://mubert.com/
+https://thirtydollar.website/, 
+https://specy.github.io/genshinMusic/#/, 
+https://onlinesequencer.net/, 
+https://mubert.com/
 
 asset-music\
 https://mixkit.co/
 
 Make_music\
-onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocalremoverorg, http://lalal.ai/,
+onlinesequencer, 
+http://mubert.com/, 
+https://samplefocus.com/, 
+vocalremoverorg, 
+http://lalal.ai/,
 
 asset-music\
 https://mixkit.co/
 
 Background\
-coolbackground.io, transparenttexture, heropatterns, https://svgbackgrounds.com/ https://gradienta.io/ https://visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
+coolbackground.io, 
+transparenttexture, 
+heropatterns, 
+https://svgbackgrounds.com/, 
+https://gradienta.io/,
+https://visiwig.com/patterns/,
+https://patternpad.com/,
+https://bgjar.com/,
+https://pattern.monster
 
 image_to_text\
 https://text-image.com/convert/
@@ -445,25 +521,45 @@ Abstract\
 Tool.graphics
 
 Apus_objek\
-theinpaint, removebg, Nvidia inpainting
+theinpaint, 
+removebg, 
+Nvidia inpainting
 
 Edit_video_online\
-http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
+http://veed.io/, 
+davinciresolve, 
+makewebvideo, 
+natron, 
+jittervideo, 
+unscreen, 
+goanimate, 
+animatron, 
+inshot
 
 Icon\
-https://tablericons.com/, https://tabler-icons.io/
+https://tablericons.com/, 
+https://tabler-icons.io/
 
 Motiongraphics\
 lottiefiles
 
 palet-warna\
-https://happyhues.co/, https://colors.dopely.top/
+https://happyhues.co/, 
+https://colors.dopely.top/
 
 VIDEO-EDITING\
-https://origami.design/, descript
+https://origami.design/, 
+descript
 
 Edit_video_online\
-veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
+veed.io, davinciresolve, 
+makewebvideo, 
+natron, 
+jittervideo, 
+unscreen, 
+goanimate, 
+animatron, 
+inshot
 
 asset-video\
 coverr.co
