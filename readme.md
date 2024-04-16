@@ -1527,19 +1527,47 @@ Survey\
 
 Referencing (include journal and article)\
 [Mendeley](https://mendeley.com/),
-[connected papers in a visual graph](https://connectedpapers.com/), [world's historical newspaper archive](https://elephind.com/), [Citationsy](https://citationsy.com/), [OAI Identifier](https://oai.core.ac.uk/), [Ministry of Religious Affairs Reference kemenag](https://moraref.kemenag.go.id/), [science direct](https://sciencedirect.com/), [scopus](https://scopus.com/sources), [indonesian scientific journal database](http://isjd.pdii.lipi.go.id/), [Internet Archive Journal](https://archive.org/details/journals), [google schoolar](https://scholar.google.com/), [garuda kemdikbud](https://garuda.kemdikbud.go.id/), [sinta kemdikbud](https://sinta.kemdikbud.go.id/journals), [moraref kemenag](https://moraref.kemenag.go.id/archives/journal), [International Organization of Scientific Research](https://iosrjournals.org/), [Directory of Open Access Journals](https://doaj.org/), [JSTOR](https://jstor.org/), [high-quality images from anywhere](https://jstor.org/site/artstor/), [institute of education sciences](https://eric.ed.gov/), [institution of mechancal engineer](https://archives.imeche.org/), [national library of medicine](https://pubmed.ncbi.nlm.nih.gov/), [inspire high energy physics](https://inspirehep.net/), [ieee explore](https://ieeexplore.ieee.org/Xplore/home.jsp), [scientific electronic library online](https://scielo.org/), [ssrn](https://ssrn.com/), [ebsco](https://www.ebsco.com/)
+[connected papers in a visual graph](https://connectedpapers.com/), 
+[world's historical newspaper archive](https://elephind.com/), 
+[Citationsy](https://citationsy.com/), 
+[OAI Identifier](https://oai.core.ac.uk/), 
+[Ministry of Religious Affairs Reference kemenag](https://moraref.kemenag.go.id/), [science direct](https://sciencedirect.com/), 
+[scopus](https://scopus.com/sources), 
+[indonesian scientific journal database](http://isjd.pdii.lipi.go.id/), 
+[Internet Archive Journal](https://archive.org/details/journals), 
+[google schoolar](https://scholar.google.com/), 
+[garuda kemdikbud](https://garuda.kemdikbud.go.id/), 
+[sinta kemdikbud](https://sinta.kemdikbud.go.id/journals), 
+[moraref kemenag](https://moraref.kemenag.go.id/archives/journal), 
+[International Organization of Scientific Research](https://iosrjournals.org/), [Directory of Open Access Journals](https://doaj.org/), 
+[JSTOR](https://jstor.org/), 
+[high-quality images from anywhere](https://jstor.org/site/artstor/), 
+[institute of education sciences](https://eric.ed.gov/), 
+[institution of mechancal engineer](https://archives.imeche.org/), 
+[national library of medicine](https://pubmed.ncbi.nlm.nih.gov/), 
+[inspire high energy physics](https://inspirehep.net/), 
+[ieee explore](https://ieeexplore.ieee.org/Xplore/home.jsp), 
+[scientific electronic library online](https://scielo.org/), 
+[ssrn](https://ssrn.com/), [ebsco](https://www.ebsco.com/)
 
 Buku\
-[perpusnas e-resources](https://e-resources.perpusnas.go.id/), [pdfdrive](https://pdfdrive.com/)
+[perpusnas e-resources](https://e-resources.perpusnas.go.id/), 
+[pdfdrive](https://pdfdrive.com/)
 
 Bibliography\
-[publish or perish](https://harzing.com/resources/publish-or-perish), [mendeley referencing manager](https://mendeley.com/reference-management/reference-manager)
+[publish or perish](https://harzing.com/resources/publish-or-perish), 
+[mendeley referencing manager](https://mendeley.com/reference-management/reference-manager)
 
 Paraphrase\
-[shortlyai](https://shortlyai.com/), [rytrme](https://rytr.me/), [speedwrite](https://speedwrite.com/), [hyperwriteai](https://hyperwriteai.com/), [wordtune](https://wordtune.com/)
+[shortlyai](https://shortlyai.com/), 
+[rytrme](https://rytr.me/), 
+[speedwrite](https://speedwrite.com/), 
+[hyperwriteai](https://hyperwriteai.com/), 
+[wordtune](https://wordtune.com/)
 
 International Phonetic Alphabet Translator\
-[phonetizer](https://phonetizer.com/ui), [tophonetics](https://tophonetics.com/)
+[phonetizer](https://phonetizer.com/ui), 
+[tophonetics](https://tophonetics.com/)
 
 Text to Handwriting\
 [jnckmedia](https://jnckmedia.com/nulis/)
@@ -1547,10 +1575,13 @@ Text to Handwriting\
 # JOB
 
 Resume/cv\
-https://resume.io/app, https://aksel.co.id, https://standardresume.co/
+https://resume.io/app, 
+https://aksel.co.id, 
+https://standardresume.co/
 
 Interview\
-[30secondsofinterviews](https://30secondsofinterviews.org/), [64-interview-questions](https://soulsearch.files.wordpress.com/2007/05/64interviewquestions1.pdf)
+[30secondsofinterviews](https://30secondsofinterviews.org/), 
+[64-interview-questions](https://soulsearch.files.wordpress.com/2007/05/64interviewquestions1.pdf)
 
 Oversea\
 [Relocation and Visa Sponsorship Jobs across the world](https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0)
