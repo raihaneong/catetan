@@ -1202,37 +1202,95 @@ API\
 publicapis, insomniarest.
 
 Code_Game\
-codingame, coregame, codecombat.com, education.minecraft.net, tynker.com, checkio.org
+codingame, 
+coregame, 
+codecombat.com, 
+education.minecraft.net, 
+tynker.com, 
+checkio.org
 
 Learncode_by_game\
-jdrobot, robocode, checkio, codingame, jsdares, codecombat, screeps, flexboxfroggy, cssdiner, untrustedjavascript, elevatorsaga, crunchzilla, sql murder mystery, warriorjs.
+jdrobot, 
+robocode, 
+checkio, 
+codingame, 
+jsdares, 
+codecombat, 
+screeps, 
+flexboxfroggy, 
+cssdiner, 
+untrustedjavascript, 
+elevatorsaga, 
+crunchzilla, 
+sql murder mystery, 
+warriorjs.
 
 Code_snippet\
-Carbon.now.sh, ray.so,
+Carbon.now.sh, 
+ray.so,
 
 Build_app\
-https://teta.so/, glideapps, bravoatudioapp, draftbit, animaapp, sketch2react
+https://teta.so/, 
+glideapps, 
+bravoatudioapp, 
+draftbit, 
+animaapp, 
+sketch2react
 
 Belajar_code\
-100dayscss, top,geeksforgeeks, cssbattle, , frontend practice, codingchallenges, stylestage, frontend mentor, codewars, hackr.io, Code4startup.com
+100dayscss, 
+top,
+geeksforgeeks, 
+cssbattle, 
+frontend practice, 
+codingchallenges, 
+stylestage, 
+frontend mentor, 
+codewars, 
+hackr.io, 
+Code4startup.com
 
 Bikin_web\
-graphite.space, Webflow, wix, wordpress, godaddy, weebly, typedream
+graphite.space, 
+Webflow, 
+wix, 
+wordpress, 
+godaddy, 
+weebly, 
+typedream
 
 Trend\
-mobbindesign, Gtrend, audience insight, socialsearcher
+mobbindesign, 
+Gtrend, 
+audience 
+insight, 
+socialsearcher
 
 SEO_tools\
-semrush, googlesearchconsole, ubersuggest, Yoast, answerthepublic, gtmetrix, seoquake, metatags, dailypurposes, notjustanalytics, hashtagstacks, all-hashtag, ingramer,
+semrush, 
+googlesearchconsole, 
+ubersuggest, 
+Yoast, 
+answerthepublic, 
+gtmetrix, 
+seoquake, 
+metatags, 
+dailypurposes, 
+notjustanalytics, 
+hashtagstacks, 
+all-hashtag, 
+ingramer,
 
 Tools\
-https://smalldev.tools/, https://omatsuri.app/
+https://smalldev.tools/, 
+https://omatsuri.app/
 
 Responsive-Web\
 https://responsively.app/
 
 Frontend\
-Gitignoreio, frontendchecklistio
+Gitignoreio, 
+frontendchecklistio
 
 Naming\
 codeelf
@@ -1241,13 +1299,21 @@ responsive_design\
 Screensizemap.com,
 
 Website_template\
-nicepage, colorlib, freecss, tooplate, ostemplate
+nicepage, 
+colorlib, 
+freecss, 
+tooplate, 
+ostemplate
 
 Learn\
-Thisvsthat, webcomponents.org,
+Thisvsthat, 
+webcomponents.org,
 
 HTML\
-Htmldog, htmlcheatsheet.com, htmldom.dev https://w3.org/TR/2011/WD-html5-20110525/content-models.html
+Htmldog, 
+htmlcheatsheet.com, 
+htmldom.dev.
+https://w3.org/TR/2011/WD-html5-20110525/content-models.html
 
 NPM\
 bundlephobia,
@@ -1275,24 +1341,84 @@ Tes\
 enrollapp, usertesting
 
 Texteditor/ide\
-replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle, jsbin, vscode.dev
+replit, 
+codepen, 
+w3schooltryit, 
+codesandbox, 
+playcode, 
+jsfiddle, 
+jsbin, 
+vscode.dev
 
 # VISUAL INTERACTIVITY and INTERFACE DESIGN
 
 Visual Design\
-[design system repo](https://designsystemsrepo.com/), [atlasian design](https://atlassian.design/), [material design](https://material.io/), [primer style](https://primer.style/), [spectrum adobe](https://spectrum.adobe.com/), [Microsoft fluent design system](https://microsoft.com/design/fluent/), [human interface guidlines by apple](https://developer.apple.com/design/human-interface-guidelines/), [carbon design system by ibm](https://carbondesignsystem.com/), [salesforce lightning design system](https://lightningdesignsystem.com/)
+[design system repo](https://designsystemsrepo.com/), 
+[atlasian design](https://atlassian.design/), 
+[material design](https://material.io/), 
+[primer style](https://primer.style/), 
+[spectrum adobe](https://spectrum.adobe.com/), 
+[Microsoft fluent design system](https://microsoft.com/design/fluent/), 
+[human interface guidlines by apple](https://developer.apple.com/design/human-interface-guidelines/), 
+[carbon design system by ibm](https://carbondesignsystem.com/), 
+[salesforce lightning design system](https://lightningdesignsystem.com/)
 
 Design System\
-[google material design](https://m3.material.io/), [Apple human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/platforms/overview), [atlasian design system](https://atlassian.design/), [pajamas gitlab design system](https://design.gitlab.com/), [firefox photon design system](https://design.firefox.com/photon/), [mailchimp patter library](https://ux.mailchimp.com/patterns/color), [uniform hudl design](http://uniform.hudltools.com/), [thumbprint design system](https://thumbprint.design/), [rizzo lonely planet](https://adele.uxpin.com/lonely-planet-rizzo), [carbon design system](https://carbondesignsystem.com/), [stackoverflow design](https://stackoverflow.design/), [audi user interface](https://audi.com/ci/en/guides/user-interface/introduction.html), [bbc GEL](https://bbc.co.uk/gel/guidelines), [hubspot canvas design system](https://canvas.hubspot.com/), [ant design](https://ant.design/), [polaris shopify](https://polaris.shopify.com/), [grommet](https://v2.grommet.io/), [marvelapp styleguide](https://marvelapp.com/styleguide/overview/introduction), [garden zendesk](https://garden.zendesk.com/), [salesforce ligthning design sytem](https://lightningdesignsystem.com/), [uber base web](https://baseweb.design/), [gojek ashpalt aloha](https://asphalt.gojek.io/), [orbit kiwi](https://orbit.kiwi/), [microsoft fluent UI](https://developer.microsoft.com/en-us/fluentui#/), [patternfly](https://patternfly.org/v4/), [pega constellation](https://design.pega.com/), [gold australia design system](https://gold.designsystemau.org/), [mozilla protocol](https://protocol.mozilla.org/), [intuit quickbooks](https://designsystem.quickbooks.com/), [workday canvas](https://canvas.workday.com/), [yelp cookbook](https://yelp.com/styleguide), [airbnb visual language](https://airbnb.design/building-a-visual-language/), [spectrum adobe](https://spectrum.adobe.com/), [lexicon liferay design](https://liferay.design/lexicon/), [microsoft fluent](https://microsoft.com/design/fluent/), [solid buzzfeed](https://solid.buzzfeed.com/), [mongodb ui design](https://mongodb.design/#/ui-design-system/welcome), [mixpanel design](https://design.mixpanel.com/), [solar bulb design](https://design.bulb.co.uk/), [oracle alta UI](https://oracle.com/webfolder/ux/middleware/alta/index.html), [latitude flexport design](https://flexport.com/design), [sap fiori design](https://experience.sap.com/fiori-design-web/), [evergreen segment design](https://evergreen.segment.com/), [clarity design](https://clarity.design/)
+[google material design](https://m3.material.io/), 
+[Apple human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/platforms/overview), 
+[atlasian design system](https://atlassian.design/), 
+[pajamas gitlab design system](https://design.gitlab.com/), 
+[firefox photon design system](https://design.firefox.com/photon/), 
+[mailchimp patter library](https://ux.mailchimp.com/patterns/color), 
+[uniform hudl design](http://uniform.hudltools.com/), 
+[thumbprint design system](https://thumbprint.design/), 
+[rizzo lonely planet](https://adele.uxpin.com/lonely-planet-rizzo), 
+[carbon design system](https://carbondesignsystem.com/), 
+[stackoverflow design](https://stackoverflow.design/), 
+[audi user interface](https://audi.com/ci/en/guides/user-interface/introduction.html), 
+[bbc GEL](https://bbc.co.uk/gel/guidelines), 
+[hubspot canvas design system](https://canvas.hubspot.com/), 
+[ant design](https://ant.design/), 
+[polaris shopify](https://polaris.shopify.com/), 
+[grommet](https://v2.grommet.io/), 
+[marvelapp styleguide](https://marvelapp.com/styleguide/overview/introduction), 
+[garden zendesk](https://garden.zendesk.com/), 
+[salesforce ligthning design sytem](https://lightningdesignsystem.com/), 
+[uber base web](https://baseweb.design/), 
+[gojek ashpalt aloha](https://asphalt.gojek.io/), 
+[orbit kiwi](https://orbit.kiwi/), 
+[microsoft fluent UI](https://developer.microsoft.com/en-us/fluentui#/), [patternfly](https://patternfly.org/v4/), 
+[pega constellation](https://design.pega.com/), 
+[gold australia design system](https://gold.designsystemau.org/), 
+[mozilla protocol](https://protocol.mozilla.org/), 
+[intuit quickbooks](https://designsystem.quickbooks.com/), 
+[workday canvas](https://canvas.workday.com/), 
+[yelp cookbook](https://yelp.com/styleguide), 
+[airbnb visual language](https://airbnb.design/building-a-visual-language/), [spectrum adobe](https://spectrum.adobe.com/), 
+[lexicon liferay design](https://liferay.design/lexicon/), 
+[microsoft fluent](https://microsoft.com/design/fluent/), 
+[solid buzzfeed](https://solid.buzzfeed.com/), 
+[mongodb ui design](https://mongodb.design/#/ui-design-system/welcome), 
+[mixpanel design](https://design.mixpanel.com/), 
+[solar bulb design](https://design.bulb.co.uk/), 
+[oracle alta UI](https://oracle.com/webfolder/ux/middleware/alta/index.html), [latitude flexport design](https://flexport.com/design), 
+[sap fiori design](https://experience.sap.com/fiori-design-web/), 
+[evergreen segment design](https://evergreen.segment.com/), 
+[clarity design](https://clarity.design/)
 
 Design Style\
-synthwave, vaporwave, trippy
+synthwave, 
+vaporwave, 
+trippy
 
 Principles\
 [design principles](https://principles.design/)
 
 Logo Generator\
-[logology](https://logology.co/), [tailorbrands](https://tailorbrands.com/logo-maker), [artify](https://artify.co/), [shopify](https://shopify.com/tools/logo-maker)
+[logology](https://logology.co/), 
+[tailorbrands](https://tailorbrands.com/logo-maker), 
+[artify](https://artify.co/), 
+[shopify](https://shopify.com/tools/logo-maker)
 
 Illustration 2D\
 [sketchvalley](https://sketchvalley.com/)
@@ -1304,7 +1430,18 @@ Illustration 3D\
 
 UI/UX\
 UI/UX\
-app.uxcel.com, uizard, Proto.io, design system in UI UX, cantunsee.space, type.method.ac, uxcel.com, uxtweak, https://uidesigndaily.com/ https://uxtools.co/ https://uplabs.com/, https://userpersona.design/
+app.uxcel.com, 
+uizard, 
+Proto.io, 
+design system in UI UX, 
+cantunsee.space, 
+type.method.ac, 
+uxcel.com, 
+uxtweak, 
+https://uidesigndaily.com/,
+https://uxtools.co/,
+https://uplabs.com/, 
+https://userpersona.design/,
 https://penpot.app/
 
 https://material.io/
@@ -1324,7 +1461,8 @@ https://lawsofux.com
 https://useronboard.com/onboarding-ux-patterns/
 
 Pattern\
-http://uipatterns.io/, https://uxchecklist.github.io/
+http://uipatterns.io/, 
+https://uxchecklist.github.io/
 
 https://uxtools.co/
 
@@ -1341,15 +1479,43 @@ latest information website provider\
 https://gpuopen.com/
 
 3D\
-spline.design, Toyfaces3d, avatarz, bigsuricon, morquastore, 3dmockups, 3diconsset, shapefest, superscene.pro, heroforge, polywork.com, maze.co, icon8 3D hand, anicons, artify 3d lettering, morquastore 3d, glaze 3d icon, iconscout3d
+spline.design, 
+Toyfaces3d, 
+avatarz, 
+bigsuricon, 
+morquastore, 
+3dmockups, 
+3diconsset, 
+shapefest, 
+superscene.pro, 
+heroforge, 
+polywork.com, 
+maze.co, 
+icon8 3D hand, 
+anicons, 
+artify 3d lettering, 
+morquastore 3d, 
+glaze 3d icon, 
+iconscout3d
 
 https://3dicons.co/
 
 3d\
-https://dora.run/, https://desmos.com/3d, https://aframe.io/, https://shadertoy.com/, https://graphtoy.com/, http://dev.thi.ng/gradients/, https://iquilezles.org/, http://dev.thi.ng/gradients/
+https://dora.run/, 
+https://desmos.com/3d, 
+https://aframe.io/, 
+https://shadertoy.com/, 
+https://graphtoy.com/, 
+http://dev.thi.ng/gradients/, 
+https://iquilezles.org/, 
+http://dev.thi.ng/gradients/
 
 3D\
-[spline](https://spline.design/), [p3d](https://p3d.in/), [sketchfab](https://sketchfab.com/), [cannonjs](http://cannonjs.org/), [draco](https://google.github.io/draco/)
+[spline](https://spline.design/), 
+[p3d](https://p3d.in/), 
+[sketchfab](https://sketchfab.com/), 
+[cannonjs](http://cannonjs.org/), 
+[draco](https://google.github.io/draco/)
 
 # ACADEMIC
 
