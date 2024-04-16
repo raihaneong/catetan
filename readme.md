@@ -571,10 +571,49 @@ Fileconverter\
 cloudconvert.com
 
 Inspiration\
-designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, mobbin.design
+designinspiration.com, 
+Behance, 
+pinterest, 
+dribbble, 
+muz.li, 
+savee.it, 
+metmuseum, 
+namelix, 
+uigarage, 
+unreaddesign, 
+mobbin.design
 
 Mockup\
-Mockupphone, shotsnapp, mockvideo, vecteezy, rotato.xyz, thing.morflax.com, artboartstudio, mockupbro, devicesshots, previewedapp, threedio, smartmockups, screenly, mockups-design, free-mockup, graphicburger, mockupworld, graphberry, freepik, ls.graphics, mckups, placeit.net, pixeden, mockuuups.studio, mockup.ceacle.com, medialoot, freebiesbug, cssauthor, unblast, rawpixel,
+Mockupphone, 
+shotsnapp, 
+mockvideo, 
+vecteezy, 
+rotato.xyz, 
+thing.morflax.com, 
+artboartstudio, 
+mockupbro, 
+devicesshots, 
+previewedapp, 
+threedio, 
+smartmockups, 
+screenly, 
+mockups-design, 
+free-mockup, 
+graphicburger, 
+mockupworld, 
+graphberry, 
+freepik, 
+ls.graphics, 
+mckups, 
+placeit.net, 
+pixeden, 
+mockuuups.studio, 
+mockup.ceacle.com, 
+medialoot, 
+freebiesbug, 
+cssauthor, 
+unblast, 
+rawpixel,
 
 Convert_vector\
 Vectorizerio
@@ -583,10 +622,19 @@ Fontpair\
 fontjoy, fontpair.co
 
 Font-view\
-https://type-scale.com/, https://wordmark.it/, https://fontbrief.com/
+https://type-scale.com/, 
+https://wordmark.it/, 
+https://fontbrief.com/
 
 Font\
-metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
+metaflop, 
+fontgoogle, 
+fontspace,
+pairingfont, 
+fontshare, 
+fontesk, 
+fontinuse, 
+https://type-scale.com/
 
 Gambar_organ_tubuh\
 Servier medical art
@@ -601,37 +649,122 @@ Pixel\
 https://pixelartcss.com/
 
 Foto/vid\
-Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8, Isoflat, rawpixel, amritpaldesign, appitgdigital, isometriclove, Freepik, vecteezy, handzdesign, pixabay,isoflat, graphicburger, pixeden
+Drawkit, 
+svggator, 
+humaaans, 
+undraw, 
+unsplash, 
+pixabay, 
+pexels, 
+icons8, 
+Isoflat, 
+rawpixel, 
+amritpaldesign, 
+appitgdigital, 
+isometriclove, 
+Freepik, 
+vecteezy, 
+handzdesign, 
+pixabay,
+isoflat, 
+graphicburger, 
+pixeden
 
 Icon\
-nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlineicons.com, iconscout.com, animaticons, akaricons, thenounproject, https://iconfinder.com/, https://systemuicons.com/, iconsaxio, lordicon, , Iconstore, iconfinder, streamlineicon, lordicon, remixicon, appitgdigital, ikonate, fontawesome.
+nucleoapp.com, 
+feathericons.com, 
+icons8, 
+ui8.net/category/icons, 
+streamlineicons.com, 
+iconscout.com, 
+animaticons, 
+akaricons, 
+thenounproject, 
+https://iconfinder.com/, 
+https://systemuicons.com/, 
+iconsaxio, 
+lordicon, 
+Iconstore, 
+iconfinder, 
+streamlineicon, 
+lordicon, 
+remixicon, 
+appitgdigital, 
+ikonate, 
+fontawesome.
 
 PNG\
-Pngpix , favpng, Subpng, pngtree, cleanpng.
+Pngpix, 
+favpng, 
+Subpng, 
+pngtree, 
+cleanpng.
 
 Illustrations\
-drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/, blush.design, drawkit.io, humaaans.com, icons8.com, iconscout.com, illustrations.co, iradesign.io, isometric .nline, manypixels.co, openpeeps.com, pixeltrue.com, storyset.com, undraw.co
+drawkit, 
+opendoodle, 
+blushdesign, 
+illustation, 
+opendoodles, 
+pixeltrue, 
+undraw, 
+humaaans, 
+skribl, 
+Sketchvalley, 
+ls-graphics, 
+storytale.io error, 
+manipixels.co, 
+https://themeisle.com/illustrations/, 
+blush.design, 
+drawkit.io, 
+humaaans.com, 
+icons8.com, 
+iconscout.com, 
+illustrations.co, 
+iradesign.io, 
+isometric .nline, 
+manypixels.co, 
+openpeeps.com, 
+pixeltrue.com, 
+storyset.com, 
+undraw.co
 
 Warna\
-khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
+khroma, 
+mycolor.space, 
+colorhuntco, 
+color.adobe, 
+coolorsco, 
+swiss style color picker, 
+apptunix, 
+whocanuse, 
+contrastchecker, 
+uicolors, 
+colorscafe, 
+colorsevadesign,
 
 Gradient\
-meshgradient, cssgradient.io,
+meshgradient, 
+cssgradient.io,
 
 Motiongraphics\
 lottiefiles
 
 Edit_foto\
-fotor, photopea
+fotor, 
+photopea
 
 Apus_objek\
-theinpaint, removebg, Nvidia inpainting
+theinpaint, 
+removebg, 
+Nvidia inpainting
 
 Photo_tracking\
 pixsy
 
 Text-to-Speech\
-https://notevibes.com/, https://fakeyou.com/
+https://notevibes.com/, 
+https://fakeyou.com/
 
 # TOOLS
 
@@ -651,16 +784,41 @@ svg editor\
 https://svgomg.net/
 
 artificial intelligence\
-https://beta.character.ai/, https://chat.openai.com/, https://uberduck.ai/, https://rephrase.ai/, https://bigspeak.ai/, http://synthesia.io/, http://rephrase.ai/, http://spik.ai/, http://dictation.io/, https://beatoven.ai/, https://craiyon.com/, https://wombo.art/
+https://beta.character.ai/, 
+https://chat.openai.com/, 
+https://uberduck.ai/, 
+https://rephrase.ai/, 
+https://bigspeak.ai/, 
+http://synthesia.io/, 
+http://rephrase.ai/, 
+http://spik.ai/, 
+http://dictation.io/, 
+https://beatoven.ai/, 
+https://craiyon.com/, 
+https://wombo.art/
 
 internet\
-https://he.net/, https://getdeploying.com/
+https://he.net/, 
+https://getdeploying.com/
 
 software engineer\
-https://crackmes.one/, https://hackthebox.com/
+https://crackmes.one/, 
+https://hackthebox.com/
 
 fun website\
-emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl, https://localingual.com/, https://tjukanovt.github.io/notable-people, https://radio.garden/
+emupedia, 
+weavesilk, 
+interland, 
+littlealchemy, 
+drawinggarden, 
+flashbynight, 
+worldmeter, 
+patatap, 
+mrdoob, 
+davidl, 
+https://localingual.com/, 
+https://tjukanovt.github.io/notable-people, 
+https://radio.garden/
 
 shader language\
 https://thebookofshaders.com/
@@ -669,16 +827,35 @@ documentation\
 https://fileformat.com/
 
 website design reference\
-https://darkmodedesign.com/, https://awwwards.com/, https://threejs.org/, https://stacksorted.com/buttons, https://refero.design/, https://minimal.gallery/, https://commarts.com/webpicks/
+https://darkmodedesign.com/, 
+https://awwwards.com/, 
+https://threejs.org/, 
+https://stacksorted.com/buttons, 
+https://refero.design/, 
+https://minimal.gallery/, 
+https://commarts.com/webpicks/
 
 design system\
-https://fluent2.microsoft.design/, https://carbondesignsystem.com/, https://developer.apple.com/design/, https://m3.material.io/, https://beercss.com/
+https://fluent2.microsoft.design/, 
+https://carbondesignsystem.com/, 
+https://developer.apple.com/design/, 
+https://m3.material.io/, 
+https://beercss.com/
 
 creative programming\
-[p5js](https://p5js.org/), [tinkersynth](https://tinkersynth.com/), [shadertoy](https://shadertoy.com/), [openprocessing](https://openprocessing.org/), [processing](https://processing.org/), [touchdesigner](https://derivative.ca/), [google experiments](https://experiments.withgoogle.com/collections)
+[p5js](https://p5js.org/), 
+[tinkersynth](https://tinkersynth.com/), 
+[shadertoy](https://shadertoy.com/), 
+[openprocessing](https://openprocessing.org/), 
+[processing](https://processing.org/), 
+[touchdesigner](https://derivative.ca/), 
+[google experiments](https://experiments.withgoogle.com/collections)
 
 information archive\
-https://archive.org/, https://ghostarchive.org/, https://archive.ph/, https://arxiv.org/
+https://archive.org/, 
+https://ghostarchive.org/, 
+https://archive.ph/, 
+https://arxiv.org/
 
 technical writing\
 https://stc.org/
@@ -691,10 +868,63 @@ math\
 https://desmos.com/
 
 links to learn things\
-https://tutorialspoint.com/index.htm, https://web.dev/learn/, https://rapidapi.com/learn, https://apisecuniversity.com/, https://coursesidekick.com/study-guides, https://ocw.mit.edu/, https://roadmap.sh/
+https://tutorialspoint.com/index.htm, 
+https://web.dev/learn/, 
+https://rapidapi.com/learn, 
+https://apisecuniversity.com/, 
+https://coursesidekick.com/study-guides, 
+https://ocw.mit.edu/, 
+https://roadmap.sh/
 
 chrome bookmarks\
-[mastodon-servers](https://joinmastodon.org/servers), https://w3.org/, https://a11y-101.com/, https://freebsd.org/, https://springframework.guru/gang-of-four-design-patterns/, https://systemdesign.one/categories/, https://survey.devographics.com/en-US, https://learncpp.com/, https://learn-js.org/, https://howtographql.com/, https://devhints.io/, https://gitconnected.com/learn, https://roadmap.sh/, https://codewars.com/, https://blog.bytebytego.com/p/algorithms-you-should-know-before, https://neetcode.io/practice, https://osn.toki.id/, https://hackerrank.com/, https://codeforces.com/, https://algorithm-visualizer.org/backtracking/hamiltonean-cycles, https://visualgo.net/en, https://summarize.tech/, https://bard.google.com/chat?hl=en, https://phind.com/, https://threejs.org/docs/, https://discoverthreejs.com/, https://en.threejs-university.com/category/learn-threejs/, https://threejs.org/, https://theatrejs.com/, https://gsap.com/, https://github.com/pmndrs/drei, https://docs.pmnd.rs/react-three-fiber/getting-started/introduction, https://pixijs.com/, https://p5js.org/, https://framer.com/motion/, https://doc.babylonjs.com/, https://discourse.threejs.org/, https://cgsociety.org/, https://polycount.com/forum, https://blenderartists.org/, https://blendernation.com/, https://blender.community, https://zbrushcentral.com/, https://artstation.com/?sort_by=community&dimension=all, https://forum.highend3d.com/, https://geeksforgeeks.org/community/?ref=leftbarm https://learn.mongodb.com/learning-paths/introduction-to-mongodbm, https://learn.saylor.org/?redirect=0
+[mastodon-servers](https://joinmastodon.org/servers), 
+https://w3.org/, 
+https://a11y-101.com/, 
+https://freebsd.org/, 
+https://springframework.guru/gang-of-four-design-patterns/, 
+https://systemdesign.one/categories/, 
+https://survey.devographics.com/en-US, 
+https://learncpp.com/, 
+https://learn-js.org/, 
+https://howtographql.com/, 
+https://devhints.io/, 
+https://gitconnected.com/learn, 
+https://roadmap.sh/, 
+https://codewars.com/, 
+https://blog.bytebytego.com/p/algorithms-you-should-know-before, 
+https://neetcode.io/practice, 
+https://osn.toki.id/, 
+https://hackerrank.com/, 
+https://codeforces.com/, 
+https://algorithm-visualizer.org/backtracking/hamiltonean-cycles, 
+https://visualgo.net/en, 
+https://summarize.tech/, 
+https://bard.google.com/chat?hl=en, 
+https://phind.com/, 
+https://threejs.org/docs/, 
+https://discoverthreejs.com/, 
+https://en.threejs-university.com/category/learn-threejs/, 
+https://threejs.org/, 
+https://theatrejs.com/, 
+https://gsap.com/, 
+https://github.com/pmndrs/drei, 
+https://docs.pmnd.rs/react-three-fiber/getting-started/introduction, 
+https://pixijs.com/, 
+https://p5js.org/, 
+https://framer.com/motion/, 
+https://doc.babylonjs.com/, 
+https://discourse.threejs.org/, 
+https://cgsociety.org/, 
+https://polycount.com/forum, 
+https://blenderartists.org/, 
+https://blendernation.com/, 
+https://blender.community, 
+https://zbrushcentral.com/, 
+https://artstation.com/?sort_by=community&dimension=all, 
+https://forum.highend3d.com/, 
+https://geeksforgeeks.org/community/?ref=leftbarm 
+https://learn.mongodb.com/learning-paths/introduction-to-mongodbm, 
+https://learn.saylor.org/?redirect=0
 
 Online-tools-for-dev\
 https://extendsclass.com/
@@ -735,10 +965,24 @@ System design\
 https://systemdesign.one/
 
 Design Pattern\
-https://refactoring.guru/design-patterns/, http://mcdonaldland.info/2007/11/28/40/, https://cs.cmu.edu/~charlie/courses/15-214/2016-spring/slides/24%20-%20All%20the%20GoF%20Patterns.pdf, https://patterns.dev/
+https://refactoring.guru/design-patterns/, 
+http://mcdonaldland.info/2007/11/28/40/, 
+https://cs.cmu.edu/~charlie/courses/15-214/2016-spring/slides/24%20-%20All%20the%20GoF%20Patterns.pdf, 
+https://patterns.dev/
 
 web3\
-app.stackup.dev, Learnweb3.io, cryptozombies.io, buildspace.so, questbookapp.xyz, nftschool.dev, remix.ethereum.org, ethernaut.openzeppelin.com,solanacookbook.com, useweb3.xyz, buildspace.io, https://useweb3.xyz/
+app.stackup.dev, 
+Learnweb3.io, 
+cryptozombies.io, 
+buildspace.so, 
+questbookapp.xyz, 
+nftschool.dev, 
+remix.ethereum.org, 
+ethernaut.openzeppelin.com,
+solanacookbook.com, 
+useweb3.xyz, 
+buildspace.io, 
+https://useweb3.xyz/
 
 create-markdown\
 https://pandao.github.io/editor.md/en.html
@@ -750,19 +994,26 @@ documenting\
 https://bookstackapp.com/
 
 learn-about-the-web\
-https://howhttps.works/, https://howdns.works/
+https://howhttps.works/, 
+https://howdns.works/
 
 game-in-web\
 https://donitz.itch.io/
 
 Deploy Website\
-[render](https://render.com/), [heroku](https://heroku.com/), [netlify](https://netlify.com/), [vercel](https://vercel.com/), [surge sh](https://surge.sh/), https://railway.app/, https://cloudflare.com/
+[render](https://render.com/), 
+[heroku](https://heroku.com/), 
+[netlify](https://netlify.com/), 
+[vercel](https://vercel.com/), 
+[surge sh](https://surge.sh/), 
+https://railway.app/, 
+https://cloudflare.com/
 
 algorithmic-art\
 https://ventrella.com/
 
 Git\
-[most frequently ask](https://firstaidgit.io/#/)\
+[most frequently ask](https://firstaidgit.io/#/)
 https://conventionalcommits.org/en/v1.0.0/
 
 Linux\
@@ -795,13 +1046,18 @@ metatags\
 https://metatags.io/
 
 checklist\
-https://frontendchecklist.io/, https://checklist.design/, https://designsystemchecklist.com/
+https://frontendchecklist.io/, 
+https://checklist.design/, 
+https://designsystemchecklist.com/
 
 HTML\
-https://htmlcheatsheet.com/, https://w3.org/TR/2011/WD-html5-20110525/content-models.html, https://htmldog.com/
+https://htmlcheatsheet.com/, 
+https://w3.org/TR/2011/WD-html5-20110525/content-models.html, 
+https://htmldog.com/
 
 web-background\
-https://webgradients.com/, https://bgjar.com/
+https://webgradients.com/, 
+https://bgjar.com/
 
 https://webdevelopermentor.com/challenges/notifications-menu
 
@@ -825,21 +1081,30 @@ Component\
 https://uiplaybook.dev/
 
 Website Accessibility\
-https://a11y-101.com/
+https://a11y-101.com/,
 https://developer.mozilla.org/en-US/docs/Web/Accessibility
 
 Back-end\
 API\
-publicapis, https://directus.io/, https://opentdb.com/
+publicapis, 
+https://directus.io/, 
+https://opentdb.com/
 
 test-api\
-https://jsonplaceholder.typicode.com/, https://pie.dev/, https://dummyjson.com/
+https://jsonplaceholder.typicode.com/, 
+https://pie.dev/, 
+https://dummyjson.com/
 
 https://regexr.com/
 
 Other\
 ultimate-resource\
-[https://devresourc.es/,](https://devresourc.es/) [designresourc.es](http://designresourc.es/), [smalldev.tools](https://smalldev.tools/), [omatsuri.app](https://omatsuri.app/), [https://tiny-helpers.dev/](https://tiny-helpers.dev/), https://devtooly.com/
+[https://devresourc.es/,](https://devresourc.es/),
+[designresourc.es](http://designresourc.es/), 
+[smalldev.tools](https://smalldev.tools/), 
+[omatsuri.app](https://omatsuri.app/), 
+[https://tiny-helpers.dev/](https://tiny-helpers.dev/), 
+https://devtooly.com/
 
 ultimate-learn\
 [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
@@ -851,13 +1116,36 @@ usage\
 [https://uses.tech/](https://uses.tech/)
 
 documentation\
-[overapi.com](http://overapi.com/), [devdocs.io](http://devdocs.io/), [devhints.io](http://devhints.io/), [https://ihateregex.io/](https://ihateregex.io/), [https://explainshell.com/](https://explainshell.com/)
+[overapi.com](http://overapi.com/), 
+[devdocs.io](http://devdocs.io/), 
+[devhints.io](http://devhints.io/), 
+[https://ihateregex.io/](https://ihateregex.io/), 
+[https://explainshell.com/](https://explainshell.com/)
 
 Learn-by-games\
-codingame, coregame, [codecombat.com](http://codecombat.com/), [education.minecraft.net](http://education.minecraft.net/), [tynker.com](http://tynker.com/), [checkio.org](http://checkio.org/), jsrobot, robocode, checkio, codingame, jsdares, codecombat, flexboxfroggy, cssdiner, elevatorsaga, crunchzilla, sql murder mystery, warriorjs, [https://codewars.com/dashboard](https://codewars.com/dashboard)
+codingame, 
+coregame, 
+[codecombat.com](http://codecombat.com/), 
+[education.minecraft.net](http://education.minecraft.net/), 
+[tynker.com](http://tynker.com/), 
+[checkio.org](http://checkio.org/), 
+jsrobot, 
+robocode, 
+checkio, 
+codingame, 
+jsdares, 
+codecombat, 
+flexboxfroggy, 
+cssdiner, 
+elevatorsaga, 
+crunchzilla, 
+sql murder mystery, 
+warriorjs, 
+[https://codewars.com/dashboard](https://codewars.com/dashboard)
 
 reference\
-[https://mobbin.design/browse/android/apps](https://mobbin.design/browse/android/apps), [https://stackshare.io/stacks](https://stackshare.io/stacks)
+[https://mobbin.design/browse/android/apps](https://mobbin.design/browse/android/apps), 
+[https://stackshare.io/stacks](https://stackshare.io/stacks)
 
 socialSearchEngine\
 [https://social-searcher.com/](https://social-searcher.com/)
@@ -872,7 +1160,8 @@ learn-math\
 [https://projecteuler.net/](https://projecteuler.net/)
 
 git\
-[https://learngitbranching.js.org/,](https://learngitbranching.js.org/) [https://readme.so/id](https://readme.so/id)
+[https://learngitbranching.js.org/,](https://learngitbranching.js.org/),
+[https://readme.so/id](https://readme.so/id)
 
 git\
 Ohshitgit
@@ -881,19 +1170,27 @@ Web_tools\
 hiddentools.dev
 
 Understanding-frontend\
-Thisvsthat.dev, webcomponents.org https://uses.tech/
+Thisvsthat.dev, 
+webcomponents.org https://uses.tech/
 
 Tentang_shell\
 explainshell.com Documentation
 
 Improve_web\
-caniuse.com, devhints.io, Bundlephobia.com
+caniuse.com, 
+devhints.io, 
+Bundlephobia.com
 
 Tes_website\
-caniuse.com, builtwith.com, pagespeedinsights, https://nibbler.silktide.com/
+caniuse.com, 
+builtwith.com, 
+pagespeedinsights, 
+https://nibbler.silktide.com/
 
 Inspiration\
-siteinspire, designresourc.es, https://saasframe.io/
+siteinspire, 
+designresourc.es, 
+https://saasframe.io/
 
 Web_sama\
 similarsites.com
