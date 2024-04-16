@@ -547,10 +547,6 @@ https://tabler-icons.io/
 Motiongraphics\
 lottiefiles
 
-palet-warna\
-https://happyhues.co/, 
-https://colors.dopely.top/
-
 VIDEO-EDITING\
 https://origami.design/, 
 descript
@@ -722,24 +718,6 @@ openpeeps.com,
 pixeltrue.com, 
 storyset.com, 
 undraw.co
-
-Warna\
-khroma, 
-mycolor.space, 
-colorhuntco, 
-color.adobe, 
-coolorsco, 
-swiss style color picker, 
-apptunix, 
-whocanuse, 
-contrastchecker, 
-uicolors, 
-colorscafe, 
-colorsevadesign,
-
-Gradient\
-meshgradient, 
-cssgradient.io,
 
 Motiongraphics\
 lottiefiles
@@ -1441,6 +1419,28 @@ Skeletal Animation\
 
 Cool\
 Trippy edit
+
+Warna\
+khroma, 
+mycolor.space, 
+colorhuntco, 
+color.adobe, 
+coolorsco, 
+swiss style color picker, 
+apptunix, 
+whocanuse, 
+contrastchecker, 
+uicolors, 
+colorscafe, 
+colorsevadesign,
+
+Gradient\
+meshgradient, 
+cssgradient.io,
+
+palet-warna\
+https://happyhues.co/, 
+https://colors.dopely.top/
 
 # GRAPHICAL THIRD DIMENSIONAL
 
