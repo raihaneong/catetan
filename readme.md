@@ -135,29 +135,41 @@ https://flukeout.github.io/,
 http://flexboxdefense.com/,
 https://cssgridgarden.com/#id
 
-CSS-ultimate = [https://angrytools.com/](https://angrytools.com/)
+CSS-ultimate\
+[https://angrytools.com/](https://angrytools.com/)
 
-CSS-play = [https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://flexboxdefense.com/](http://flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
+CSS-play\
+[https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), [https://flukeout.github.io/](https://flukeout.github.io/), [https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), [http://flexboxdefense.com/](http://flexboxdefense.com/), [https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
 
-CSS-tips = [https://moderncss.dev/](https://moderncss.dev/)
+CSS-tips\
+[https://moderncss.dev/](https://moderncss.dev/)
 
-CSS-cubic-bezier = [easings.net](https://easings.net/)
+CSS-cubic-bezier\
+[easings.net](https://easings.net/)
 
-CSS-pixel = [https://pixelartcss.com/](https://pixelartcss.com/)
+CSS-pixel\
+[https://pixelartcss.com/](https://pixelartcss.com/)
 
-CSS-animation = [https://animista.net/](https://animista.net/), [https://animate.style/](https://animate.style/), [https://keyframes.app/](https://keyframes.app/), [https://minimamente.com/project/magic/](https://minimamente.com/project/magic/), [https://whirl.netlify.app/](https://whirl.netlify.app/), [https://loading.io](https://loading.io/)
+CSS-animation\
+[https://animista.net/](https://animista.net/), [https://animate.style/](https://animate.style/), [https://keyframes.app/](https://keyframes.app/), [https://minimamente.com/project/magic/](https://minimamente.com/project/magic/), [https://whirl.netlify.app/](https://whirl.netlify.app/), [https://loading.io](https://loading.io/)
 
-CSS-bem = [https://9elements.com/bem-cheat-sheet/](https://9elements.com/bem-cheat-sheet/)
+CSS-bem\
+[https://9elements.com/bem-cheat-sheet/](https://9elements.com/bem-cheat-sheet/)
 
-CSS-challenge = [https://cssbattle.dev/](https://cssbattle.dev/), [https://100dayscss.com/](https://100dayscss.com/), [https://codewars.com/dashboard](https://codewars.com/dashboard)
+CSS-challenge\
+[https://cssbattle.dev/](https://cssbattle.dev/), [https://100dayscss.com/](https://100dayscss.com/), [https://codewars.com/dashboard](https://codewars.com/dashboard)
 
-CSS-grid = [https://layoutit.com/cn](https://layoutit.com/cn), [https://griddy.io/](https://griddy.io/), [https://cssgr.id/](https://cssgr.id/), [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/), [https://gridbyexample.com/](https://gridbyexample.com/)
+CSS-grid\
+[https://layoutit.com/cn](https://layoutit.com/cn), [https://griddy.io/](https://griddy.io/), [https://cssgr.id/](https://cssgr.id/), [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/), [https://gridbyexample.com/](https://gridbyexample.com/)
 
-CSS-flexbox = [https://loading.io/flexbox/](https://loading.io/flexbox/)
+CSS-flexbox\
+[https://loading.io/flexbox/](https://loading.io/flexbox/)
 
-CSS-layout-pattern = [https://csslayout.io/](https://csslayout.io/)
+CSS-layout-pattern\
+[https://csslayout.io/](https://csslayout.io/)
 
-CSS-generator-shadow = [https://shadows.brumm.af/](https://shadows.brumm.af/)
+CSS-generator-shadow\
+[https://shadows.brumm.af/](https://shadows.brumm.af/)
 
 https://github.com/IanLunn/Hover/blob/master/css/hover.css,
 https://grid.malven.co/,
@@ -283,17 +295,23 @@ https://theme.numl.design/
 Blob\
 https://blobmaker.app/
 
-Animation_CSS= easings.net
+Animation_CSS\
+easings.net
 
-CSS= css-tricks, cssbattle, flexboxfroggy, cssdiner, bemcheatsheet, cssdiner, rupl-unfold, cssgridgarden, flexboxdefense, victordarras-cssgame, cssfiltergenerator, kerframeapp, Animateresource, whirlnetlify, minimamente, jonsuh-hamburger, animate.style, ianlunn-hover, greensock-gsap, zurb-motionui
+CSS\
+css-tricks, cssbattle, flexboxfroggy, cssdiner, bemcheatsheet, cssdiner, rupl-unfold, cssgridgarden, flexboxdefense, victordarras-cssgame, cssfiltergenerator, kerframeapp, Animateresource, whirlnetlify, minimamente, jonsuh-hamburger, animate.style, ianlunn-hover, greensock-gsap, zurb-motionui
 
-CSS_layout= gridlayoutit, csslayout.io, griddy.io, purecsslayouts, CSSgridgenerator, loadingioflexbox, cssgr.id, gridbyexample,
+CSS_layout\
+gridlayoutit, csslayout.io, griddy.io, purecsslayouts, CSSgridgenerator, loadingioflexbox, cssgr.id, gridbyexample,
 
-Cssbackground= https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com
+Cssbackground\
+https://dragdropsite.github.io/waterpipe.js/ Bgjar.com webgradients.com
 
-CSSpixel= https://pixelartcss.com/
+CSSpixel\
+https://pixelartcss.com/
 
-HTML CSS generator= webcode.tools, tridiv.com
+HTML CSS generator\
+webcode.tools, tridiv.com
 
 javascript audio library\
 https://howlerjs.com/
@@ -305,9 +323,11 @@ https://javascriptquiz.com/
 
 https://learnxinyminutes.com/docs/javascript/
 
-JS-utility = https://1loc.dev/
+JS-utility\
+https://1loc.dev/
 
-JS-learn = https://javascript.info/
+JS-learn\
+https://javascript.info/
 
 https://jsv9000.app/
 
@@ -321,9 +341,11 @@ https://javascript30.com/
 
 https://jstherightway.org/
 
-JavaScript= https://1loc.dev/ https://javascripting.com/?sort=rating https://learnxinyminutes.com/docs/javascript/
+JavaScript\
+https://1loc.dev/ https://javascripting.com/?sort=rating https://learnxinyminutes.com/docs/javascript/
 
-JavaScript_libraries= fullpagejs, animejs, threejs, screenfulljs, leafletjs, popperjs
+JavaScript_libraries\
+fullpagejs, animejs, threejs, screenfulljs, leafletjs, popperjs
 
 # C++
 
@@ -341,19 +363,24 @@ faunadb
 
 dbdesigner
 
-Database-manager-platform = Harperdb.io
+Database-manager-platform\
+Harperdb.io
 
-Postgresql-database-Course = https://online.umich.edu/series/postgresql-for-everybody/
+Postgresql-database-Course\
+https://online.umich.edu/series/postgresql-for-everybody/
 
-sqlite = https://sqlitetutorial.net/sqlite-nodejs/
+sqlite\
+https://sqlitetutorial.net/sqlite-nodejs/
 
 # DATA STRUCTURE and ALGORITHM
 
 [leetcode](https://leetcode.com/problemset/all/), [hackerrank](https://hackerrank.com), [codewars](https://codewars.com/), [algo monster](https://algo.monster/), [neetcode](https://neetcode.io/), [exercism](https://exercism.org), [kaggle data science](https://kaggle.com/), [advent of code](https://adventofcode.com/)
 
-Visualization-data-structure-and-algorithm = Visualgo.net, https://algorithm-visualizer.org/, https://toptal.com/developers/sorting-algorithms
+Visualization-data-structure-and-algorithm\
+Visualgo.net, https://algorithm-visualizer.org/, https://toptal.com/developers/sorting-algorithms
 
-leet-code-guide = https://techinterviewhandbook.org/grind75
+leet-code-guide\
+https://techinterviewhandbook.org/grind75
 
 https://geeksforgeeks.org/data-structures/
 
@@ -378,21 +405,29 @@ https://cs.usfca.edu/~galles/visualization/Algorithms.html
 music creation\
 https://thirtydollar.website/, https://specy.github.io/genshinMusic/#/, https://onlinesequencer.net/, https://mubert.com/
 
-asset-music= https://mixkit.co/
+asset-music\
+https://mixkit.co/
 
-Make_music= onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocalremoverorg, http://lalal.ai/,
+Make_music\
+onlinesequencer, http://mubert.com/, https://samplefocus.com/, vocalremoverorg, http://lalal.ai/,
 
-asset-music= https://mixkit.co/
+asset-music\
+https://mixkit.co/
 
-Background= coolbackground.io, transparenttexture, heropatterns, https://svgbackgrounds.com/ https://gradienta.io/ https://visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
+Background\
+coolbackground.io, transparenttexture, heropatterns, https://svgbackgrounds.com/ https://gradienta.io/ https://visiwig.com/patterns/ https://patternpad.com/ https://bgjar.com/ https://pattern.monster
 
-image_to_text = https://text-image.com/convert/
+image_to_text\
+https://text-image.com/convert/
 
-image_to_geometric_primitive = https://geometrize.co.uk/
+image_to_geometric_primitive\
+https://geometrize.co.uk/
 
-animated-drawing = https://sketch.metademolab.com/
+animated-drawing\
+https://sketch.metademolab.com/
 
-create art: https://creator.nightcafe.studio/
+create art\
+https://creator.nightcafe.studio/
 
 Maps\
 https://pictogon.com/
@@ -403,71 +438,104 @@ https://patternpad.com/
 AI Drawing\
 [autodraw](https://autodraw.com/)
 
-asset-video= http://coverr.co/
+asset-video\
+http://coverr.co/
 
-Abstract = Tool.graphics
+Abstract\
+Tool.graphics
 
-Apus_objek= theinpaint, removebg, Nvidia inpainting
+Apus_objek\
+theinpaint, removebg, Nvidia inpainting
 
-Edit_video_online= http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
+Edit_video_online\
+http://veed.io/, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
 
-Icon = https://tablericons.com/, https://tabler-icons.io/
+Icon\
+https://tablericons.com/, https://tabler-icons.io/
 
-Motiongraphics= lottiefiles
+Motiongraphics\
+lottiefiles
 
-palet-warna = https://happyhues.co/, https://colors.dopely.top/
+palet-warna\
+https://happyhues.co/, https://colors.dopely.top/
 
-VIDEO-EDITING = https://origami.design/, descript
+VIDEO-EDITING\
+https://origami.design/, descript
 
-Edit_video_online= veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
+Edit_video_online\
+veed.io, davinciresolve, makewebvideo, natron, jittervideo, unscreen, goanimate, animatron, inshot
 
-asset-video= coverr.co
+asset-video\
+coverr.co
 
-auto_gambar= https://autodraw.com/
+auto_gambar\
+https://autodraw.com/
 
-Fileconverter= cloudconvert.com
+Fileconverter\
+cloudconvert.com
 
-Inspiration = designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, mobbin.design
+Inspiration\
+designinspiration.com, Behance, pinterest, dribbble, muz.li, savee.it , metmuseum, namelix, uigarage, unreaddesign, mobbin.design
 
-Mockup= Mockupphone, shotsnapp, mockvideo, vecteezy, rotato.xyz, thing.morflax.com, artboartstudio, mockupbro, devicesshots, previewedapp, threedio, smartmockups, screenly, mockups-design, free-mockup, graphicburger, mockupworld, graphberry, freepik, ls.graphics, mckups, placeit.net, pixeden, mockuuups.studio, mockup.ceacle.com, medialoot, freebiesbug, cssauthor, unblast, rawpixel,
+Mockup\
+Mockupphone, shotsnapp, mockvideo, vecteezy, rotato.xyz, thing.morflax.com, artboartstudio, mockupbro, devicesshots, previewedapp, threedio, smartmockups, screenly, mockups-design, free-mockup, graphicburger, mockupworld, graphberry, freepik, ls.graphics, mckups, placeit.net, pixeden, mockuuups.studio, mockup.ceacle.com, medialoot, freebiesbug, cssauthor, unblast, rawpixel,
 
-Convert_vector= Vectorizerio
+Convert_vector\
+Vectorizerio
 
-Fontpair= fontjoy, fontpair.co
+Fontpair\
+fontjoy, fontpair.co
 
-Font-view = https://type-scale.com/, https://wordmark.it/, https://fontbrief.com/
+Font-view\
+https://type-scale.com/, https://wordmark.it/, https://fontbrief.com/
 
-Font= metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
+Font\
+metaflop, fontgoogle, fontspace, pairingfont, fontshare, fontesk, fontinuse, https://type-scale.com/
 
-Gambar_organ_tubuh= Servier medical art
+Gambar_organ_tubuh\
+Servier medical art
 
-Iklan_produk= breakoutclips
+Iklan_produk\
+breakoutclips
 
-Packing= qualita_company
+Packing\
+qualita_company
 
-Pixel= https://pixelartcss.com/
+Pixel\
+https://pixelartcss.com/
 
-Foto/vid= Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8, Isoflat, rawpixel, amritpaldesign, appitgdigital, isometriclove, Freepik, vecteezy, handzdesign, pixabay,isoflat, graphicburger, pixeden
+Foto/vid\
+Drawkit, svggator, humaaans, undraw, unsplash, pixabay, pexels, icons8, Isoflat, rawpixel, amritpaldesign, appitgdigital, isometriclove, Freepik, vecteezy, handzdesign, pixabay,isoflat, graphicburger, pixeden
 
-Icon= nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlineicons.com, iconscout.com, animaticons, akaricons, thenounproject, https://iconfinder.com/, https://systemuicons.com/, iconsaxio, lordicon, , Iconstore, iconfinder, streamlineicon, lordicon, remixicon, appitgdigital, ikonate, fontawesome.
+Icon\
+nucleoapp.com, feathericons.com, icons8, ui8.net/category/icons, streamlineicons.com, iconscout.com, animaticons, akaricons, thenounproject, https://iconfinder.com/, https://systemuicons.com/, iconsaxio, lordicon, , Iconstore, iconfinder, streamlineicon, lordicon, remixicon, appitgdigital, ikonate, fontawesome.
 
-PNG= Pngpix , favpng, Subpng, pngtree, cleanpng.
+PNG\
+Pngpix , favpng, Subpng, pngtree, cleanpng.
 
-Illustrations= drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/, blush.design, drawkit.io, humaaans.com, icons8.com, iconscout.com, illustrations.co, iradesign.io, isometric .nline, manypixels.co, openpeeps.com, pixeltrue.com, storyset.com, undraw.co
+Illustrations\
+drawkit, opendoodle, blushdesign, illustation, opendoodles, pixeltrue, undraw, humaaans, skribl, Sketchvalley, ls-graphics, storytale.io error, manipixels.co, https://themeisle.com/illustrations/, blush.design, drawkit.io, humaaans.com, icons8.com, iconscout.com, illustrations.co, iradesign.io, isometric .nline, manypixels.co, openpeeps.com, pixeltrue.com, storyset.com, undraw.co
 
-Warna= khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
+Warna\
+khroma, mycolor.space, colorhuntco, color.adobe, coolorsco, swiss style color picker, apptunix, whocanuse, contrastchecker, uicolors, colorscafe, colorsevadesign,
 
-Gradient= meshgradient, cssgradient.io,
+Gradient\
+meshgradient, cssgradient.io,
 
-Motiongraphics= lottiefiles
+Motiongraphics\
+lottiefiles
 
-Edit_foto= fotor, photopea
+Edit_foto\
+fotor, photopea
 
-Apus_objek= theinpaint, removebg, Nvidia inpainting
+Apus_objek\
+theinpaint, removebg, Nvidia inpainting
 
-Photo_tracking= pixsy
+Photo_tracking\
+pixsy
 
-Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
+Text-to-Speech\
+https://notevibes.com/, https://fakeyou.com/
 
 # TOOLS
 
@@ -528,10 +596,11 @@ https://desmos.com/
 links to learn things\
 https://tutorialspoint.com/index.htm, https://web.dev/learn/, https://rapidapi.com/learn, https://apisecuniversity.com/, https://coursesidekick.com/study-guides, https://ocw.mit.edu/, https://roadmap.sh/
 
-chrome bookmarks:\
+chrome bookmarks\
 [mastodon-servers](https://joinmastodon.org/servers), https://w3.org/, https://a11y-101.com/, https://freebsd.org/, https://springframework.guru/gang-of-four-design-patterns/, https://systemdesign.one/categories/, https://survey.devographics.com/en-US, https://learncpp.com/, https://learn-js.org/, https://howtographql.com/, https://devhints.io/, https://gitconnected.com/learn, https://roadmap.sh/, https://codewars.com/, https://blog.bytebytego.com/p/algorithms-you-should-know-before, https://neetcode.io/practice, https://osn.toki.id/, https://hackerrank.com/, https://codeforces.com/, https://algorithm-visualizer.org/backtracking/hamiltonean-cycles, https://visualgo.net/en, https://summarize.tech/, https://bard.google.com/chat?hl=en, https://phind.com/, https://threejs.org/docs/, https://discoverthreejs.com/, https://en.threejs-university.com/category/learn-threejs/, https://threejs.org/, https://theatrejs.com/, https://gsap.com/, https://github.com/pmndrs/drei, https://docs.pmnd.rs/react-three-fiber/getting-started/introduction, https://pixijs.com/, https://p5js.org/, https://framer.com/motion/, https://doc.babylonjs.com/, https://discourse.threejs.org/, https://cgsociety.org/, https://polycount.com/forum, https://blenderartists.org/, https://blendernation.com/, https://blender.community, https://zbrushcentral.com/, https://artstation.com/?sort_by=community&dimension=all, https://forum.highend3d.com/, https://geeksforgeeks.org/community/?ref=leftbarm https://learn.mongodb.com/learning-paths/introduction-to-mongodbm, https://learn.saylor.org/?redirect=0
 
-Online-tools-for-dev = https://extendsclass.com/
+Online-tools-for-dev\
+https://extendsclass.com/
 
 VR\
 https://immersiveweb.dev/
@@ -571,22 +640,29 @@ https://systemdesign.one/
 Design Pattern\
 https://refactoring.guru/design-patterns/, http://mcdonaldland.info/2007/11/28/40/, https://cs.cmu.edu/~charlie/courses/15-214/2016-spring/slides/24%20-%20All%20the%20GoF%20Patterns.pdf, https://patterns.dev/
 
-web3: app.stackup.dev, Learnweb3.io, cryptozombies.io, buildspace.so, questbookapp.xyz, nftschool.dev, remix.ethereum.org, ethernaut.openzeppelin.com,solanacookbook.com, useweb3.xyz, buildspace.io, https://useweb3.xyz/
+web3\
+app.stackup.dev, Learnweb3.io, cryptozombies.io, buildspace.so, questbookapp.xyz, nftschool.dev, remix.ethereum.org, ethernaut.openzeppelin.com,solanacookbook.com, useweb3.xyz, buildspace.io, https://useweb3.xyz/
 
-create-markdown = https://pandao.github.io/editor.md/en.html
+create-markdown\
+https://pandao.github.io/editor.md/en.html
 
-Programming-logic = https://circuitverse.org/simulator
+Programming-logic\
+https://circuitverse.org/simulator
 
-documenting = https://bookstackapp.com/
+documenting\
+https://bookstackapp.com/
 
-learn-about-the-web = https://howhttps.works/, https://howdns.works/
+learn-about-the-web\
+https://howhttps.works/, https://howdns.works/
 
-game-in-web = https://donitz.itch.io/
+game-in-web\
+https://donitz.itch.io/
 
 Deploy Website\
 [render](https://render.com/), [heroku](https://heroku.com/), [netlify](https://netlify.com/), [vercel](https://vercel.com/), [surge sh](https://surge.sh/), https://railway.app/, https://cloudflare.com/
 
-algorithmic-art = https://ventrella.com/
+algorithmic-art\
+https://ventrella.com/
 
 Git\
 [most frequently ask](https://firstaidgit.io/#/)\
@@ -612,17 +688,23 @@ https://cordova.apache.org/
 
 Front-end\
 
-create-frontEnd-fast = https://editorx.com/
+create-frontEnd-fast\
+https://editorx.com/
 
-Design-to-webapps = https://locofy.ai/
+Design-to-webapps\
+https://locofy.ai/
 
-metatags = https://metatags.io/
+metatags\
+https://metatags.io/
 
-checklist = https://frontendchecklist.io/, https://checklist.design/, https://designsystemchecklist.com/
+checklist\
+https://frontendchecklist.io/, https://checklist.design/, https://designsystemchecklist.com/
 
-HTML = https://htmlcheatsheet.com/, https://w3.org/TR/2011/WD-html5-20110525/content-models.html, https://htmldog.com/
+HTML\
+https://htmlcheatsheet.com/, https://w3.org/TR/2011/WD-html5-20110525/content-models.html, https://htmldog.com/
 
-web-background = https://webgradients.com/, https://bgjar.com/
+web-background\
+https://webgradients.com/, https://bgjar.com/
 
 https://webdevelopermentor.com/challenges/notifications-menu
 
@@ -630,11 +712,14 @@ https://spline.design/
 
 https://mantine.dev/
 
-react-libraries = https://reactlibraries.com/
+react-libraries\
+https://reactlibraries.com/
 
-typescript-hooks = https://usehooks-ts.com/
+typescript-hooks\
+https://usehooks-ts.com/
 
-html-canvas = https://playcanvas.com/
+html-canvas\
+https://playcanvas.com/
 
 pwa-example\
 [appscope](https://appsco.pe/)
@@ -647,108 +732,156 @@ https://a11y-101.com/
 https://developer.mozilla.org/en-US/docs/Web/Accessibility
 
 Back-end\
-API= publicapis, https://directus.io/, https://opentdb.com/
+API\
+publicapis, https://directus.io/, https://opentdb.com/
 
-test-api = https://jsonplaceholder.typicode.com/, https://pie.dev/, https://dummyjson.com/
+test-api\
+https://jsonplaceholder.typicode.com/, https://pie.dev/, https://dummyjson.com/
 
 https://regexr.com/
 
 Other\
-ultimate-resource = [https://devresourc.es/,](https://devresourc.es/) [designresourc.es](http://designresourc.es/), [smalldev.tools](https://smalldev.tools/), [omatsuri.app](https://omatsuri.app/), [https://tiny-helpers.dev/](https://tiny-helpers.dev/), https://devtooly.com/
+ultimate-resource\
+[https://devresourc.es/,](https://devresourc.es/) [designresourc.es](http://designresourc.es/), [smalldev.tools](https://smalldev.tools/), [omatsuri.app](https://omatsuri.app/), [https://tiny-helpers.dev/](https://tiny-helpers.dev/), https://devtooly.com/
 
-ultimate-learn = [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
+ultimate-learn\
+[https://learnxinyminutes.com/](https://learnxinyminutes.com/)
 
-readme = [https://readme.so/id/editor](https://readme.so/id/editor)
+readme\
+[https://readme.so/id/editor](https://readme.so/id/editor)
 
-usage = [https://uses.tech/](https://uses.tech/)
+usage\
+[https://uses.tech/](https://uses.tech/)
 
-documentation = [overapi.com](http://overapi.com/), [devdocs.io](http://devdocs.io/), [devhints.io](http://devhints.io/), [https://ihateregex.io/](https://ihateregex.io/), [https://explainshell.com/](https://explainshell.com/)
+documentation\
+[overapi.com](http://overapi.com/), [devdocs.io](http://devdocs.io/), [devhints.io](http://devhints.io/), [https://ihateregex.io/](https://ihateregex.io/), [https://explainshell.com/](https://explainshell.com/)
 
-Learn-by-games= codingame, coregame, [codecombat.com](http://codecombat.com/), [education.minecraft.net](http://education.minecraft.net/), [tynker.com](http://tynker.com/), [checkio.org](http://checkio.org/), jsrobot, robocode, checkio, codingame, jsdares, codecombat, flexboxfroggy, cssdiner, elevatorsaga, crunchzilla, sql murder mystery, warriorjs, [https://codewars.com/dashboard](https://codewars.com/dashboard)
+Learn-by-games\
+codingame, coregame, [codecombat.com](http://codecombat.com/), [education.minecraft.net](http://education.minecraft.net/), [tynker.com](http://tynker.com/), [checkio.org](http://checkio.org/), jsrobot, robocode, checkio, codingame, jsdares, codecombat, flexboxfroggy, cssdiner, elevatorsaga, crunchzilla, sql murder mystery, warriorjs, [https://codewars.com/dashboard](https://codewars.com/dashboard)
 
-reference = [https://mobbin.design/browse/android/apps](https://mobbin.design/browse/android/apps), [https://stackshare.io/stacks](https://stackshare.io/stacks)
+reference\
+[https://mobbin.design/browse/android/apps](https://mobbin.design/browse/android/apps), [https://stackshare.io/stacks](https://stackshare.io/stacks)
 
-socialSearchEngine = [https://social-searcher.com/](https://social-searcher.com/)
+socialSearchEngine\
+[https://social-searcher.com/](https://social-searcher.com/)
 
-whatsTheDifference = [https://thisthat.dev/](https://thisthat.dev/)
+whatsTheDifference\
+[https://thisthat.dev/](https://thisthat.dev/)
 
-screen-size = [screensizemap.com](https://screensizemap.com/)
+screen-size\
+[screensizemap.com](https://screensizemap.com/)
 
-learn-math = [https://projecteuler.net/](https://projecteuler.net/)
+learn-math\
+[https://projecteuler.net/](https://projecteuler.net/)
 
-git = [https://learngitbranching.js.org/,](https://learngitbranching.js.org/) [https://readme.so/id](https://readme.so/id)
+git\
+[https://learngitbranching.js.org/,](https://learngitbranching.js.org/) [https://readme.so/id](https://readme.so/id)
 
-git= Ohshitgit
+git\
+Ohshitgit
 
-Web_tools= hiddentools.dev
+Web_tools\
+hiddentools.dev
 
-Understanding-frontend= Thisvsthat.dev, webcomponents.org https://uses.tech/
+Understanding-frontend\
+Thisvsthat.dev, webcomponents.org https://uses.tech/
 
-Tentang_shell= explainshell.com Documentation
+Tentang_shell\
+explainshell.com Documentation
 
-Improve_web= caniuse.com, devhints.io, Bundlephobia.com
+Improve_web\
+caniuse.com, devhints.io, Bundlephobia.com
 
-Tes_website= caniuse.com, builtwith.com, pagespeedinsights, https://nibbler.silktide.com/
+Tes_website\
+caniuse.com, builtwith.com, pagespeedinsights, https://nibbler.silktide.com/
 
-Inspiration= siteinspire, designresourc.es, https://saasframe.io/
+Inspiration\
+siteinspire, designresourc.es, https://saasframe.io/
 
-Web_sama= similarsites.com
+Web_sama\
+similarsites.com
 
-Artificial intelligence= tensorflow
+Artificial intelligence\
+tensorflow
 
-API= publicapis, insomniarest.
+API\
+publicapis, insomniarest.
 
-Code_Game= codingame, coregame, codecombat.com, education.minecraft.net, tynker.com, checkio.org
+Code_Game\
+codingame, coregame, codecombat.com, education.minecraft.net, tynker.com, checkio.org
 
-Learncode_by_game= jdrobot, robocode, checkio, codingame, jsdares, codecombat, screeps, flexboxfroggy, cssdiner, untrustedjavascript, elevatorsaga, crunchzilla, sql murder mystery, warriorjs.
+Learncode_by_game\
+jdrobot, robocode, checkio, codingame, jsdares, codecombat, screeps, flexboxfroggy, cssdiner, untrustedjavascript, elevatorsaga, crunchzilla, sql murder mystery, warriorjs.
 
-Code_snippet= Carbon.now.sh, ray.so,
+Code_snippet\
+Carbon.now.sh, ray.so,
 
-Build_app= https://teta.so/, glideapps, bravoatudioapp, draftbit, animaapp, sketch2react
+Build_app\
+https://teta.so/, glideapps, bravoatudioapp, draftbit, animaapp, sketch2react
 
-Belajar_code= 100dayscss, top,geeksforgeeks, cssbattle, , frontend practice, codingchallenges, stylestage, frontend mentor, codewars, hackr.io, Code4startup.com
+Belajar_code\
+100dayscss, top,geeksforgeeks, cssbattle, , frontend practice, codingchallenges, stylestage, frontend mentor, codewars, hackr.io, Code4startup.com
 
-Bikin_web= graphite.space, Webflow, wix, wordpress, godaddy, weebly, typedream
+Bikin_web\
+graphite.space, Webflow, wix, wordpress, godaddy, weebly, typedream
 
-Trend= mobbindesign, Gtrend, audience insight, socialsearcher
+Trend\
+mobbindesign, Gtrend, audience insight, socialsearcher
 
-SEO_tools= semrush, googlesearchconsole, ubersuggest, Yoast, answerthepublic, gtmetrix, seoquake, metatags, dailypurposes, notjustanalytics, hashtagstacks, all-hashtag, ingramer,
+SEO_tools\
+semrush, googlesearchconsole, ubersuggest, Yoast, answerthepublic, gtmetrix, seoquake, metatags, dailypurposes, notjustanalytics, hashtagstacks, all-hashtag, ingramer,
 
-Tools= https://smalldev.tools/, https://omatsuri.app/
+Tools\
+https://smalldev.tools/, https://omatsuri.app/
 
-Responsive-Web= https://responsively.app/
+Responsive-Web\
+https://responsively.app/
 
-Frontend= Gitignoreio, frontendchecklistio
+Frontend\
+Gitignoreio, frontendchecklistio
 
-Naming= codeelf
+Naming\
+codeelf
 
-responsive_design= Screensizemap.com,
+responsive_design\
+Screensizemap.com,
 
-Website_template= nicepage, colorlib, freecss, tooplate, ostemplate
+Website_template\
+nicepage, colorlib, freecss, tooplate, ostemplate
 
-Learn= Thisvsthat, webcomponents.org,
+Learn\
+Thisvsthat, webcomponents.org,
 
-HTML= Htmldog, htmlcheatsheet.com, htmldom.dev https://w3.org/TR/2011/WD-html5-20110525/content-models.html
+HTML\
+Htmldog, htmlcheatsheet.com, htmldom.dev https://w3.org/TR/2011/WD-html5-20110525/content-models.html
 
-NPM= bundlephobia,
+NPM\
+bundlephobia,
 
-React_animation_demo= https://react-animations.herokuapp.com/
+React_animation_demo\
+https://react-animations.herokuapp.com/
 
-SVG= nucleo.app
+SVG\
+nucleo.app
 
-Websitecheck= downforeveryoneorjustme.com
+Websitecheck\
+downforeveryoneorjustme.com
 
-SQL-API= https://directus.io/
+SQL-API\
+https://directus.io/
 
 https://learngitbranching.js.org/
 
 https://readme.so/id
 
-git= Ohshitgit
+git\
+Ohshitgit
 
-Tes= enrollapp, usertesting
+Tes\
+enrollapp, usertesting
 
-Texteditor/ide= replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle, jsbin, vscode.dev
+Texteditor/ide\
+replit, codepen, w3schooltryit, codesandbox, playcode, jsfiddle, jsbin, vscode.dev
 
 # VISUAL INTERACTIVITY and INTERFACE DESIGN
 
