@@ -1082,23 +1082,23 @@ documentation\
     https://explainshell.com/
 
 Learn-by-games\
-https://www.codingame.com/, 
-https://www.coregames.com/, 
+    https://www.codingame.com/, 
+    https://www.coregames.com/, 
     http://codecombat.com/, 
     http://education.minecraft.net/, 
     http://tynker.com/, 
     http://checkio.org/, 
-https://lab.reaal.me/jsrobot/, 
-https://checkio.org/, 
-https://robocode.sourceforge.io/, 
-https://jsdares.com/, 
-https://codecombat.com/, 
-https://flexboxfroggy.com/, 
-https://flukeout.github.io/, 
-https://play.elevatorsaga.com/, 
-https://mystery.knightlab.com/, 
-https://www.crunchzilla.com/, 
-https://warriorjs.com/, 
+    https://lab.reaal.me/jsrobot/, 
+    https://checkio.org/, 
+    https://robocode.sourceforge.io/, 
+    https://jsdares.com/, 
+    https://codecombat.com/, 
+    https://flexboxfroggy.com/, 
+    https://flukeout.github.io/, 
+    https://play.elevatorsaga.com/, 
+    https://mystery.knightlab.com/, 
+    https://www.crunchzilla.com/, 
+    https://warriorjs.com/, 
     https://codewars.com/dashboard
 
 reference\
