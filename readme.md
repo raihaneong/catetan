@@ -1517,7 +1517,8 @@ Referencing (include journal and article)\
 [inspire high energy physics](https://inspirehep.net/), 
 [ieee explore](https://ieeexplore.ieee.org/Xplore/home.jsp), 
 [scientific electronic library online](https://scielo.org/), 
-[ssrn](https://ssrn.com/), [ebsco](https://www.ebsco.com/)
+[ssrn](https://ssrn.com/), 
+[ebsco](https://www.ebsco.com/)
 
 Buku\
 [perpusnas e-resources](https://e-resources.perpusnas.go.id/), 
