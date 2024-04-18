@@ -139,52 +139,52 @@ CSS-ultimate\
 https://angrytools.com/
 
 CSS-play\
-[https://cssgridgarden.com/#id](https://cssgridgarden.com/#id), 
-[https://flukeout.github.io/](https://flukeout.github.io/), 
-[https://flexboxfroggy.com/#id](https://flexboxfroggy.com/#id), 
-[http://flexboxdefense.com/](http://flexboxdefense.com/), 
-[https://mastery.games/flexboxzombies/](https://mastery.games/flexboxzombies/)
+(https://cssgridgarden.com/#id), 
+(https://flukeout.github.io/), 
+(https://flexboxfroggy.com/#id), 
+(http://flexboxdefense.com/), 
+(https://mastery.games/flexboxzombies/)
 
 CSS-tips\
-[https://moderncss.dev/](https://moderncss.dev/)
+(https://moderncss.dev/)
 
 CSS-cubic-bezier\
-[easings.net](https://easings.net/)
+(https://easings.net/)
 
 CSS-pixel\
-[https://pixelartcss.com/](https://pixelartcss.com/)
+(https://pixelartcss.com/)
 
 CSS-animation\
-[https://animista.net/](https://animista.net/), 
-[https://animate.style/](https://animate.style/), 
-[https://keyframes.app/](https://keyframes.app/), 
-[https://minimamente.com/project/magic/](https://minimamente.com/project/magic/), 
-[https://whirl.netlify.app/](https://whirl.netlify.app/), 
-[https://loading.io](https://loading.io/)
+(https://animista.net/), 
+(https://animate.style/), 
+(https://keyframes.app/), 
+(https://minimamente.com/project/magic/), 
+(https://whirl.netlify.app/), 
+(https://loading.io/)
 
 CSS-bem\
-[https://9elements.com/bem-cheat-sheet/](https://9elements.com/bem-cheat-sheet/)
+(https://9elements.com/bem-cheat-sheet/)
 
 CSS-challenge\
-[https://cssbattle.dev/](https://cssbattle.dev/), 
-[https://100dayscss.com/](https://100dayscss.com/), 
-[https://codewars.com/dashboard](https://codewars.com/dashboard)
+(https://cssbattle.dev/), 
+(https://100dayscss.com/), 
+(https://codewars.com/dashboard)
 
 CSS-grid\
-[https://layoutit.com/cn](https://layoutit.com/cn), 
-[https://griddy.io/](https://griddy.io/), 
-[https://cssgr.id/](https://cssgr.id/), 
-[https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/), 
-[https://gridbyexample.com/](https://gridbyexample.com/)
+(https://layoutit.com/cn), 
+(https://griddy.io/), 
+(https://cssgr.id/), 
+(https://cssgrid-generator.netlify.app/), 
+(https://gridbyexample.com/)
 
 CSS-flexbox\
-[https://loading.io/flexbox/](https://loading.io/flexbox/)
+(https://loading.io/flexbox/)
 
 CSS-layout-pattern\
-[https://csslayout.io/](https://csslayout.io/)
+(https://csslayout.io/)
 
 CSS-generator-shadow\
-[https://shadows.brumm.af/](https://shadows.brumm.af/)
+(https://shadows.brumm.af/)
 
 https://github.com/IanLunn/Hover/blob/master/css/hover.css,
 https://grid.malven.co/,
@@ -430,14 +430,14 @@ https://sqlitetutorial.net/sqlite-nodejs/
 
 # DATA STRUCTURE and ALGORITHM
 
-[leetcode](https://leetcode.com/problemset/all/), 
-[hackerrank](https://hackerrank.com), 
-[codewars](https://codewars.com/), 
-[algo monster](https://algo.monster/), 
-[neetcode](https://neetcode.io/), 
-[exercism](https://exercism.org), 
-[kaggle data science](https://kaggle.com/), 
-[advent of code](https://adventofcode.com/)
+(https://leetcode.com/problemset/all/), 
+(https://hackerrank.com), 
+(https://codewars.com/), 
+(https://algo.monster/), 
+(https://neetcode.io/), 
+(https://exercism.org), 
+(https://kaggle.com/), 
+(https://adventofcode.com/)
 
 Visualization-data-structure-and-algorithm\
 Visualgo.net, 
@@ -516,7 +516,7 @@ Pattern\
 https://patternpad.com/
 
 AI Drawing\
-[autodraw](https://autodraw.com/)
+(https://autodraw.com/)
 
 asset-video\
 http://coverr.co/
@@ -812,13 +812,13 @@ https://m3.material.io/,
 https://beercss.com/
 
 creative programming\
-[p5js](https://p5js.org/), 
-[tinkersynth](https://tinkersynth.com/), 
-[shadertoy](https://shadertoy.com/), 
-[openprocessing](https://openprocessing.org/), 
-[processing](https://processing.org/), 
-[touchdesigner](https://derivative.ca/), 
-[google experiments](https://experiments.withgoogle.com/collections)
+(https://p5js.org/), 
+(https://tinkersynth.com/), 
+(https://shadertoy.com/), 
+(https://openprocessing.org/), 
+(https://processing.org/), 
+(https://derivative.ca/), 
+(https://experiments.withgoogle.com/collections)
 
 information archive\
 https://archive.org/, 
@@ -846,7 +846,7 @@ https://ocw.mit.edu/,
 https://roadmap.sh/
 
 chrome bookmarks\
-[mastodon-servers](https://joinmastodon.org/servers), 
+(https://joinmastodon.org/servers), 
 https://w3.org/, 
 https://a11y-101.com/, 
 https://freebsd.org/, 
@@ -970,11 +970,11 @@ game-in-web\
 https://donitz.itch.io/
 
 Deploy Website\
-[render](https://render.com/), 
-[heroku](https://heroku.com/), 
-[netlify](https://netlify.com/), 
-[vercel](https://vercel.com/), 
-[surge sh](https://surge.sh/), 
+(https://render.com/), 
+(https://heroku.com/), 
+(https://netlify.com/), 
+(https://vercel.com/), 
+(https://surge.sh/), 
 https://railway.app/, 
 https://cloudflare.com/
 
@@ -982,23 +982,23 @@ algorithmic-art\
 https://ventrella.com/
 
 Git\
-[most frequently ask](https://firstaidgit.io/#/)
+(https://firstaidgit.io/#/)
 https://conventionalcommits.org/en/v1.0.0/
 
 Linux\
-[learn linux survival](https://linuxsurvival.com/)
+(https://linuxsurvival.com/)
 
 Museum\
 https://kapwing.com/museum-of-websites
 
 Open-Source\
-[notification infrastucture](https://novu.co/)
+(https://novu.co/)
 
 Tools\
 https://landingpage.fyi/
 
 Typing\
-[ztype](https://zty.pe/)
+(https://zty.pe/)
 
 Mobile\
 https://cordova.apache.org/
@@ -1044,7 +1044,7 @@ html-canvas\
 https://playcanvas.com/
 
 pwa-example\
-[appscope](https://appsco.pe/)
+(https://appsco.pe/)
 
 Component\
 https://uiplaybook.dev/
@@ -1068,36 +1068,36 @@ https://regexr.com/
 
 Other\
 ultimate-resource\
-[https://devresourc.es/,](https://devresourc.es/),
-[designresourc.es](http://designresourc.es/), 
-[smalldev.tools](https://smalldev.tools/), 
-[omatsuri.app](https://omatsuri.app/), 
-[https://tiny-helpers.dev/](https://tiny-helpers.dev/), 
+(https://devresourc.es/),
+(http://designresourc.es/), 
+(https://smalldev.tools/), 
+(https://omatsuri.app/), 
+(https://tiny-helpers.dev/), 
 https://devtooly.com/
 
 ultimate-learn\
-[https://learnxinyminutes.com/](https://learnxinyminutes.com/)
+(https://learnxinyminutes.com/)
 
 readme\
-[https://readme.so/id/editor](https://readme.so/id/editor)
+(https://readme.so/id/editor)
 
 usage\
-[https://uses.tech/](https://uses.tech/)
+(https://uses.tech/)
 
 documentation\
-[overapi.com](http://overapi.com/), 
-[devdocs.io](http://devdocs.io/), 
-[devhints.io](http://devhints.io/), 
-[https://ihateregex.io/](https://ihateregex.io/), 
-[https://explainshell.com/](https://explainshell.com/)
+(http://overapi.com/), 
+(http://devdocs.io/), 
+(http://devhints.io/), 
+(https://ihateregex.io/), 
+(https://explainshell.com/)
 
 Learn-by-games\
 codingame, 
 coregame, 
-[codecombat.com](http://codecombat.com/), 
-[education.minecraft.net](http://education.minecraft.net/), 
-[tynker.com](http://tynker.com/), 
-[checkio.org](http://checkio.org/), 
+(http://codecombat.com/), 
+(http://education.minecraft.net/), 
+(http://tynker.com/), 
+(http://checkio.org/), 
 jsrobot, 
 robocode, 
 checkio, 
@@ -1109,27 +1109,27 @@ elevatorsaga,
 crunchzilla, 
 sql murder mystery, 
 warriorjs, 
-[https://codewars.com/dashboard](https://codewars.com/dashboard)
+(https://codewars.com/dashboard)
 
 reference\
-[https://mobbin.design/browse/android/apps](https://mobbin.design/browse/android/apps), 
-[https://stackshare.io/stacks](https://stackshare.io/stacks)
+(https://mobbin.design/browse/android/apps), 
+(https://stackshare.io/stacks)
 
 socialSearchEngine\
-[https://social-searcher.com/](https://social-searcher.com/)
+(https://social-searcher.com/)
 
 whatsTheDifference\
-[https://thisthat.dev/](https://thisthat.dev/)
+(https://thisthat.dev/)
 
 screen-size\
-[screensizemap.com](https://screensizemap.com/)
+(https://screensizemap.com/)
 
 learn-math\
-[https://projecteuler.net/](https://projecteuler.net/)
+(https://projecteuler.net/)
 
 git\
-[https://learngitbranching.js.org/,](https://learngitbranching.js.org/),
-[https://readme.so/id](https://readme.so/id)
+(https://learngitbranching.js.org/),
+(https://readme.so/id)
 
 git\
 Ohshitgit
@@ -1297,58 +1297,61 @@ vscode.dev
 # VISUAL INTERACTIVITY and INTERFACE DESIGN
 
 Visual Design\
-[design system repo](https://designsystemsrepo.com/), 
-[atlasian design](https://atlassian.design/), 
-[material design](https://material.io/), 
-[primer style](https://primer.style/), 
-[spectrum adobe](https://spectrum.adobe.com/), 
-[Microsoft fluent design system](https://microsoft.com/design/fluent/), 
-[human interface guidlines by apple](https://developer.apple.com/design/human-interface-guidelines/), 
-[carbon design system by ibm](https://carbondesignsystem.com/), 
-[salesforce lightning design system](https://lightningdesignsystem.com/)
+(https://designsystemsrepo.com/), 
+(https://atlassian.design/), 
+(https://material.io/), 
+(https://primer.style/), 
+(https://spectrum.adobe.com/), 
+(https://microsoft.com/design/fluent/), 
+(https://developer.apple.com/design/human-interface-guidelines/), 
+(https://carbondesignsystem.com/), 
+(https://lightningdesignsystem.com/)
 
 Design System\
-[google material design](https://m3.material.io/), 
-[Apple human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/platforms/overview), 
-[atlasian design system](https://atlassian.design/), 
-[pajamas gitlab design system](https://design.gitlab.com/), 
-[firefox photon design system](https://design.firefox.com/photon/), 
-[mailchimp patter library](https://ux.mailchimp.com/patterns/color), 
-[uniform hudl design](http://uniform.hudltools.com/), 
-[thumbprint design system](https://thumbprint.design/), 
-[rizzo lonely planet](https://adele.uxpin.com/lonely-planet-rizzo), 
-[carbon design system](https://carbondesignsystem.com/), 
-[stackoverflow design](https://stackoverflow.design/), 
-[audi user interface](https://audi.com/ci/en/guides/user-interface/introduction.html), 
-[bbc GEL](https://bbc.co.uk/gel/guidelines), 
-[hubspot canvas design system](https://canvas.hubspot.com/), 
-[ant design](https://ant.design/), 
-[polaris shopify](https://polaris.shopify.com/), 
-[grommet](https://v2.grommet.io/), 
-[marvelapp styleguide](https://marvelapp.com/styleguide/overview/introduction), 
-[garden zendesk](https://garden.zendesk.com/), 
-[salesforce ligthning design sytem](https://lightningdesignsystem.com/), 
-[uber base web](https://baseweb.design/), 
-[gojek ashpalt aloha](https://asphalt.gojek.io/), 
-[orbit kiwi](https://orbit.kiwi/), 
-[microsoft fluent UI](https://developer.microsoft.com/en-us/fluentui#/), [patternfly](https://patternfly.org/v4/), 
-[pega constellation](https://design.pega.com/), 
-[gold australia design system](https://gold.designsystemau.org/), 
-[mozilla protocol](https://protocol.mozilla.org/), 
-[intuit quickbooks](https://designsystem.quickbooks.com/), 
-[workday canvas](https://canvas.workday.com/), 
-[yelp cookbook](https://yelp.com/styleguide), 
-[airbnb visual language](https://airbnb.design/building-a-visual-language/), [spectrum adobe](https://spectrum.adobe.com/), 
-[lexicon liferay design](https://liferay.design/lexicon/), 
-[microsoft fluent](https://microsoft.com/design/fluent/), 
-[solid buzzfeed](https://solid.buzzfeed.com/), 
-[mongodb ui design](https://mongodb.design/#/ui-design-system/welcome), 
-[mixpanel design](https://design.mixpanel.com/), 
-[solar bulb design](https://design.bulb.co.uk/), 
-[oracle alta UI](https://oracle.com/webfolder/ux/middleware/alta/index.html), [latitude flexport design](https://flexport.com/design), 
-[sap fiori design](https://experience.sap.com/fiori-design-web/), 
-[evergreen segment design](https://evergreen.segment.com/), 
-[clarity design](https://clarity.design/)
+(https://m3.material.io/), 
+(https://developer.apple.com/design/human-interface-guidelines/platforms/overview), 
+(https://atlassian.design/), 
+(https://design.gitlab.com/), 
+(https://design.firefox.com/photon/), 
+(https://ux.mailchimp.com/patterns/color), 
+(http://uniform.hudltools.com/), 
+(https://thumbprint.design/), 
+(https://adele.uxpin.com/lonely-planet-rizzo), 
+(https://carbondesignsystem.com/), 
+(https://stackoverflow.design/), 
+(https://audi.com/ci/en/guides/user-interface/introduction.html), 
+(https://bbc.co.uk/gel/guidelines), 
+(https://canvas.hubspot.com/), 
+(https://ant.design/), 
+(https://polaris.shopify.com/), 
+(https://v2.grommet.io/), 
+(https://marvelapp.com/styleguide/overview/introduction), 
+(https://garden.zendesk.com/), 
+(https://lightningdesignsystem.com/), 
+(https://baseweb.design/), 
+(https://asphalt.gojek.io/), 
+(https://orbit.kiwi/), 
+(https://developer.microsoft.com/en-us/fluentui#/), 
+(https://patternfly.org/v4/), 
+(https://design.pega.com/), 
+(https://gold.designsystemau.org/), 
+(https://protocol.mozilla.org/), 
+(https://designsystem.quickbooks.com/), 
+(https://canvas.workday.com/), 
+(https://yelp.com/styleguide), 
+(https://airbnb.design/building-a-visual-language/), 
+(https://spectrum.adobe.com/), 
+(https://liferay.design/lexicon/), 
+(https://microsoft.com/design/fluent/), 
+(https://solid.buzzfeed.com/), 
+(https://mongodb.design/#/ui-design-system/welcome), 
+(https://design.mixpanel.com/), 
+(https://design.bulb.co.uk/), 
+(https://oracle.com/webfolder/ux/middleware/alta/index.html), 
+(https://flexport.com/design), 
+(https://experience.sap.com/fiori-design-web/), 
+(https://evergreen.segment.com/), 
+(https://clarity.design/)
 
 Design Style\
 synthwave, 
@@ -1356,19 +1359,19 @@ vaporwave,
 trippy
 
 Principles\
-[design principles](https://principles.design/)
+(https://principles.design/)
 
 Logo Generator\
-[logology](https://logology.co/), 
-[tailorbrands](https://tailorbrands.com/logo-maker), 
-[artify](https://artify.co/), 
-[shopify](https://shopify.com/tools/logo-maker)
+(https://logology.co/), 
+(https://tailorbrands.com/logo-maker), 
+(https://artify.co/), 
+(https://shopify.com/tools/logo-maker)
 
 Illustration 2D\
-[sketchvalley](https://sketchvalley.com/)
+(https://sketchvalley.com/)
 
 Illustration 3D\
-[shapefest](https://shapefest.com/)
+(https://shapefest.com/)
 
 3D website development
 
@@ -1412,7 +1415,7 @@ https://uxtools.co/
 
 assets\
 Skeletal Animation\
-[dragonbone](https://docs.egret.com/dragonbones/en/)
+(https://docs.egret.com/dragonbones/en/)
 
 Cool\
 Trippy edit
@@ -1477,11 +1480,11 @@ https://iquilezles.org/,
 http://dev.thi.ng/gradients/
 
 3D\
-[spline](https://spline.design/), 
-[p3d](https://p3d.in/), 
-[sketchfab](https://sketchfab.com/), 
-[cannonjs](http://cannonjs.org/), 
-[draco](https://google.github.io/draco/)
+(https://spline.design/), 
+(https://p3d.in/), 
+(https://sketchfab.com/), 
+(http://cannonjs.org/), 
+(https://google.github.io/draco/)
 
 Shading language\
 GLSL, HLSL
@@ -1489,58 +1492,60 @@ GLSL, HLSL
 # ACADEMIC
 
 Profile\
-[Pangkalan Data Pendidikan Tinggi](https://pddikti.kemdikbud.go.id/)
+(https://pddikti.kemdikbud.go.id/)
 
 Survey\
-[Self service survey](https://info.populix.co/en/poplite-en/)
+(https://info.populix.co/en/poplite-en/)
 
 Referencing (include journal and article)\
-[Mendeley](https://mendeley.com/),
-[connected papers in a visual graph](https://connectedpapers.com/), 
-[world's historical newspaper archive](https://elephind.com/), 
-[Citationsy](https://citationsy.com/), 
-[OAI Identifier](https://oai.core.ac.uk/), 
-[Ministry of Religious Affairs Reference kemenag](https://moraref.kemenag.go.id/), [science direct](https://sciencedirect.com/), 
-[scopus](https://scopus.com/sources), 
-[indonesian scientific journal database](http://isjd.pdii.lipi.go.id/), 
-[Internet Archive Journal](https://archive.org/details/journals), 
-[google schoolar](https://scholar.google.com/), 
-[garuda kemdikbud](https://garuda.kemdikbud.go.id/), 
-[sinta kemdikbud](https://sinta.kemdikbud.go.id/journals), 
-[moraref kemenag](https://moraref.kemenag.go.id/archives/journal), 
-[International Organization of Scientific Research](https://iosrjournals.org/), [Directory of Open Access Journals](https://doaj.org/), 
-[JSTOR](https://jstor.org/), 
-[high-quality images from anywhere](https://jstor.org/site/artstor/), 
-[institute of education sciences](https://eric.ed.gov/), 
-[institution of mechancal engineer](https://archives.imeche.org/), 
-[national library of medicine](https://pubmed.ncbi.nlm.nih.gov/), 
-[inspire high energy physics](https://inspirehep.net/), 
-[ieee explore](https://ieeexplore.ieee.org/Xplore/home.jsp), 
-[scientific electronic library online](https://scielo.org/), 
-[ssrn](https://ssrn.com/), 
-[ebsco](https://www.ebsco.com/)
+(https://mendeley.com/),
+(https://connectedpapers.com/), 
+(https://elephind.com/), 
+(https://citationsy.com/), 
+(https://oai.core.ac.uk/), 
+(https://moraref.kemenag.go.id/), 
+(https://sciencedirect.com/), 
+(https://scopus.com/sources), 
+(http://isjd.pdii.lipi.go.id/), 
+(https://archive.org/details/journals), 
+(https://scholar.google.com/), 
+(https://garuda.kemdikbud.go.id/), 
+(https://sinta.kemdikbud.go.id/journals), 
+(https://moraref.kemenag.go.id/archives/journal), 
+(https://iosrjournals.org/), 
+(https://doaj.org/), 
+(https://jstor.org/), 
+(https://jstor.org/site/artstor/), 
+(https://eric.ed.gov/), 
+(https://archives.imeche.org/), 
+(https://pubmed.ncbi.nlm.nih.gov/), 
+(https://inspirehep.net/), 
+(https://ieeexplore.ieee.org/Xplore/home.jsp), 
+(https://scielo.org/), 
+(https://ssrn.com/), 
+(https://www.ebsco.com/)
 
 Buku\
-[perpusnas e-resources](https://e-resources.perpusnas.go.id/), 
-[pdfdrive](https://pdfdrive.com/)
+(https://e-resources.perpusnas.go.id/), 
+(https://pdfdrive.com/)
 
 Bibliography\
-[publish or perish](https://harzing.com/resources/publish-or-perish), 
-[mendeley referencing manager](https://mendeley.com/reference-management/reference-manager)
+(https://harzing.com/resources/publish-or-perish), 
+(https://mendeley.com/reference-management/reference-manager)
 
 Paraphrase\
-[shortlyai](https://shortlyai.com/), 
-[rytrme](https://rytr.me/), 
-[speedwrite](https://speedwrite.com/), 
-[hyperwriteai](https://hyperwriteai.com/), 
-[wordtune](https://wordtune.com/)
+(https://shortlyai.com/), 
+(https://rytr.me/), 
+(https://speedwrite.com/), 
+(https://hyperwriteai.com/), 
+(https://wordtune.com/)
 
 International Phonetic Alphabet Translator\
-[phonetizer](https://phonetizer.com/ui), 
-[tophonetics](https://tophonetics.com/)
+(https://phonetizer.com/ui), 
+(https://tophonetics.com/)
 
 Text to Handwriting\
-[jnckmedia](https://jnckmedia.com/nulis/)
+(https://jnckmedia.com/nulis/)
 
 # JOB
 
@@ -1550,11 +1555,11 @@ https://aksel.co.id,
 https://standardresume.co/
 
 Interview\
-[30secondsofinterviews](https://30secondsofinterviews.org/), 
-[64-interview-questions](https://soulsearch.files.wordpress.com/2007/05/64interviewquestions1.pdf)
+(https://30secondsofinterviews.org/), 
+(https://soulsearch.files.wordpress.com/2007/05/64interviewquestions1.pdf)
 
 Oversea\
-[Relocation and Visa Sponsorship Jobs across the world](https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0)
+(https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0)
 
 ---
 
