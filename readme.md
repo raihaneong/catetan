@@ -356,6 +356,22 @@ https://pixelartcss.com/
 HTML CSS generator\
 webcode.tools, tridiv.com
 
+javscript library\ 
+howlerjs
+react dnd kit
+d3js
+react native
+react-three-drei
+react-three-fiber
+playcanvas
+threejs
+pixijs
+gsap
+theatrejs
+babylonjs
+colyseus
+ammojs
+
 javascript audio library\
 https://howlerjs.com/
 
