@@ -374,6 +374,7 @@ theatrejs
 babylonjs
 colyseus
 ammojs
+https://kaboomjs.com/
 
 javascript audio library\
 https://howlerjs.com/
