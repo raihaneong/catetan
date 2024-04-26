@@ -646,6 +646,7 @@ fontshare,
 fontesk, 
 fontinuse, 
 https://type-scale.com/
+https://www.typewolf.com/
 
 Gambar_organ_tubuh\
 Servier medical art
