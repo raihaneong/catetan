@@ -1391,6 +1391,12 @@ Logo Generator\
     https://artify.co/, 
     https://shopify.com/tools/logo-maker
 
+pattern generator\
+https://haikei.app/
+https://tabbied.com/
+https://www.magicpattern.design/
+https://patternkid.com/
+
 Illustration 2D\
     https://sketchvalley.com/
 
