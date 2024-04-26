@@ -126,6 +126,9 @@ https://hackr.io/,
 https://egghead.io/,
 https://scrimba.com/allcourses?price=free
 
+literature\
+https://www.theredhandfiles.com/
+
 # GENERAL LINKS
 
 # CSS and JAVASCRIPT
