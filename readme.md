@@ -1381,10 +1381,10 @@ https://m3.material.io/,
 https://beercss.com/
 
 art visual style\
-synthwave, 
-vaporwave, 
-trippy,
-Spam glitch effect
+    synthwave, 
+    vaporwave, 
+    trippy,
+    Spam glitch effect
 
 Principles\
     https://principles.design/
