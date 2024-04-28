@@ -1383,7 +1383,8 @@ https://beercss.com/
 art visual style\
 synthwave, 
 vaporwave, 
-trippy
+trippy,
+Spam glitch effect
 
 Principles\
     https://principles.design/
