@@ -922,6 +922,7 @@ https://immersiveweb.dev/
 
 AI\
 https://civitai.com/
+https://www.supermeme.ai/
 
 animation\
 https://rive.app/
