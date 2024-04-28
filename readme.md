@@ -1380,7 +1380,7 @@ https://developer.apple.com/design/,
 https://m3.material.io/, 
 https://beercss.com/
 
-Design Style\
+art visual style\
 synthwave, 
 vaporwave, 
 trippy
