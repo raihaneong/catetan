@@ -1611,7 +1611,7 @@ Database and Server
 Data Structure and Algorithm
 Audio, Image, and Video
 Visual and Interactivity 
-Graphical Third Dimensional Computerization
+Graphical Third Dimensional
 Tools
 
 ---
