@@ -129,6 +129,14 @@ https://scrimba.com/allcourses?price=free
 literature\
 https://www.theredhandfiles.com/
 
+Technical report\
+    https://www.sussex.ac.uk/ei/internal/forstudents/engineeringdesign/studyguides/techreportwriting,
+    https://templatelab.com/technical-reports/,
+    https://highways.dot.gov/research/resources/research-library/technical-report-documentation-page,
+    https://students.unimelb.edu.au/academic-skills/resources/reading,-writing-and-referencing/reports/technical-reports,
+    https://blog.bit.ai/technical-report/,
+    https://bit.ai/templates/api-documentation-template
+
 # GENERAL LINKS
 
 # CSS and JAVASCRIPT
