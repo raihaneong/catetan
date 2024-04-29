@@ -1541,6 +1541,9 @@ https://folk.computer/
 Forum\
 https://darkdove.proboards.com/
 
+guide documentation\
+    https://thebookofshaders.com/
+
 # ACADEMIC
 
 Profile\
