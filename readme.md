@@ -804,6 +804,7 @@ http://dictation.io/,
 https://beatoven.ai/, 
 https://craiyon.com/, 
 https://wombo.art/
+https://www.getlazy.ai/
 
 internet\
 https://he.net/, 
