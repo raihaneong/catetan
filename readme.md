@@ -1639,3 +1639,147 @@ Graphical Third Dimensional
 Tools
 
 ---
+
+
+cover letter & cv
+kickresume
+zety
+resumeworded
+cakeresume
+canva
+resumeio
+
+job offers
+jobstreet
+kalibrr id
+indeed
+linkedin
+glints
+techinasia
+
+wfh job offers
+remotive
+flexjobs
+epicareer
+justremote
+dailyremote
+hired
+
+freelance job
+sribu
+upwork
+guru
+projects co id
+fastwork id
+fiverr
+
+portfolio
+journaportolio
+carbonmade
+dribble
+coroflot
+behance net
+clippings
+
+portfolio
+fakeclient
+seoreviewttools
+projectpro
+fakeclient
+uxchallenge
+Kaggle
+goodbrief io
+
+skills certificate
+skillacademy
+facebookblueprint
+futurelearn
+coursera org
+alison
+academy hubspot
+
+language
+langaroo
+duolingo
+vocabulary
+5minuteenglish
+englishpage
+
+mock interview
+skillana
+pramp
+interviewing
+preplaced in
+interviewbuddy in
+exponent
+
+interview tips
+mockquestions
+bestjobinterview
+edureka co
+biginterview
+prepfully
+
+software engineering
+
+Netflix TechBlog
+
+Uber Blog
+
+Cloudflare Blog
+
+Engineering at Meta
+
+LinkedIn Engineering
+
+Discord Blog
+
+AWS Architecture
+
+Slack Engineering
+
+Stripe Blog
+
+HHHHHHHHHHHHHHHHHHHHHHH
+
+website development
+
+HHHHHHHHHHHHHHHHHHHHHHH
+
+[freedns.com/](http://freedns.com/) - A directory of known free dynamic DNS services
+
+[freedns.afraid.org/](http://freedns.afraid.org/) - Free DNS Hosting, Dynamic DNS Hosting, Static DNS Hosting, subdomain and domain hosting.
+
+[changeip.com/dns/](http://changeip.com/dns/) - Free Dynamic DNS Hosting
+
+[noip.com/](http://noip.com/) - Create an easy to remember hostname and never lose your connection again.
+
+HHHHHHHHHHHHHHHHHHHHHH server
+
+[caddyserver.com/](http://caddyserver.com/) - makes your sites more secure, more reliable, and more scalable than any other solution
+
+crackmes.one
+
+[Kodepos.nomor.net](http://kodepos.nomor.net/)
+
+[pocketbase.io](https://pocketbase.io/) - Open Source backend in 1 file
+
+[fly.io](https://fly.io/) - Scalable Full Stack Without the Cortisol
+
+[ml5js](https://ml5js.org/) - Friendly Machine Learning for the Web
+
+https://fmhy.net/
+
+security
+
+https://www.hackerone.com/
+
+article
+
+https://paulgraham.com/articles.html
+
+portfolio
+
+https://scottdraves.com/splash
+
+https://katharinabrunner.de/
