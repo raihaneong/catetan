@@ -1778,8 +1778,3 @@ article
 
 https://paulgraham.com/articles.html
 
-portfolio
-
-https://scottdraves.com/splash
-
-https://katharinabrunner.de/
