@@ -1,4 +1,5 @@
-> title(category > group > resource)
+(category)
+(link) - (desc)
 
 # UNCATEGORIZED
 
