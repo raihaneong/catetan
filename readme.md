@@ -1,7 +1,6 @@
 (category)
 (link) - (desc)
 
-# UNCATEGORIZED
 
 http://info.cern.ch/,
 https://rfc-editor.org/,
@@ -138,9 +137,6 @@ Technical report\
     https://blog.bit.ai/technical-report/,
     https://bit.ai/templates/api-documentation-template
 
-# GENERAL LINKS
-
-# CSS and JAVASCRIPT
 
 https://cssbattle.dev/,
 https://flukeout.github.io/,
@@ -434,13 +430,11 @@ popperjs
 JavaScript keycode\
     https://www.toptal.com/developers/keycode
 
-# LOW LEVEL LANGUAGE
 
 C++\
 
 Assembly\
 
-# DATABASE and SERVER
 
 SQL and data science problems\
 https://datalemur.com/
@@ -466,7 +460,6 @@ https://online.umich.edu/series/postgresql-for-everybody/
 sqlite\
 https://sqlitetutorial.net/sqlite-nodejs/
 
-# DATA STRUCTURE and ALGORITHM
 
     https://leetcode.com/problemset/all/, 
     https://hackerrank.com, 
@@ -504,7 +497,6 @@ https://algs4.cs.princeton.edu/home/
 data structure and alogrithm\
 https://cs.usfca.edu/~galles/visualization/Algorithms.html
 
-# AUDIO, IMAGE, and VIDEO
 
 music creation\
 https://thirtydollar.website/, 
@@ -775,7 +767,6 @@ Text-to-Speech\
 https://notevibes.com/, 
 https://fakeyou.com/
 
-# TOOLS
 
 IoT\
 https://wokwi.com/
@@ -1331,7 +1322,6 @@ jsfiddle,
 jsbin, 
 vscode.dev
 
-# VISUAL INTERACTIVITY and INTERFACE DESIGN
 
 Visual Design\
     https://designsystemsrepo.com/, 
@@ -1496,7 +1486,6 @@ palet-warna\
 https://happyhues.co/, 
 https://colors.dopely.top/
 
-# GRAPHICAL THIRD DIMENSIONAL
 
 latest information website provider\
 https://gpuopen.com/
@@ -1552,7 +1541,6 @@ https://darkdove.proboards.com/
 guide documentation\
     https://thebookofshaders.com/
 
-# ACADEMIC
 
 Profile\
     https://pddikti.kemdikbud.go.id/
@@ -1610,7 +1598,6 @@ International Phonetic Alphabet Translator\
 Text to Handwriting\
     https://jnckmedia.com/nulis/
 
-# JOB
 
 Resume/cv\
 https://resume.io/app, 
