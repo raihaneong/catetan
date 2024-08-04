@@ -125,75 +125,44 @@ https://web.dev/,
 https://hackr.io/,
 https://egghead.io/,
 https://scrimba.com/allcourses?price=free
-
-literature\
 https://www.theredhandfiles.com/
-
-Technical report\
-    https://www.sussex.ac.uk/ei/internal/forstudents/engineeringdesign/studyguides/techreportwriting,
-    https://templatelab.com/technical-reports/,
-    https://highways.dot.gov/research/resources/research-library/technical-report-documentation-page,
-    https://students.unimelb.edu.au/academic-skills/resources/reading,-writing-and-referencing/reports/technical-reports,
-    https://blog.bit.ai/technical-report/,
-    https://bit.ai/templates/api-documentation-template
-
-
+https://www.sussex.ac.uk/ei/internal/forstudents/engineeringdesign/studyguides/techreportwriting,
+https://templatelab.com/technical-reports/,
+https://highways.dot.gov/research/resources/research-library/technical-report-documentation-page,
+https://students.unimelb.edu.au/academic-skills/resources/reading,-writing-and-referencing/reports/technical-reports,
+https://blog.bit.ai/technical-report/,
+https://bit.ai/templates/api-documentation-template
 https://cssbattle.dev/,
 https://flukeout.github.io/,
 http://flexboxdefense.com/,
 https://cssgridgarden.com/#id
-
-CSS-ultimate\
 https://angrytools.com/
-
-CSS-play\
-    https://cssgridgarden.com/#id, 
-    https://flukeout.github.io/, 
-    https://flexboxfroggy.com/#id, 
-    http://flexboxdefense.com/, 
-    https://mastery.games/flexboxzombies/
-
-CSS-tips\
-    https://moderncss.dev/
-
-CSS-cubic-bezier\
-    https://easings.net/
-
-CSS-pixel\
-    https://pixelartcss.com/
-
-CSS-animation\
-    https://animista.net/, 
-    https://animate.style/, 
-    https://keyframes.app/, 
-    https://minimamente.com/project/magic/, 
-    https://whirl.netlify.app/, 
-    https://loading.io/
-
-CSS-bem\
-    https://9elements.com/bem-cheat-sheet/
-
-CSS-challenge\
-    https://cssbattle.dev/, 
-    https://100dayscss.com/, 
-    https://codewars.com/dashboard
-
-CSS-grid\
-    https://layoutit.com/cn, 
-    https://griddy.io/, 
-    https://cssgr.id/, 
-    https://cssgrid-generator.netlify.app/, 
-    https://gridbyexample.com/
-
-CSS-flexbox\
-    https://loading.io/flexbox/
-
-CSS-layout-pattern\
-    https://csslayout.io/
-
-CSS-generator-shadow\
-    https://shadows.brumm.af/
-
+https://cssgridgarden.com/#id, 
+https://flukeout.github.io/, 
+https://flexboxfroggy.com/#id, 
+http://flexboxdefense.com/, 
+https://mastery.games/flexboxzombies/
+https://moderncss.dev/
+https://easings.net/
+https://pixelartcss.com/
+https://animista.net/, 
+https://animate.style/, 
+https://keyframes.app/, 
+https://minimamente.com/project/magic/, 
+https://whirl.netlify.app/, 
+https://loading.io/
+https://9elements.com/bem-cheat-sheet/
+https://cssbattle.dev/, 
+https://100dayscss.com/, 
+https://codewars.com/dashboard
+https://layoutit.com/cn, 
+https://griddy.io/, 
+https://cssgr.id/, 
+https://cssgrid-generator.netlify.app/, 
+https://gridbyexample.com/
+https://loading.io/flexbox/
+https://csslayout.io/
+https://shadows.brumm.af/
 https://github.com/IanLunn/Hover/blob/master/css/hover.css,
 https://grid.malven.co/,
 https://cssgrid-generator.netlify.app/,
@@ -217,75 +186,49 @@ https://waitanimate.wstone.uk/,
 https://animista.net/,
 https://animista.net/,
 https://transition.style/
-
-Background\
 http://patternify.com/,
 http://dragdropsite.github.io/waterpipe.js/,
 https://bgjar.com/,
 https://stripesgenerator.com/,
-
-Border\
 https://9elements.github.io/fancy-border-radius/,
 https://mdbootstrap.com/docs/standard/tools/design/fancy-border-radius/,
 https://codepen.io/amit_sheen/pen/xxZeyjO,
-
-Box-shadow\
 https://shadows.brumm.af/,
 https://htmlcssfreebies.com/box-shadow-generator-multiple/,
 https://cssbud.com/css-generator/css-box-shadow-generator/,
 https://getcssscan.com/css-box-shadow-examples,
 https://cssbud.com/css-generator/css-glow-generator/
-
-Button\
 https://cssbuttoncreator.com/,
 https://bestcssbuttongenerator.com/,
 https://css-tricks.com/examples/ButtonMaker/,
 https://getcssscan.com/css-buttons-examples,
 https://gradientbuttons.colorion.co/,
 https://markodenic.com/tools/buttons-generator/,
-
-Dividers\
 https://wweb.dev/resources/css-separator-generator/,
 https://shapedivider.app/,
 https://getwaves.io/
-
-Filters\
 https://cssfilters.co/,
 https://baseline.is/tools/css-photo-filters/,
 https://hero-generator.netlify.app/
-
-Gradients\
 https://cssgradient.io/,
 https://colorzilla.com/gradient-editor/,
 https://meshgradient.com/,
 https://gradientos.app/
-
-Layuots\
 https://layout.bradwoods.io/,
 https://the-echoplex.net/flexyboxes/,
 https://cssgrid-generator.netlify.app/,
 https://codepen.io/michellebarker/full/zYOMYWv,
 https://grid.layoutit.com/
-
-Palletes\
 https://coolors.co/
-
-Tools\
 https://omatsuri.app/,
 http://eky.hk/,
 https://doodlenerd.com/,
 https://cssportal.com/,
 https://cssbud.com/,
 https://10015.io/
-
-Typography\
 http://csstypeset.com/
-
-Underline\
 https://underline-generator.netlify.app/?ref=undesign,
 https://cssbud.com/css-generator/css-underline-generator/
-
-Generator\
 https://ui.glass/generator/,
 https://css.glass/,
 https://neumorphism.io/#e0e0e0,
@@ -295,33 +238,15 @@ https://3dbookcovergenerator.netlify.app/,
 https://jonsuh.com/hamburgers/,
 https://divtable.com/table-styler/,
 https://10015.io/tools/css-loader-generator
-
-Chart\
 https://chartscss.org/
-
-Loading\
 https://whirl.netlify.app/,
 https://loading.io/
-
-Color\
 https://codepen.io/TajShireen/pen/YzZmbep
-
-Accordion\
 https://accordionslider.com/
-
-Pixel\
 https://pixelartcss.com/
-
-Theme\
 https://theme.numl.design/
-
-Blob\
 https://blobmaker.app/
-
-Animation_CSS\
 easings.net
-
-CSS\
 css-tricks, 
 cssbattle, 
 flexboxfroggy, 
@@ -342,8 +267,6 @@ animate.style,
 ianlunn-hover, 
 greensock-gsap, 
 zurb-motionui
-
-CSS_layout\
 gridlayoutit, 
 csslayout.io, 
 griddy.io, 
@@ -352,22 +275,12 @@ CSSgridgenerator,
 loadingioflexbox, 
 cssgr.id, 
 gridbyexample,
-
-Cssbackground\
 https://dragdropsite.github.io/waterpipe.js/,
 Bgjar.com,
 webgradients.com
-
-CSSpixel\
 https://pixelartcss.com/
-
-HTML CSS generator\
 webcode.tools, tridiv.com
-
-publish\
 surgesh
-
-javscript library\ 
 howlerjs
 react dnd kit
 d3js
@@ -383,141 +296,75 @@ babylonjs
 colyseus
 ammojs
 https://kaboomjs.com/
-
-javascript audio library\
 https://howlerjs.com/
-
-javascript animation library\
 https://threejs.org/, 
 https://www.theatrejs.com/, 
 https://gsap.com/
-
 https://javascriptquiz.com/
-
 https://learnxinyminutes.com/docs/javascript/
-
-JS-utility\
 https://1loc.dev/
-
-JS-learn\
 https://javascript.info/
-
 https://jsv9000.app/
-
 https://javascript.info/
-
 https://javascripttutorial.net/
-
 https://learn-js.org/en/
-
 https://javascript30.com/
-
 https://jstherightway.org/
-
-JavaScript\
 https://1loc.dev/,
 https://javascripting.com/?sort=rating,
 https://learnxinyminutes.com/docs/javascript/
-
-JavaScript_libraries\
 fullpagejs, 
 animejs, 
 threejs, 
 screenfulljs, 
 leafletjs, 
 popperjs
-
-JavaScript keycode\
-    https://www.toptal.com/developers/keycode
-
-
-C++\
-
-Assembly\
-
-
-SQL and data science problems\
+https://www.toptal.com/developers/keycode
 https://datalemur.com/
-
 https://supabase.com/
-
 https://grafana.com/
-
 https://dynobird.com/
-
 https://drawsql.app/
-
 faunadb
-
 dbdesigner
-
 Database-manager-platform\
 Harperdb.io
-
-Postgresql-database-Course\
 https://online.umich.edu/series/postgresql-for-everybody/
-
-sqlite\
 https://sqlitetutorial.net/sqlite-nodejs/
-
-
-    https://leetcode.com/problemset/all/, 
-    https://hackerrank.com, 
-    https://codewars.com/, 
-    https://algo.monster/, 
-    https://neetcode.io/, 
-    https://exercism.org, 
-    https://kaggle.com/, 
-    https://adventofcode.com/
-
-Visualization-data-structure-and-algorithm\
+https://leetcode.com/problemset/all/, 
+https://hackerrank.com, 
+https://codewars.com/, 
+https://algo.monster/, 
+https://neetcode.io/, 
+https://exercism.org, 
+https://kaggle.com/, 
+https://adventofcode.com/
 Visualgo.net, 
 https://algorithm-visualizer.org/, 
 https://toptal.com/developers/sorting-algorithms
-
-leet-code-guide\
 https://techinterviewhandbook.org/grind75
-
 https://geeksforgeeks.org/data-structures/
-
 https://techinterviewhandbook.org/
-
-competitive programming\
 https://codeforces.com/
 https://cses.fi/book/
 https://ioinformatics.org/
 http://usaco.org/index.php
 https://earthshakira.github.io/a2oj-clientside/server/
 https://tlx.toki.id/
-
-data structure and algorithm dsa\
 https://bigocheatsheet.com/
 https://algs4.cs.princeton.edu/home/
-
-data structure and alogrithm\
 https://cs.usfca.edu/~galles/visualization/Algorithms.html
-
-
-music creation\
 https://thirtydollar.website/, 
 https://specy.github.io/genshinMusic/#/, 
 https://onlinesequencer.net/, 
 https://mubert.com/
-
-asset-music\
 https://mixkit.co/
-
-Make_music\
 onlinesequencer, 
 http://mubert.com/, 
 https://samplefocus.com/, 
 vocalremoverorg, 
 http://lalal.ai/,
-
-asset-music\
 https://mixkit.co/
-
-Background\
 coolbackground.io, 
 transparenttexture, 
 heropatterns, 
@@ -527,40 +374,18 @@ https://visiwig.com/patterns/,
 https://patternpad.com/,
 https://bgjar.com/,
 https://pattern.monster
-
-image_to_text\
 https://text-image.com/convert/
-
-image_to_geometric_primitive\
 https://geometrize.co.uk/
-
-animated-drawing\
 https://sketch.metademolab.com/
-
-create art\
 https://creator.nightcafe.studio/
-
-Maps\
 https://pictogon.com/
-
-Pattern\
 https://patternpad.com/
-
-AI Drawing\
-    https://autodraw.com/
-
-asset-video\
+https://autodraw.com/
 http://coverr.co/
-
-Abstract\
 Tool.graphics
-
-Apus_objek\
 theinpaint, 
 removebg, 
 Nvidia inpainting
-
-Edit_video_online\
 http://veed.io/, 
 davinciresolve, 
 makewebvideo, 
@@ -570,28 +395,14 @@ unscreen,
 goanimate, 
 animatron, 
 inshot
-
-Icon\
 https://tablericons.com/, 
 https://tabler-icons.io/
-
-Motiongraphics\
 lottiefiles
-
-VIDEO-EDITING\
 https://origami.design/, 
 descript
-
-asset-video\
 coverr.co
-
-auto_gambar\
 https://autodraw.com/
-
-Fileconverter\
 cloudconvert.com
-
-Inspiration\
 designinspiration.com, 
 Behance, 
 pinterest, 
@@ -603,8 +414,6 @@ namelix,
 uigarage, 
 unreaddesign, 
 mobbin.design
-
-Mockup\
 Mockupphone, 
 shotsnapp, 
 mockvideo, 
@@ -635,19 +444,11 @@ freebiesbug,
 cssauthor, 
 unblast, 
 rawpixel,
-
-Convert_vector\
 Vectorizerio
-
-Fontpair\
 fontjoy, fontpair.co
-
-Font-view\
 https://type-scale.com/, 
 https://wordmark.it/, 
 https://fontbrief.com/
-
-Font\
 metaflop, 
 fontgoogle, 
 fontspace,
@@ -657,20 +458,10 @@ fontesk,
 fontinuse, 
 https://type-scale.com/
 https://www.typewolf.com/
-
-Gambar_organ_tubuh\
 Servier medical art
-
-Iklan_produk\
 breakoutclips
-
-Packing\
 qualita_company
-
-Pixel\
 https://pixelartcss.com/
-
-Foto/vid\
 Drawkit, 
 svggator, 
 humaaans, 
@@ -691,8 +482,6 @@ pixabay,
 isoflat, 
 graphicburger, 
 pixeden
-
-Icon\
 nucleoapp.com, 
 feathericons.com, 
 icons8, 
@@ -714,15 +503,11 @@ remixicon,
 appitgdigital, 
 ikonate, 
 fontawesome.
-
-PNG\
 Pngpix, 
 favpng, 
 Subpng, 
 pngtree, 
 cleanpng.
-
-Illustrations\
 drawkit, 
 opendoodle, 
 blushdesign, 
@@ -750,43 +535,20 @@ openpeeps.com,
 pixeltrue.com, 
 storyset.com, 
 undraw.co
-
-Edit_foto\
 fotor, 
 photopea
-
-Apus_objek\
 theinpaint, 
 removebg, 
 Nvidia inpainting
-
-Photo_tracking\
 pixsy
-
-Text-to-Speech\
 https://notevibes.com/, 
 https://fakeyou.com/
-
-
-IoT\
 https://wokwi.com/
-
-Github badge\
 https://badgen.net/
-
-video transcriptor\
 https://anthiago.com/transcript/
-
-drawing\
 https://kleki.com/
-
-svg generator\
 https://haikei.app/
-
-svg editor\
 https://svgomg.net/
-
-artificial intelligence\
 https://beta.character.ai/, 
 https://chat.openai.com/, 
 https://uberduck.ai/, 
@@ -800,16 +562,10 @@ https://beatoven.ai/,
 https://craiyon.com/, 
 https://wombo.art/
 https://www.getlazy.ai/
-
-internet\
 https://he.net/, 
 https://getdeploying.com/
-
-software engineer\
 https://crackmes.one/, 
 https://hackthebox.com/
-
-fun website\
 emupedia, 
 weavesilk, 
 interland, 
@@ -824,14 +580,8 @@ https://localingual.com/,
 https://tjukanovt.github.io/notable-people, 
 https://radio.garden/
 https://radiooooo.com/
-
-shader language\
 https://thebookofshaders.com/
-
-documentation\
 https://fileformat.com/
-
-website design reference\
 https://darkmodedesign.com/, 
 https://awwwards.com/, 
 https://threejs.org/, 
@@ -839,33 +589,21 @@ https://stacksorted.com/buttons,
 https://refero.design/, 
 https://minimal.gallery/, 
 https://commarts.com/webpicks/
-
-creative programming\
-    https://p5js.org/, 
-    https://tinkersynth.com/, 
-    https://shadertoy.com/, 
-    https://openprocessing.org/, 
-    https://processing.org/, 
-    https://derivative.ca/, 
-    https://experiments.withgoogle.com/collections
-
-information archive\
+https://p5js.org/, 
+https://tinkersynth.com/, 
+https://shadertoy.com/, 
+https://openprocessing.org/, 
+https://processing.org/, 
+https://derivative.ca/, 
+https://experiments.withgoogle.com/collections
 https://archive.org/, 
 https://ghostarchive.org/, 
 https://archive.ph/, 
 https://arxiv.org/
-
-technical writing\
 https://stc.org/
 https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/index.html
-
-file hosting\
 https://qu.ax/
-
-math\
 https://desmos.com/
-
-links to learn things\
 https://tutorialspoint.com/index.htm, 
 https://web.dev/learn/, 
 https://rapidapi.com/learn, 
@@ -873,9 +611,7 @@ https://apisecuniversity.com/,
 https://coursesidekick.com/study-guides, 
 https://ocw.mit.edu/, 
 https://roadmap.sh/
-
-chrome bookmarks\
-    https://joinmastodon.org/servers, 
+https://joinmastodon.org/servers, 
 https://w3.org/, 
 https://a11y-101.com/, 
 https://freebsd.org/, 
@@ -923,50 +659,26 @@ https://forum.highend3d.com/,
 https://geeksforgeeks.org/community/?ref=leftbarm 
 https://learn.mongodb.com/learning-paths/introduction-to-mongodbm, 
 https://learn.saylor.org/?redirect=0
-
-Online-tools-for-dev\
 https://extendsclass.com/
-
-VR\
 https://immersiveweb.dev/
-
-AI\
 https://civitai.com/
 https://www.supermeme.ai/
-
-animation\
 https://rive.app/
-
-tools\
 https://tsdocs.dev/
-
-book\
 https://freecomputerbooks.com/
 https://gutenberg.org/
 https://online-literature.com/
 https://manybooks.net/
 https://ppld.org/recommended-websites/read-print
-
-binary\
 https://binvis.io/#/
-
-audio\
 https://samplefocus.com/
-
-frontend\
 https://freefrontend.com/
-
-book\
 https://edu.anarcho-copy.org/Programming%20Languages/
 https://goalkicker.com/
-
-Design Pattern\
 https://refactoring.guru/design-patterns/, 
 http://mcdonaldland.info/2007/11/28/40/, 
 https://cs.cmu.edu/~charlie/courses/15-214/2016-spring/slides/24%20-%20All%20the%20GoF%20Patterns.pdf, 
 https://patterns.dev/
-
-web3\
 app.stackup.dev, 
 Learnweb3.io, 
 cryptozombies.io, 
@@ -979,237 +691,123 @@ solanacookbook.com,
 useweb3.xyz, 
 buildspace.io, 
 https://useweb3.xyz/
-
-create-markdown\
 https://pandao.github.io/editor.md/en.html
-
-Programming-logic\
 https://circuitverse.org/simulator
-
-documenting\
 https://bookstackapp.com/
-
-learn-about-the-web\
 https://howhttps.works/, 
 https://howdns.works/
-
-game-in-web\
 https://donitz.itch.io/
-
-Deploy Website\
-    https://render.com/, 
-    https://heroku.com/, 
-    https://netlify.com/, 
-    https://vercel.com/, 
-    https://surge.sh/, 
+https://render.com/, 
+https://heroku.com/, 
+https://netlify.com/, 
+https://vercel.com/, 
+https://surge.sh/, 
 https://railway.app/, 
 https://cloudflare.com/
-
-algorithmic-art\
 https://ventrella.com/
-
-Git\
-    https://firstaidgit.io/#/
+https://firstaidgit.io/#/
 https://conventionalcommits.org/en/v1.0.0/
-
-Linux\
-    https://linuxsurvival.com/
-
-Museum\
+https://linuxsurvival.com/
 https://kapwing.com/museum-of-websites
-
-Open-Source\
-    https://novu.co/
-
-Tools\
+https://novu.co/
 https://landingpage.fyi/
-
-Typing\
-    https://zty.pe/
-
-Mobile\
+https://zty.pe/
 https://cordova.apache.org/
-
-Front-end\
-
-create-frontEnd-fast\
 https://editorx.com/
-
-Design-to-webapps\
 https://locofy.ai/
-
-metatags\
 https://metatags.io/
-
-checklist\
 https://frontendchecklist.io/, 
 https://checklist.design/, 
 https://designsystemchecklist.com/
-
-HTML\
 https://htmlcheatsheet.com/, 
 https://w3.org/TR/2011/WD-html5-20110525/content-models.html, 
 https://htmldog.com/
-
-web-background\
 https://webgradients.com/, 
 https://bgjar.com/
-
 https://webdevelopermentor.com/challenges/notifications-menu
-
 https://spline.design/
-
 https://mantine.dev/
-
-react-libraries\
 https://reactlibraries.com/
-
-typescript-hooks\
 https://usehooks-ts.com/
-
-html-canvas\
 https://playcanvas.com/
-
-pwa-example\
-    https://appsco.pe/
-
-Component\
+https://appsco.pe/
 https://uiplaybook.dev/
-
-Website Accessibility\
 https://a11y-101.com/,
 https://developer.mozilla.org/en-US/docs/Web/Accessibility
-
-Back-end\
-API\
 publicapis, 
 https://directus.io/, 
 https://opentdb.com/
-
-test-api\
 https://jsonplaceholder.typicode.com/, 
 https://pie.dev/, 
 https://dummyjson.com/
-
 https://regexr.com/
-
-Other\
-ultimate-resource\
-    https://devresourc.es/,
-    http://designresourc.es/, 
-    https://smalldev.tools/, 
-    https://omatsuri.app/, 
-    https://tiny-helpers.dev/, 
+https://devresourc.es/,
+http://designresourc.es/, 
+https://smalldev.tools/, 
+https://omatsuri.app/, 
+https://tiny-helpers.dev/, 
 https://devtooly.com/
-
-ultimate-learn\
-    https://learnxinyminutes.com/
-
-readme\
-    https://readme.so/id/editor
-
-usage\
-    https://uses.tech/
-
-documentation\
-    http://overapi.com/, 
-    http://devdocs.io/, 
-    http://devhints.io/, 
-    https://ihateregex.io/, 
-    https://explainshell.com/
-
-Learn-by-games\
-    https://www.codingame.com/, 
-    https://www.coregames.com/, 
-    http://codecombat.com/, 
-    http://education.minecraft.net/, 
-    http://tynker.com/, 
-    http://checkio.org/, 
-    https://lab.reaal.me/jsrobot/, 
-    https://checkio.org/, 
-    https://robocode.sourceforge.io/, 
-    https://jsdares.com/, 
-    https://codecombat.com/, 
-    https://flexboxfroggy.com/, 
-    https://flukeout.github.io/, 
-    https://play.elevatorsaga.com/, 
-    https://mystery.knightlab.com/, 
-    https://www.crunchzilla.com/, 
-    https://warriorjs.com/, 
-    https://codewars.com/dashboard
-
-reference\
-    https://mobbin.design/browse/android/apps, 
-    https://stackshare.io/stacks
-
-socialSearchEngine\
-    https://social-searcher.com/
-
-whatsTheDifference\
-    https://thisthat.dev/
-
-screen-size\
-    https://screensizemap.com/
-
-learn-math\
-    https://projecteuler.net/
-
-git\
-    https://learngitbranching.js.org/,
-    https://readme.so/id
-
-git\
+https://learnxinyminutes.com/
+https://readme.so/id/editor
+https://uses.tech/
+http://overapi.com/, 
+http://devdocs.io/, 
+http://devhints.io/, 
+https://ihateregex.io/, 
+https://explainshell.com/
+https://www.codingame.com/, 
+https://www.coregames.com/, 
+http://codecombat.com/, 
+http://education.minecraft.net/, 
+http://tynker.com/, 
+http://checkio.org/, 
+https://lab.reaal.me/jsrobot/, 
+https://checkio.org/, 
+https://robocode.sourceforge.io/, 
+https://jsdares.com/, 
+https://codecombat.com/, 
+https://flexboxfroggy.com/, 
+https://flukeout.github.io/, 
+https://play.elevatorsaga.com/, 
+https://mystery.knightlab.com/, 
+https://www.crunchzilla.com/, 
+https://warriorjs.com/, 
+https://codewars.com/dashboard
+https://mobbin.design/browse/android/apps, 
+https://stackshare.io/stacks
+https://social-searcher.com/
+https://thisthat.dev/
+https://screensizemap.com/
+https://projecteuler.net/
+https://learngitbranching.js.org/,
+https://readme.so/id
 Ohshitgit
-
-Web_tools\
 hiddentools.dev
-
-Understanding-frontend\
 Thisvsthat.dev, 
 webcomponents.org 
 https://uses.tech/
-
-Tentang_shell\
 explainshell.com Documentation
-
-Improve_web\
 caniuse.com, 
 devhints.io, 
 Bundlephobia.com
-
-Tes_website\
 caniuse.com, 
 builtwith.com, 
 pagespeedinsights, 
 https://nibbler.silktide.com/
-
-Inspiration\
 siteinspire, 
 designresourc.es, 
 https://saasframe.io/
-
-Web_sama\
 similarsites.com
-
-Artificial intelligence\
 tensorflow
-
-API\
 publicapis, insomniarest.
-
-Code_snippet\
 Carbon.now.sh, 
 ray.so,
-
-Build_app\
 https://teta.so/, 
 glideapps, 
 bravoatudioapp, 
 draftbit, 
 animaapp, 
 sketch2react
-
-Belajar_code\
 100dayscss, 
 top,
 geeksforgeeks, 
@@ -1221,8 +819,6 @@ frontend mentor,
 codewars, 
 hackr.io, 
 Code4startup.com
-
-Bikin_web\
 graphite.space, 
 Webflow, 
 wix, 
@@ -1230,15 +826,11 @@ wordpress,
 godaddy, 
 weebly, 
 typedream
-
-Trend\
 mobbindesign, 
 Gtrend, 
 audience 
 insight, 
 socialsearcher
-
-SEO_tools\
 semrush, 
 googlesearchconsole, 
 ubersuggest, 
@@ -1252,67 +844,33 @@ notjustanalytics,
 hashtagstacks, 
 all-hashtag, 
 ingramer,
-
-Tools\
 https://smalldev.tools/, 
 https://omatsuri.app/
-
-Responsive-Web\
 https://responsively.app/
-
-Frontend\
 Gitignoreio, 
 frontendchecklistio
-
-Naming\
 codeelf
-
-responsive_design\
 Screensizemap.com,
-
-Website_template\
 nicepage, 
 colorlib, 
 freecss, 
 tooplate, 
 ostemplate
-
-Learn\
 Thisvsthat, 
 webcomponents.org,
-
-HTML\
 Htmldog, 
 htmlcheatsheet.com, 
 htmldom.dev.
 https://w3.org/TR/2011/WD-html5-20110525/content-models.html
-
-NPM\
 bundlephobia,
-
-React_animation_demo\
 https://react-animations.herokuapp.com/
-
-SVG\
 nucleo.app
-
-Websitecheck\
 downforeveryoneorjustme.com
-
-SQL-API\
 https://directus.io/
-
 https://learngitbranching.js.org/
-
 https://readme.so/id
-
-git\
 Ohshitgit
-
-Tes\
 enrollapp, usertesting
-
-Texteditor/ide\
 replit, 
 codepen, 
 w3schooltryit, 
@@ -1321,106 +879,80 @@ playcode,
 jsfiddle, 
 jsbin, 
 vscode.dev
-
-
-Visual Design\
-    https://designsystemsrepo.com/, 
-    https://atlassian.design/, 
-    https://material.io/, 
-    https://primer.style/, 
-    https://spectrum.adobe.com/, 
-    https://microsoft.com/design/fluent/, 
-    https://developer.apple.com/design/human-interface-guidelines/, 
-    https://carbondesignsystem.com/, 
-    https://lightningdesignsystem.com/
-
-Design System\
-    https://m3.material.io/, 
-    https://developer.apple.com/design/human-interface-guidelines/platforms/overview, 
-    https://atlassian.design/, 
-    https://design.gitlab.com/, 
-    https://design.firefox.com/photon/, 
-    https://ux.mailchimp.com/patterns/color, 
-    http://uniform.hudltools.com/, 
-    https://thumbprint.design/, 
-    https://adele.uxpin.com/lonely-planet-rizzo, 
-    https://carbondesignsystem.com/, 
-    https://stackoverflow.design/, 
-    https://audi.com/ci/en/guides/user-interface/introduction.html, 
-    https://bbc.co.uk/gel/guidelines, 
-    https://canvas.hubspot.com/, 
-    https://ant.design/, 
-    https://polaris.shopify.com/, 
-    https://v2.grommet.io/, 
-    https://marvelapp.com/styleguide/overview/introduction, 
-    https://garden.zendesk.com/, 
-    https://lightningdesignsystem.com/, 
-    https://baseweb.design/, 
-    https://asphalt.gojek.io/, 
-    https://orbit.kiwi/, 
-    https://developer.microsoft.com/en-us/fluentui#/, 
-    https://patternfly.org/v4/, 
-    https://design.pega.com/, 
-    https://gold.designsystemau.org/, 
-    https://protocol.mozilla.org/, 
-    https://designsystem.quickbooks.com/, 
-    https://canvas.workday.com/, 
-    https://yelp.com/styleguide, 
-    https://airbnb.design/building-a-visual-language/, 
-    https://spectrum.adobe.com/, 
-    https://liferay.design/lexicon/, 
-    https://microsoft.com/design/fluent/, 
-    https://solid.buzzfeed.com/, 
-    https://mongodb.design/#/ui-design-system/welcome, 
-    https://design.mixpanel.com/, 
-    https://design.bulb.co.uk/, 
-    https://oracle.com/webfolder/ux/middleware/alta/index.html, 
-    https://flexport.com/design, 
-    https://experience.sap.com/fiori-design-web/, 
-    https://evergreen.segment.com/, 
-    https://clarity.design/
-
-System design\
+https://designsystemsrepo.com/, 
+https://atlassian.design/, 
+https://material.io/, 
+https://primer.style/, 
+https://spectrum.adobe.com/, 
+https://microsoft.com/design/fluent/, 
+https://developer.apple.com/design/human-interface-guidelines/, 
+https://carbondesignsystem.com/, 
+https://lightningdesignsystem.com/
+https://m3.material.io/, 
+https://developer.apple.com/design/human-interface-guidelines/platforms/overview, 
+https://atlassian.design/, 
+https://design.gitlab.com/, 
+https://design.firefox.com/photon/, 
+https://ux.mailchimp.com/patterns/color, 
+http://uniform.hudltools.com/, 
+https://thumbprint.design/, 
+https://adele.uxpin.com/lonely-planet-rizzo, 
+https://carbondesignsystem.com/, 
+https://stackoverflow.design/, 
+https://audi.com/ci/en/guides/user-interface/introduction.html, 
+https://bbc.co.uk/gel/guidelines, 
+https://canvas.hubspot.com/, 
+https://ant.design/, 
+https://polaris.shopify.com/, 
+https://v2.grommet.io/, 
+https://marvelapp.com/styleguide/overview/introduction, 
+https://garden.zendesk.com/, 
+https://lightningdesignsystem.com/, 
+https://baseweb.design/, 
+https://asphalt.gojek.io/, 
+https://orbit.kiwi/, 
+https://developer.microsoft.com/en-us/fluentui#/, 
+https://patternfly.org/v4/, 
+https://design.pega.com/, 
+https://gold.designsystemau.org/, 
+https://protocol.mozilla.org/, 
+https://designsystem.quickbooks.com/, 
+https://canvas.workday.com/, 
+https://yelp.com/styleguide, 
+https://airbnb.design/building-a-visual-language/, 
+https://spectrum.adobe.com/, 
+https://liferay.design/lexicon/, 
+https://microsoft.com/design/fluent/, 
+https://solid.buzzfeed.com/, 
+https://mongodb.design/#/ui-design-system/welcome, 
+https://design.mixpanel.com/, 
+https://design.bulb.co.uk/, 
+https://oracle.com/webfolder/ux/middleware/alta/index.html, 
+https://flexport.com/design, 
+https://experience.sap.com/fiori-design-web/, 
+https://evergreen.segment.com/, 
+https://clarity.design/
 https://systemdesign.one/
-
-design system\
 https://fluent2.microsoft.design/, 
 https://carbondesignsystem.com/, 
 https://developer.apple.com/design/, 
 https://m3.material.io/, 
 https://beercss.com/
-
-art visual style\
-    synthwave, 
-    vaporwave, 
-    trippy,
-    Spam glitch effect
-
-Principles\
-    https://principles.design/
-
-Logo Generator\
-    https://logology.co/, 
-    https://tailorbrands.com/logo-maker, 
-    https://artify.co/, 
-    https://shopify.com/tools/logo-maker
-
-pattern generator\
+synthwave, 
+vaporwave, 
+trippy,
+Spam glitch effect
+https://principles.design/
+https://logology.co/, 
+https://tailorbrands.com/logo-maker, 
+https://artify.co/, 
+https://shopify.com/tools/logo-maker
 https://haikei.app/
 https://tabbied.com/
 https://www.magicpattern.design/
 https://patternkid.com/
-
-Illustration 2D\
-    https://sketchvalley.com/
-
-Illustration 3D\
-    https://shapefest.com/
-
-3D website development
-
-UI/UX\
-UI/UX\
+https://sketchvalley.com/
+https://shapefest.com/
 app.uxcel.com, 
 uizard, 
 Proto.io, 
@@ -1434,37 +966,19 @@ https://uxtools.co/,
 https://uplabs.com/, 
 https://userpersona.design/,
 https://penpot.app/
-
 https://material.io/
-
 https://geometrize.co.uk/
-
 https://stellarium-web.org/
-
 https://solarsystemscope.com/
-
 https://dailyui.co/
-
 https://advntr.co/
-
 https://lawsofux.com
-
 https://useronboard.com/onboarding-ux-patterns/
-
-Pattern\
 http://uipatterns.io/, 
 https://uxchecklist.github.io/
-
 https://uxtools.co/
-
-assets\
-Skeletal Animation\
-    https://docs.egret.com/dragonbones/en/
-
-Cool\
+https://docs.egret.com/dragonbones/en/
 Trippy edit
-
-Warna\
 khroma, 
 mycolor.space, 
 colorhuntco, 
@@ -1477,20 +991,11 @@ contrastchecker,
 uicolors, 
 colorscafe, 
 colorsevadesign,
-
-Gradient\
 meshgradient, 
 cssgradient.io,
-
-palet-warna\
 https://happyhues.co/, 
 https://colors.dopely.top/
-
-
-latest information website provider\
 https://gpuopen.com/
-
-3D\
 spline.design, 
 Toyfaces3d, 
 avatarz, 
@@ -1509,10 +1014,7 @@ artify 3d lettering,
 morquastore 3d, 
 glaze 3d icon, 
 iconscout3d
-
 https://3dicons.co/
-
-3d\
 https://dora.run/, 
 https://desmos.com/3d, 
 https://aframe.io/, 
@@ -1521,155 +1023,91 @@ https://graphtoy.com/,
 http://dev.thi.ng/gradients/, 
 https://iquilezles.org/, 
 http://dev.thi.ng/gradients/
-
-3D\
-    https://spline.design/, 
-    https://p3d.in/, 
-    https://sketchfab.com/, 
-    http://cannonjs.org/, 
-    https://google.github.io/draco/
-
-Shading language\
+https://spline.design/, 
+https://p3d.in/, 
+https://sketchfab.com/, 
+http://cannonjs.org/, 
+https://google.github.io/draco/
 GLSL, HLSL
-
-IoT\
 https://folk.computer/
-
-Forum\
 https://darkdove.proboards.com/
-
-guide documentation\
-    https://thebookofshaders.com/
-
-
-Profile\
-    https://pddikti.kemdikbud.go.id/
-
-Survey\
-    https://info.populix.co/en/poplite-en/
-
-Referencing     include journal and article\
-    https://mendeley.com/,
-    https://connectedpapers.com/, 
-    https://elephind.com/, 
-    https://citationsy.com/, 
-    https://oai.core.ac.uk/, 
-    https://moraref.kemenag.go.id/, 
-    https://sciencedirect.com/, 
-    https://scopus.com/sources, 
-    http://isjd.pdii.lipi.go.id/, 
-    https://archive.org/details/journals, 
-    https://scholar.google.com/, 
-    https://garuda.kemdikbud.go.id/, 
-    https://sinta.kemdikbud.go.id/journals, 
-    https://moraref.kemenag.go.id/archives/journal, 
-    https://iosrjournals.org/, 
-    https://doaj.org/, 
-    https://jstor.org/, 
-    https://jstor.org/site/artstor/, 
-    https://eric.ed.gov/, 
-    https://archives.imeche.org/, 
-    https://pubmed.ncbi.nlm.nih.gov/, 
-    https://inspirehep.net/, 
-    https://ieeexplore.ieee.org/Xplore/home.jsp, 
-    https://scielo.org/, 
-    https://ssrn.com/, 
-    https://www.ebsco.com/
-
-Buku\
-    https://e-resources.perpusnas.go.id/, 
-    https://pdfdrive.com/
-
-Bibliography\
-    https://harzing.com/resources/publish-or-perish, 
-    https://mendeley.com/reference-management/reference-manager
-
-Paraphrase\
-    https://shortlyai.com/, 
-    https://rytr.me/, 
-    https://speedwrite.com/, 
-    https://hyperwriteai.com/, 
-    https://wordtune.com/
-
-International Phonetic Alphabet Translator\
-    https://phonetizer.com/ui, 
-    https://tophonetics.com/
-
-Text to Handwriting\
-    https://jnckmedia.com/nulis/
-
-
-Resume/cv\
+https://thebookofshaders.com/
+https://pddikti.kemdikbud.go.id/
+https://info.populix.co/en/poplite-en/
+https://mendeley.com/,
+https://connectedpapers.com/, 
+https://elephind.com/, 
+https://citationsy.com/, 
+https://oai.core.ac.uk/, 
+https://moraref.kemenag.go.id/, 
+https://sciencedirect.com/, 
+https://scopus.com/sources, 
+http://isjd.pdii.lipi.go.id/, 
+https://archive.org/details/journals, 
+https://scholar.google.com/, 
+https://garuda.kemdikbud.go.id/, 
+https://sinta.kemdikbud.go.id/journals, 
+https://moraref.kemenag.go.id/archives/journal, 
+https://iosrjournals.org/, 
+https://doaj.org/, 
+https://jstor.org/, 
+https://jstor.org/site/artstor/, 
+https://eric.ed.gov/, 
+https://archives.imeche.org/, 
+https://pubmed.ncbi.nlm.nih.gov/, 
+https://inspirehep.net/, 
+https://ieeexplore.ieee.org/Xplore/home.jsp, 
+https://scielo.org/, 
+https://ssrn.com/, 
+https://www.ebsco.com/
+https://e-resources.perpusnas.go.id/, 
+https://pdfdrive.com/
+https://harzing.com/resources/publish-or-perish, 
+https://mendeley.com/reference-management/reference-manager
+https://shortlyai.com/, 
+https://rytr.me/, 
+https://speedwrite.com/, 
+https://hyperwriteai.com/, 
+https://wordtune.com/
+https://phonetizer.com/ui, 
+https://tophonetics.com/
+https://jnckmedia.com/nulis/
 https://resume.io/app, 
 https://aksel.co.id, 
 https://standardresume.co/
-
-Interview\
-    https://30secondsofinterviews.org/, 
-    https://soulsearch.files.wordpress.com/2007/05/64interviewquestions1.pdf
-
-Oversea\
-    https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0
-
----
-
-title     category
-	group
-		resource
-
-CSS and Javascript
-C++
-Database and Server
-Data Structure and Algorithm
-Audio, Image, and Video
-Visual and Interactivity 
-Graphical Third Dimensional
-Tools
-
----
-
-
-cover letter & cv
+https://30secondsofinterviews.org/, 
+https://soulsearch.files.wordpress.com/2007/05/64interviewquestions1.pdf
+https://docs.google.com/spreadsheets/d/1n3zTI0Xxt0u-E2ujJw9jPr74jWa9ucSAKtilTHC2Sf0/edit#gid=0
 kickresume
 zety
 resumeworded
 cakeresume
 canva
 resumeio
-
-job offers
 jobstreet
 kalibrr id
 indeed
 linkedin
 glints
 techinasia
-
-wfh job offers
 remotive
 flexjobs
 epicareer
 justremote
 dailyremote
 hired
-
-freelance job
 sribu
 upwork
 guru
 projects co id
 fastwork id
 fiverr
-
-portfolio
 journaportolio
 carbonmade
 dribble
 coroflot
 behance net
 clippings
-
-portfolio
 fakeclient
 seoreviewttools
 projectpro
@@ -1677,92 +1115,49 @@ fakeclient
 uxchallenge
 Kaggle
 goodbrief io
-
-skills certificate
 skillacademy
 facebookblueprint
 futurelearn
 coursera org
 alison
 academy hubspot
-
-language
 langaroo
 duolingo
 vocabulary
 5minuteenglish
 englishpage
-
-mock interview
 skillana
 pramp
 interviewing
 preplaced in
 interviewbuddy in
 exponent
-
-interview tips
 mockquestions
 bestjobinterview
 edureka co
 biginterview
 prepfully
-
 software engineering
-
 Netflix TechBlog
-
 Uber Blog
-
 Cloudflare Blog
-
 Engineering at Meta
-
 LinkedIn Engineering
-
 Discord Blog
-
 AWS Architecture
-
 Slack Engineering
-
 Stripe Blog
-
-HHHHHHHHHHHHHHHHHHHHHHH
-
-website development
-
-HHHHHHHHHHHHHHHHHHHHHHH
-
 [freedns.com/](http://freedns.com/) - A directory of known free dynamic DNS services
-
 [freedns.afraid.org/](http://freedns.afraid.org/) - Free DNS Hosting, Dynamic DNS Hosting, Static DNS Hosting, subdomain and domain hosting.
-
 [changeip.com/dns/](http://changeip.com/dns/) - Free Dynamic DNS Hosting
-
 [noip.com/](http://noip.com/) - Create an easy to remember hostname and never lose your connection again.
-
-HHHHHHHHHHHHHHHHHHHHHH server
-
 [caddyserver.com/](http://caddyserver.com/) - makes your sites more secure, more reliable, and more scalable than any other solution
-
 crackmes.one
-
 [Kodepos.nomor.net](http://kodepos.nomor.net/)
-
 [pocketbase.io](https://pocketbase.io/) - Open Source backend in 1 file
-
 [fly.io](https://fly.io/) - Scalable Full Stack Without the Cortisol
-
 [ml5js](https://ml5js.org/) - Friendly Machine Learning for the Web
-
 https://fmhy.net/
-
-security
-
 https://www.hackerone.com/
-
-article
-
 https://paulgraham.com/articles.html
 
